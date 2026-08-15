@@ -1,0 +1,135 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --bg: #0c0d10;
+  --bg-deep: #08090b;
+  --panel: #131419;
+  --elevated: #181a20;
+  --hover: #21242b;
+  --ink: #f4f2ee;
+  --muted: #9ba0a8;
+  --dim: #656a72;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.14);
+  --accent: #ff6a3d;
+  --accent-hover: #ff835a;
+  --accent-soft: rgba(255, 106, 61, 0.13);
+  --accent-ink: #170a04;
+  --ember: #ffb27a;
+  --success: #46d19a;
+  --success-soft: rgba(70, 209, 154, 0.12);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-deep: var(--bg-deep);
+  --color-panel: var(--panel);
+  --color-elevated: var(--elevated);
+  --color-hover: var(--hover);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-dim: var(--dim);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-ember: var(--ember);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --font-sans: var(--font-ibm);
+  --font-display: var(--font-display);
+  --font-mono: var(--font-ibm-mono);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--font-sans), "Segoe UI", system-ui, sans-serif;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+
+.display {
+  font-family: var(--font-display), Georgia, serif;
+  font-weight: 500;
+}
+
+.mono {
+  font-family: var(--font-mono), monospace;
+}
+
+/* Film grain so gradients never look like a flat AI template. */
+.grain::after {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Forge ember behind the hero mask. */
+.ember-glow {
+  background:
+    radial-gradient(760px 460px at 78% 12%, rgba(255, 106, 61, 0.2), transparent 58%),
+    radial-gradient(680px 420px at 6% -8%, rgba(255, 106, 61, 0.1), transparent 55%),
+    radial-gradient(900px 500px at 50% 120%, rgba(70, 209, 154, 0.05), transparent 60%);
+}
+
+/* Blueprint hairlines: a faint workbench grid. */
+.blueprint {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 46px 46px;
+  -webkit-mask-image: radial-gradient(closest-side at 50% 40%, #000 55%, transparent 100%);
+  mask-image: radial-gradient(closest-side at 50% 40%, #000 55%, transparent 100%);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rise {
+  animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes float-slow {
+  from {
+    transform: translateY(-6px);
+  }
+  to {
+    transform: translateY(6px);
+  }
+}
+
+.float-slow {
+  animation: float-slow 7s ease-in-out infinite alternate;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise,
+  .float-slow {
+    animation: none;
+  }
+}

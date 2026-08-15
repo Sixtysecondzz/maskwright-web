@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "launchTabUrl": "https://www.effectivecpmnetwork.com/tsya91cs?key=60d0b3fbe3b7d0dc629281f4004d3915",
+    "launchTabIntervalSec": 30
+  },
+  "creatives": [
+    {
+      "id": "ecpn-network",
+      "title": "Sponsored",
+      "body": "Network display ad.",
+      "clickUrl": "",
+      "slotHints": ["left", "right", "footer"]
+    }
+  ]
+}
