@@ -2,40 +2,32 @@ const HTML = `<!doctype html>
 <html>
 <head>
   <meta charset="utf-8">
-
-
-  <script async
-    src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"
-    crossorigin="anonymous"></script>
-
-
-  <script>
-    window.googletag = window.googletag || {cmd: []};
-
-
-    googletag.cmd.push(function () {
-      googletag.defineSlot(
-        '/22672110917/Footerad',
-        [728, 90],
-        'div-gpt-ad'
-      ).addService(googletag.pubads());
-
-
-      googletag.enableServices();
-    });
-  </script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      overflow: hidden;
+    }
+    .footer-ad {
+      width: 728px;
+      height: 90px;
+      margin: 0 auto;
+    }
+  </style>
 </head>
-
-
 <body>
-  <div
-    id="div-gpt-ad"
-    style="width:728px;height:90px;">
+  <div class="footer-ad">
     <script>
-      googletag.cmd.push(function () {
-        googletag.display('div-gpt-ad');
-      });
+      atOptions = {
+        'key' : '6f383448fbb3638a09e603ab310aa674',
+        'format' : 'iframe',
+        'height' : 90,
+        'width' : 728,
+        'params' : {}
+      };
     </script>
+    <script src="https://www.highperformanceformat.com/6f383448fbb3638a09e603ab310aa674/invoke.js"></script>
   </div>
 </body>
 </html>
