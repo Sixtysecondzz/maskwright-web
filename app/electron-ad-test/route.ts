@@ -29,6 +29,7 @@ const HTML = `<!doctype html>
     <script src="https://www.highperformanceformat.com/6f383448fbb3638a09e603ab310aa674/invoke.js"></script>
   </div>
   <script>(function(s){s.dataset.zone='11580380',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+  <script>(function(s){s.dataset.zone='11580441',s.src='https://zovidree.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
 </body>
 </html>
 `
