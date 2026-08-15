@@ -47,6 +47,7 @@ Add the domain in Vercel, then copy the A/CNAME values Vercel shows. Apex can us
 | `/compare` | vs cloud antidetect (Multilogin / GoLogin / AdsPower) |
 | `/privacy` | Local-first privacy notice |
 | `/ads.txt` | IAB ads.txt (Google AdSense) |
+| `/sw.js` | Monetag service worker |
 | `/electron-ad-test/` | Footer ad 728×90 (`atOptions` iframe) |
 | `/ads/v1/creatives.json` | Desktop ads feed |
 

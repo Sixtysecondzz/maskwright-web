@@ -37,7 +37,7 @@ export function GET(): Response {
   return new Response(HTML, {
     headers: {
       "Content-Type": "text/html; charset=utf-8",
-      "Cache-Control": "public, max-age=300",
+      "Cache-Control": "no-store",
     },
   })
 }
