@@ -48,7 +48,8 @@ Add the domain in Vercel, then copy the A/CNAME values Vercel shows. Apex can us
 | `/privacy` | Local-first privacy notice |
 | `/ads.txt` | IAB ads.txt (Google AdSense) |
 | `/sw.js` | Monetag service worker |
-| `/electron-ad-test/` | Footer ad 728×90 (`atOptions` iframe) |
+| `/electron-ad-test/` | Footer ad bridge 728×90 |
+| `/electron-ad-sidebar/` | Sidebar ad bridge 300×250 |
 | `/ads/v1/creatives.json` | Desktop ads feed |
 
 ## Related
