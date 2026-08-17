@@ -1,0 +1,1731 @@
+{
+  "plan_start": "2026-05-16",
+  "plan_end": "2026-08-16",
+  "article_count": 246,
+  "active_days": 84,
+  "note": "Dates are the site publishing plan from 2026-05-16 through 2026-08-16. They are not a fake organic history.",
+  "items": [
+    {
+      "date": "2026-05-16",
+      "slug": "what-is-an-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-16",
+      "slug": "what-is-browser-fingerprinting",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-17",
+      "slug": "browser-automation-vs-a-real-profile",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-17",
+      "slug": "proxies-in-an-antidetect-browser",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-18",
+      "slug": "ecommerce-accounts-on-one-pc",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-18",
+      "slug": "multiple-accounts-on-one-pc",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-18",
+      "slug": "what-is-web-scraping",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-19",
+      "slug": "authorized-accounts-only",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-19",
+      "slug": "cloning-a-profile-safely",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-19",
+      "slug": "what-leaves-this-machine",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": true
+    },
+    {
+      "date": "2026-05-20",
+      "slug": "after-third-party-cookies",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-20",
+      "slug": "cookie-jars-are-not-optional",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-20",
+      "slug": "discord-brand-and-community-rooms",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-20",
+      "slug": "facebook-ads-account-limits-are-business-facts",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-21",
+      "slug": "audio-context-fingerprint",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-21",
+      "slug": "battery-and-media-device-ids",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-21",
+      "slug": "facebook-and-personal-profiles",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-22",
+      "slug": "browserscan-walkthrough",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-22",
+      "slug": "facebook-business-manager-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-22",
+      "slug": "facebook-page-roles-not-cookie-dumps",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-23",
+      "slug": "canvas-fingerprinting-on-windows",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-23",
+      "slug": "facebook-pixels-stay-in-brand-rooms",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-25",
+      "slug": "antidetect-browser-for-agencies",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-25",
+      "slug": "antidetect-browser-for-windows",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-25",
+      "slug": "client-hints-and-user-agent-data",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "antidetect-browser-vs-chrome",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "client-rects-and-subpixels",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "first-profile-checklist",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "ads-in-the-dashboard-not-in-your-tabs",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "antidetect-browser-vs-incognito",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "gmail-and-google-account-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "household-ip-versus-profile-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-28",
+      "slug": "audit-trails-you-cannot-have-without-a-server",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-28",
+      "slug": "creepjs-consistency-checks",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-28",
+      "slug": "cross-browser-fingerprinting",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-29",
+      "slug": "antidetect-browser-vs-tor",
+      "cluster": "antidetect-browsers",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-29",
+      "slug": "bring-your-own-proxy-ethic",
+      "cluster": "proxies",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-29",
+      "slug": "how-accounts-get-linked",
+      "cluster": "social-media",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "antidetect-browser-vs-vpn",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "carrier-grade-nat-and-shared-exits",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "backing-up-the-store",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "digital-footprint-versus-browser-fingerprint",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-01",
+      "slug": "browser-security-versus-antidetect",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-01",
+      "slug": "instagram-and-shared-device-signals",
+      "cluster": "social-media",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-01",
+      "slug": "instagram-business-accounts-on-a-local-profile",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "antidetect-browser-without-an-account",
+      "cluster": "antidetect-browsers",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "checking-exit-ip-before-launch",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "fingerprint-spoofing-versus-tracking-prevention",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "antidetect-browsers-for-affiliate-marketing",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "cloud-browser-risk",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "dns-leaks-on-windows",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "fingerprint-stability-across-launches",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "free-proxy-lists-are-a-trap",
+      "cluster": "proxies",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "instagram-content-research-without-mixing-jars",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "instagram-cookies-and-session-hygiene",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "antidetect-browsers-for-dropshipping",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "cloud-phones-versus-local-windows",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "fingerprint-surfaces-we-actually-cover",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "contractor-access-done-right",
+      "cluster": "privacy",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "font-enumeration-on-windows",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "geo-matching-proxy-to-fingerprint",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "instagram-meta-business-suite-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "antidetect-browsers-for-media-buying",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "antidetect-browsers-for-seo",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "geolocation-api-versus-ip-geo",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "data-residency-is-your-disk",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "how-to-evaluate-a-proxy-provider",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "instagram-scheduling-without-unofficial-helpers",
+      "cluster": "social-media",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "antidetect-browsers-for-smm",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "disk-use-and-user-data",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "how-to-test-a-residential-exit",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "linkedin-ads-manager-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-11",
+      "slug": "do-not-email-a-user-data-folder",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-11",
+      "slug": "gpu-renderer-must-match-the-ua",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-11",
+      "slug": "hardware-concurrency-and-cores",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-12",
+      "slug": "antidetect-browsers-for-web-scraping",
+      "cluster": "antidetect-browsers",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-12",
+      "slug": "how-to-use-a-proxy-server",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-12",
+      "slug": "linkedin-company-pages-on-one-pc",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-13",
+      "slug": "antidetect-profile-caps-vs-local-limits",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-13",
+      "slug": "how-websites-detect-proxies",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-15",
+      "slug": "downloads-folder-discipline",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-15",
+      "slug": "how-we-read-browserleaks",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-15",
+      "slug": "linkedin-recruiter-workflows",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "export-and-import-cookies",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "https-proxy-versus-http-forwarder",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "linkedin-research-on-public-pages",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "best-antidetect-browsers-local-vs-cloud",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "extensions-inside-a-profile",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "iphey-scores-are-not-verdicts",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "ja3-ja4-tls-fingerprints",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "anti-bot-pages-and-official-channels",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "browser-as-a-service-risks",
+      "cluster": "antidetect-browsers",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "linkedin-sales-navigator-stays-licensed",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "agent-browsers-versus-operator-profiles",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "camoufox-and-firefox-antidetect-notes",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "ipv6-leaks-we-still-see",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "free-app-owned-ad-slots",
+      "cluster": "privacy",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "mac-address-is-not-a-browser-fingerprint",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "ai-agents-in-a-browser-they-do-not-own",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "captchas-are-a-stop-sign",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "automation-ethics-we-follow",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "isp-proxies-on-a-local-profile",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "multiple-accounts-and-platform-terms",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "chrome-profiles-vs-antidetect",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "geo-lookups-leave-the-machine",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "macos-fingerprint-on-a-windows-host",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "affiliate-dashboard-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "facebook-ads-library-research-locally",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "isp-versus-residential-proxies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "platform-roles-versus-extra-logins",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "batch-launch-is-not-a-farm",
+      "cluster": "automation",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "chromium-core-in-an-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "mobile-ua-on-a-desktop-profile",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "affiliate-extensions-we-refuse",
+      "cluster": "ecommerce",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "if-a-vendor-is-breached",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "instagram-public-research-versus-scrape",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "mobile-asn-on-a-desktop-browser",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "reddit-ads-manager-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "browserless-and-browserbase-are-not-profiles",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "custom-chromium-versus-system-chrome",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "navigator-webdriver-and-automation-flags",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "affiliate-research-rooms",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "importing-local-storage",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "linkedin-we-will-not-scrape-inboxes",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "captcha-solvers-are-not-research",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "firefox-containers-vs-antidetect",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "mobile-proxy-versus-cloud-phone",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "reddit-api-versus-headed-browsing",
+      "cluster": "social-media",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-02",
+      "slug": "indexeddb-is-a-third-jar",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-02",
+      "slug": "new-fingerprint-same-folder",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-02",
+      "slug": "official-apis-versus-headed-collection",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "affiliate-self-clicks-are-fraud",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "mobile-versus-residential",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "reddit-moderation-accounts",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "debugging-ports-and-operator-risk",
+      "cluster": "automation",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "firefox-vs-chromium-antidetect-cores",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "local-storage-is-a-second-cookie",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "pixelscan-consistency",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "airbnb-listing-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "personal-data-and-collection",
+      "cluster": "scraping",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "reddit-sessions-on-a-local-profile",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "free-antidetect-browser-what-free-means",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "headed-vs-headless-detection",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "proxy-auth-formats",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "amazon-seller-central-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "offline-operator-days",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "playwright-for-pages-you-own",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "screen-resolution-coherence",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-09",
+      "slug": "keyboard-timing-packs-are-theater",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-09",
+      "slug": "proxy-plus-cookies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-09",
+      "slug": "telegram-brand-channels-on-a-local-profile",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "ghost-browser-vs-antidetect",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "pre-made-cookies-and-cookie-robots",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "seed-versus-random-fingerprints",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "antidetect-browsers-for-amazon",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "proxies-for-web-scraping",
+      "cluster": "scraping",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "linkedin-and-automation-tools-we-refuse",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "residential-proxies-we-do-not-sell",
+      "cluster": "proxies",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "tiktok-ads-manager-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "how-antidetect-browsers-work",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "profile-encryption-at-rest",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "testing-a-fingerprint-before-work",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "clone-a-store-stencil-not-a-session",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "public-pages-slowly",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "residential-proxy-ethics",
+      "cluster": "proxies",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "tiktok-creator-accounts-you-own",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "how-to-choose-an-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "local-scripts-outside-work-rooms",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "timezone-language-and-proxy-country",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "customer-data-never-in-research",
+      "cluster": "ecommerce",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "rate-limits-are-not-a-puzzle",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "sharing-profiles-is-sharing-cookies",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-18",
+      "slug": "residential-versus-datacenter-proxies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-18",
+      "slug": "tiktok-device-checks-we-can-see",
+      "cluster": "social-media",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "maskwright-is-not-an-agent-runtime",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "mobile-antidetect-is-not-a-desktop-profile",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-20",
+      "slug": "robots-txt-and-terms-come-first",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-20",
+      "slug": "unsigned-windows-builds-and-smartscreen",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-20",
+      "slug": "user-agent-is-not-enough",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "ebay-seller-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "residential-versus-vpn",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "tiktok-pixel-and-cookie-bleed",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "mcp-is-not-a-local-profile",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "most-secure-browsers-are-not-antidetect",
+      "cluster": "antidetect-browsers",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "update-channel-habits",
+      "cluster": "privacy",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "webgl-renderer-strings",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "etsy-shop-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "scraping-behind-login-is-not-research",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "tiktok-web-versus-the-app",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "multi-account-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "official-apis-versus-ui-bots",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "rotating-proxies-break-logins",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "webgpu-and-new-fingerprint-surfaces",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "what-is-a-cloud-browser",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "marketplace-one-identity-rules",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "scraping-ethics-we-follow",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "two-factor-stays-in-the-real-world",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "multi-session-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "playwright-and-real-browser-profiles",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "shared-residential-subnets",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "payment-and-tax-tabs-stay-in-entity",
+      "cluster": "ecommerce",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "storing-research-files",
+      "cluster": "scraping",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "webrtc-ip-leaks",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "what-is-a-cloud-phone",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "playwright-vs-puppeteer-vs-selenium",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "socks5-versus-http-proxies",
+      "cluster": "proxies",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "x-ads-manager-isolation",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "proxy-browser-vs-antidetect",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "webrtc-modes-disabled-proxy-public-real",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "what-is-cookie-based-session-management",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "paypal-business-versus-personal-rooms",
+      "cluster": "ecommerce",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "user-agent-honesty-in-research",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "puppeteer-stealth-is-not-a-profile",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "sticky-sessions-and-why-they-matter",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "x-api-versus-unofficial-helpers",
+      "cluster": "social-media",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "vendor-lock-in-in-antidetect-tools",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "what-is-a-dns-leak",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "who-holds-the-cookie-jar",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-05",
+      "slug": "product-research-in-a-cold-room",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-05",
+      "slug": "we-will-not-hide-a-scraper",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-05",
+      "slug": "what-are-mobile-proxies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-05",
+      "slug": "x-brand-accounts-on-a-local-profile",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-06",
+      "slug": "selenium-webdriver-flags",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-06",
+      "slug": "virtual-machine-vs-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-06",
+      "slug": "what-is-an-ip-leak",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-07",
+      "slug": "shipping-extensions-per-store",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-07",
+      "slug": "web-scraping-tools-criteria",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-07",
+      "slug": "why-we-do-not-sync-profiles",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-08",
+      "slug": "what-are-proxies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-08",
+      "slug": "youtube-and-google-account-clusters",
+      "cluster": "social-media",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-09",
+      "slug": "social-media-automation-tools-we-refuse",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-09",
+      "slug": "when-you-do-not-need-an-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-10",
+      "slug": "web-scraping-with-python-overview",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-10",
+      "slug": "what-is-device-fingerprinting",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-10",
+      "slug": "why-we-dropped-bandwidth-sharing",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-11",
+      "slug": "shopify-multi-store-isolation",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-11",
+      "slug": "what-are-residential-proxies",
+      "cluster": "proxies",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-11",
+      "slug": "youtube-brand-accounts",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "why-vpn-alone-fails-fingerprint-tests",
+      "cluster": "browser-fingerprinting",
+      "author_desk": "technical",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "why-we-built-a-local-antidetect-browser",
+      "cluster": "antidetect-browsers",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "why-we-refuse-team-seats",
+      "cluster": "privacy",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "window-sync-and-rpa-we-will-not-ship",
+      "cluster": "automation",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "supplier-portals-vs-retail-admin",
+      "cluster": "ecommerce",
+      "author_desk": "growth",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "what-is-a-scraping-browser",
+      "cluster": "scraping",
+      "author_desk": "automation",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "what-we-refuse-to-log-about-proxies",
+      "cluster": "proxies",
+      "author_desk": "privacy",
+      "pillar": false
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "youtube-studio-on-a-local-profile",
+      "cluster": "social-media",
+      "author_desk": "growth",
+      "pillar": false
+    }
+  ]
+}

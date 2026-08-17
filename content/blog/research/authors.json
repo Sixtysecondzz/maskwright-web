@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Avery Chen",
+    "desk": "technical",
+    "bio": "Writes the fingerprint and Chromium notes for the MaskWright technical desk."
+  },
+  {
+    "name": "Sam Okonkwo",
+    "desk": "privacy/proxies",
+    "bio": "Writes the proxy, exit, and leak notes for operators who bring their own line."
+  },
+  {
+    "name": "Riley Park",
+    "desk": "antidetect/profiles",
+    "bio": "Writes the antidetect and profile-isolation notes for local Windows rooms."
+  },
+  {
+    "name": "Jordan Hale",
+    "desk": "privacy/local",
+    "bio": "Writes the local-architecture notes on what stays on disk and what leaves the machine."
+  },
+  {
+    "name": "Priya Nair",
+    "desk": "growth",
+    "bio": "Writes the authorized store, ads, and brand-room notes for one-PC operator desks."
+  },
+  {
+    "name": "Morgan Ellis",
+    "desk": "automation",
+    "bio": "Writes the automation, API, and research-collection notes, including the work this bench refuses."
+  }
+]

@@ -1,0 +1,247 @@
+slug,title,primary_keyword,intent,cluster,class,author_desk,pillar,notes
+what-is-browser-fingerprinting,What browser fingerprinting actually measures,what is browser fingerprinting,informational,browser-fingerprinting,A,technical,true,"They target the definition query. Write a mechanism page, not a tool list."
+what-is-device-fingerprinting,What device fingerprinting includes beyond the browser,what is device fingerprinting,informational,browser-fingerprinting,B,technical,false,GoLogin pages are from 2023. Separate device from browser fingerprint without recycling their outline.
+canvas-fingerprinting-on-windows,Canvas fingerprinting on a real Windows box,canvas fingerprinting,informational,browser-fingerprinting,A,technical,false,Windows ClearType and stable noise. Not a pass-the-lab guide.
+webgl-renderer-strings,WebGL vendor and renderer strings,webgl fingerprint,informational,browser-fingerprinting,A,technical,false,2023 combo page is 641 words. Keep WebGL separate from canvas.
+webgpu-and-new-fingerprint-surfaces,WebGPU as a new fingerprint surface,webgpu fingerprint,informational,browser-fingerprinting,C,technical,false,Zero crawl hits for WebGPU. Product implements navigator.gpu adapter info.
+webrtc-ip-leaks,What a WebRTC leak actually is,webrtc leak,informational,browser-fingerprinting,A,technical,false,Multilogin prevent page is thin. Explain STUN and local candidates.
+webrtc-modes-disabled-proxy-public-real,"WebRTC modes: disabled, proxy, public, real",webrtc ip handling policy,how-to,browser-fingerprinting,C,technical,false,"Product modes: disabled, proxy, public, real. They explain leaks, not mode tradeoffs."
+audio-context-fingerprint,AudioContext fingerprints and why noise is seeded,audio fingerprinting,informational,browser-fingerprinting,C,technical,false,No OfflineAudioContext page in either crawl. Product seeds audio noise.
+font-enumeration-on-windows,Font enumeration leaks on Windows,font fingerprinting,informational,browser-fingerprinting,C,technical,false,No font-enumeration article in the crawl. Windows DirectWrite and allowlists.
+client-rects-and-subpixels,Client rects and subpixel fingerprints,getclientrects fingerprint,informational,browser-fingerprinting,C,technical,false,No client-rects coverage. Product adds stable noise on getBoundingClientRect.
+user-agent-is-not-enough,Why a user agent string is not a fingerprint,user agent spoofing,informational,browser-fingerprinting,A,technical,false,"UA alone is not a profile. Pair with Client Hints in a sibling, not this page."
+client-hints-and-user-agent-data,Client Hints and userAgentData,client hints fingerprint,informational,browser-fingerprinting,C,technical,false,Zero Client Hints / UA-CH articles in the crawl. Product sets userAgentData.
+hardware-concurrency-and-cores,Hardware concurrency has to match the rest of the box,hardwareconcurrency fingerprint,informational,browser-fingerprinting,C,technical,false,No hardwareConcurrency page. Coherence with GPU and deviceMemory.
+screen-resolution-coherence,Screen metrics that have to stay coherent,screen fingerprint,informational,browser-fingerprinting,C,technical,false,"No dedicated screen-coherence page. Avail size, color depth, pixel ratio."
+timezone-language-and-proxy-country,Timezone and language have to follow the exit,timezone proxy mismatch,how-to,browser-fingerprinting,A,technical,false,"Their title is ban-framed. Ours is locale, language, and exit geo alignment."
+battery-and-media-device-ids,Battery status and media device IDs,battery api fingerprint,informational,browser-fingerprinting,C,technical,false,No battery or media-deviceId article. Product implements both.
+seed-versus-random-fingerprints,Seeded fingerprints versus a new random draw,fingerprint seed,informational,browser-fingerprinting,C,technical,false,They randomize for labs. We explain a stable seed versus a new identity.
+fingerprint-stability-across-launches,A fingerprint that stays put across launches,stable browser fingerprint,how-to,browser-fingerprinting,C,technical,false,"Stability across launches is not a crawl topic. Same folder, same seed."
+how-we-read-browserleaks,How we read BrowserLeaks,browserleaks,commercial,browser-fingerprinting,B,technical,false,"Poor intent: pass guides. We write how to read the page, not how to trophy it."
+creepjs-consistency-checks,What CreepJS consistency checks are telling you,creepjs,commercial,browser-fingerprinting,B,technical,false,Pass-CreepJS intent. We cover consistency checks only.
+pixelscan-consistency,Pixelscan consistency is not a verdict,pixelscan,commercial,browser-fingerprinting,B,technical,false,"Pass-Pixelscan intent. Interpretation, not a walkthrough to green."
+iphey-scores-are-not-verdicts,IPhey scores are not verdicts,iphey trust score,commercial,browser-fingerprinting,B,technical,false,Score chasing. We refuse trophy scores.
+browserscan-walkthrough,How to read a BrowserScan audit,browserscan,commercial,browser-fingerprinting,B,technical,false,"Pass-every-test framing. Read the audit, do not game it."
+why-vpn-alone-fails-fingerprint-tests,Why a VPN alone fails fingerprint tests,vpn fingerprinting,informational,browser-fingerprinting,B,technical,false,GoLogin VPN page is 2021. VPN is not a fingerprint tool.
+geolocation-api-versus-ip-geo,Geolocation API versus the exit IP,geolocation spoofing,informational,browser-fingerprinting,A,technical,false,Geolocation API versus IP geo. Product aligns both to the exit.
+what-is-a-dns-leak,What a DNS leak is,what is a dns leak,informational,browser-fingerprinting,A,technical,false,Definition page. Windows resolver details live in the proxies sibling.
+what-is-an-ip-leak,What an IP leak is,what is an ip leak,informational,browser-fingerprinting,A,technical,false,Definition. Do not merge with WebRTC or DNS.
+ja3-ja4-tls-fingerprints,JA3 and JA4 are not JavaScript spoofs,ja3 ja4 fingerprint,informational,browser-fingerprinting,C,technical,false,"No JA3/JA4 article in the crawl. Product: compile-time BoringSSL, not JS spoof."
+navigator-webdriver-and-automation-flags,navigator.webdriver and automation flags,navigator.webdriver,informational,browser-fingerprinting,C,technical,false,No dedicated webdriver page. Product sets false and disables AutomationControlled.
+gpu-renderer-must-match-the-ua,GPU renderer has to match the user agent,webgl vendor user agent match,informational,browser-fingerprinting,C,technical,false,They list surfaces. They do not write GPU and UA coherence.
+mobile-ua-on-a-desktop-profile,A mobile user agent on a desktop profile,mobile user agent on desktop,informational,browser-fingerprinting,C,technical,false,Product is desktop only. Why a phone UA on Windows fails.
+macos-fingerprint-on-a-windows-host,A macOS fingerprint on a Windows host,macos fingerprint on windows,informational,browser-fingerprinting,C,technical,false,OS-family mismatch on a Windows host. They do not write this tell.
+testing-a-fingerprint-before-work,Testing a fingerprint before work,test browser fingerprint,how-to,browser-fingerprinting,A,technical,false,Operational checklist before work. Not a lab-pass recipe.
+new-fingerprint-same-folder,A new fingerprint in the same folder,new fingerprint same profile,how-to,browser-fingerprinting,C,technical,false,"New paint, same Chromium folder. They do not warn about leftover jars."
+fingerprint-surfaces-we-actually-cover,Fingerprint surfaces we actually cover,browser fingerprint surfaces,informational,browser-fingerprinting,B,technical,false,"2022-2023 lists, 800 words. Full surface inventory we actually implement."
+after-third-party-cookies,What replaces third-party cookies for tracking,privacy sandbox fingerprinting,informational,browser-fingerprinting,D,technical,false,"Adjacent: Topics, CHIPS, third-party cookie loss. Neither blog built this."
+digital-footprint-versus-browser-fingerprint,Digital footprint versus browser fingerprint,digital footprint vs browser fingerprint,informational,browser-fingerprinting,A,technical,false,They conflate accounts and cookies with canvas. Keep the distinction.
+cross-browser-fingerprinting,Fingerprints that follow you across browsers,cross browser fingerprinting,informational,browser-fingerprinting,D,technical,false,No cross-browser fingerprint page in the crawl.
+mac-address-is-not-a-browser-fingerprint,A MAC address is not a browser fingerprint,mac address fingerprint,informational,browser-fingerprinting,B,technical,false,Thin 2021 hiding page. MAC is not a browser surface. Product does not hide MACs.
+fingerprint-spoofing-versus-tracking-prevention,Fingerprint spoofing versus tracking prevention,browser fingerprint spoofing,informational,browser-fingerprinting,B,technical,false,2023 tracking-prevention page. Spoof versus reduce-signal is the gap.
+what-is-an-antidetect-browser,What an antidetect browser is,what is an antidetect browser,informational,antidetect-browsers,B,growth,true,"Definition page dated 2023-11-02. Rewrite as local isolation, not a cloud locker."
+how-antidetect-browsers-work,How antidetect browsers work,how antidetect browsers work,informational,antidetect-browsers,A,technical,false,They bury mechanics in a buyer guide. Standalone how-it-works page.
+how-to-choose-an-antidetect-browser,How to choose an antidetect browser,how to choose antidetect browser,commercial,antidetect-browsers,B,growth,false,"Multilogin checklist is 587 words from 2023. Local, BYO proxy, no seats."
+best-antidetect-browsers-local-vs-cloud,Best antidetect browsers: local versus cloud,best antidetect browsers 2026,commercial,antidetect-browsers,A,growth,false,One local-versus-cloud roundup. Not a 40-tool clone.
+free-antidetect-browser-what-free-means,What free means in an antidetect browser,free antidetect browser,commercial,antidetect-browsers,A,growth,false,What free means when ads sit in dashboard chrome.
+antidetect-browser-vs-chrome,Antidetect browser versus Chrome,antidetect browser vs chrome,comparison,antidetect-browsers,A,growth,false,Chrome profiles are not isolated fingerprints. Distinct from the chrome-profiles sibling.
+antidetect-browser-vs-vpn,Antidetect browser versus a VPN,antidetect browser vs vpn,comparison,antidetect-browsers,A,growth,false,VPN changes the exit. It does not isolate jars.
+antidetect-browser-vs-incognito,Antidetect versus Incognito,antidetect vs incognito,comparison,antidetect-browsers,A,growth,false,Incognito is a temp jar on the same engine.
+antidetect-browser-vs-tor,Antidetect versus Tor,tor browser alternative,comparison,antidetect-browsers,A,privacy,false,Tor is anonymity routing. Antidetect is profile isolation. Do not sell Tor as a farm tool.
+chrome-profiles-vs-antidetect,Chrome profiles versus an antidetect profile,chrome profiles vs antidetect,comparison,antidetect-browsers,C,growth,false,They mention Chrome profiles as a weak alternative. No dedicated page.
+firefox-containers-vs-antidetect,Firefox Multi-Account Containers versus antidetect,firefox containers vs antidetect,comparison,antidetect-browsers,D,growth,false,No containers page in the crawl. Cookie jars without fingerprint isolation.
+multi-account-browser,What a multi-account browser is for,multi account browser,commercial,antidetect-browsers,A,growth,false,Category term. Authorized rooms only.
+multi-session-browser,What a multi-session browser is,multi session browser,commercial,antidetect-browsers,A,growth,false,SessionBox-class query. Distinct from multi-account.
+antidetect-browser-for-windows,Antidetect browsers for Windows,antidetect browser windows,commercial,antidetect-browsers,A,growth,false,Public channel is Windows 10/11 x64. Do not invent a Mac pack.
+chromium-core-in-an-antidetect-browser,The Chromium core in an antidetect browser,antidetect chromium,informational,antidetect-browsers,C,technical,false,"Crawl has product-update Chromium notes, not a core explainer. Target 131 plus fallback."
+firefox-vs-chromium-antidetect-cores,Firefox versus Chromium antidetect cores,firefox antidetect browser,comparison,antidetect-browsers,C,technical,false,Zero Firefox-core articles. Camoufox is the sibling commercial query.
+camoufox-and-firefox-antidetect-notes,Camoufox and Firefox antidetect notes,camoufox,commercial,antidetect-browsers,A,technical,false,They review Camoufox as a rival. We have it as an optional Firefox core.
+why-we-built-a-local-antidetect-browser,Why a local antidetect browser,local antidetect browser,commercial,antidetect-browsers,C,privacy,false,They sell cloud lockers. Local-first is the gap.
+antidetect-browser-without-an-account,An antidetect browser that does not want an account,antidetect browser no account,commercial,antidetect-browsers,C,privacy,false,No no-account positioning in their blogs. Product has no login.
+antidetect-profile-caps-vs-local-limits,Profile caps versus local disk limits,antidetect profile limit,commercial,antidetect-browsers,C,growth,false,They meter seats and profiles. Local disk is the real cap.
+vendor-lock-in-in-antidetect-tools,Vendor lock-in in antidetect tools,antidetect vendor lock-in,commercial,antidetect-browsers,C,growth,false,Cloud sync lock-in is not a topic they want. Export and local folders.
+when-you-do-not-need-an-antidetect-browser,When you do not need an antidetect browser,do I need an antidetect browser,commercial,antidetect-browsers,C,growth,false,Honest no. Platform roles and one Chrome profile are enough for many desks.
+most-secure-browsers-are-not-antidetect,The most secure browsers are not antidetect browsers,most secure browsers,commercial,antidetect-browsers,A,privacy,false,They rank Brave and Mullvad as if they were antidetect. Different jobs. The versus query lives under privacy.
+antidetect-browsers-for-smm,Antidetect browsers for social media work,best antidetect browsers for smm,commercial,antidetect-browsers,A,growth,false,"Commercial use-case. Authorized brand rooms, not a farm list."
+antidetect-browsers-for-affiliate-marketing,Antidetect browsers for affiliate marketing,best antidetect browsers for affiliate marketing,commercial,antidetect-browsers,A,growth,false,Commercial use-case. Ops isolation lives under ecommerce.
+antidetect-browsers-for-dropshipping,Antidetect browsers for dropshipping,best antidetect browsers for dropshipping,commercial,antidetect-browsers,A,growth,false,Commercial use-case. Store ops live under ecommerce.
+antidetect-browsers-for-web-scraping,Antidetect browsers for web scraping,best antidetect browsers for web scraping,commercial,antidetect-browsers,A,automation,false,Commercial use-case. Ethics live under scraping.
+antidetect-browsers-for-media-buying,Antidetect browsers for media buying,best antidetect browsers for media buying,commercial,antidetect-browsers,A,growth,false,"Ads-account isolation, not spend-limit evasion."
+antidetect-browsers-for-seo,Antidetect browsers for SEO research,best antidetect browsers for seo,commercial,antidetect-browsers,A,growth,false,SERP research rooms. Not rank manipulation.
+ghost-browser-vs-antidetect,Ghost Browser versus an antidetect browser,ghost browser alternative,comparison,antidetect-browsers,A,growth,false,Multi-session Chrome versus isolated engines.
+browser-as-a-service-risks,Browser as a service holds your cookies,browser as a service,commercial,antidetect-browsers,A,privacy,false,BaaS holds the jar on someone else's disk.
+custom-chromium-versus-system-chrome,Custom Chromium versus system Chrome,custom chromium vs chrome,informational,antidetect-browsers,C,technical,false,Product falls back to system Chrome or Edge when the 131 core is missing.
+mobile-antidetect-is-not-a-desktop-profile,A mobile antidetect is not a desktop profile,antidetect browser for android,commercial,antidetect-browsers,A,growth,false,One mobile piece. We do not ship Android or iPhone. Desktop profiles only.
+antidetect-browser-for-agencies,Antidetect browsers for agencies without team seats,antidetect browser for agencies,commercial,antidetect-browsers,C,growth,false,They sell team seats. We do not. Platform roles and local vaults.
+proxy-browser-vs-antidetect,Proxy browser versus antidetect browser,proxy browser vs antidetect,comparison,antidetect-browsers,A,growth,false,A proxy browser changes the exit. It does not isolate fingerprints.
+virtual-machine-vs-antidetect-browser,Virtual machine versus antidetect browser,virtual machine vs antidetect,comparison,antidetect-browsers,B,technical,false,"2021 page, 1248 words. VM versus profile isolation on one Windows box."
+browser-automation-vs-a-real-profile,Browser automation versus a real profile,browser automation vs antidetect,comparison,automation,A,automation,true,A headed profile is not a driver. Pillar for this cluster.
+playwright-and-real-browser-profiles,Playwright is not a MaskWright profile,playwright antidetect,commercial,automation,B,automation,false,"2023 pages, thin. Product has no Playwright export. Say that."
+puppeteer-stealth-is-not-a-profile,Puppeteer Stealth is not a profile,puppeteer stealth,commercial,automation,C,automation,false,Zero Puppeteer articles in the crawl. Stealth plugins are not a profile.
+selenium-webdriver-flags,Selenium WebDriver flags a site can see,selenium detection,commercial,automation,B,automation,false,"413 and 495 words, 2020-2021. WebDriver flags, no product integration."
+playwright-vs-puppeteer-vs-selenium,Playwright versus Puppeteer versus Selenium,playwright vs puppeteer vs selenium,comparison,automation,B,automation,false,"Outdated pairwise pages. One comparison, official APIs first, no stealth recipes."
+headed-vs-headless-detection,Headed versus headless detection,headless browser detection,informational,automation,A,automation,false,Headed versus headless tells. Not a hide-the-driver guide.
+ai-agents-in-a-browser-they-do-not-own,AI agents in a browser they do not own,ai agent browser,commercial,automation,A,automation,false,Agent browsers versus operator-owned profiles.
+window-sync-and-rpa-we-will-not-ship,Window sync and RPA we will not ship,antidetect rpa,commercial,automation,A,automation,false,They sell window sync and RPA on cloud phones. We will not ship either.
+official-apis-versus-ui-bots,Official APIs versus UI bots,browser bot vs api,informational,automation,C,automation,false,Official APIs versus UI bots. They rank on bot how-tos.
+debugging-ports-and-operator-risk,Remote debugging ports and operator risk,chrome remote debugging,informational,automation,C,technical,false,Product uses an ephemeral CDP port internally. Not a user automation API.
+keyboard-timing-packs-are-theater,Keyboard timing packs are theater,human typing simulation,informational,automation,C,automation,false,Keyboard timing packs are theater. They sell warmup. We refuse.
+batch-launch-is-not-a-farm,Batch launch is not a farm,batch browser profiles,how-to,automation,C,growth,false,Product can bulk start and stop. That is not a farm.
+automation-ethics-we-follow,Automation ethics we follow,ethical browser automation,informational,automation,C,automation,false,"Policy page for this desk. Authorized work, official channels."
+captcha-solvers-are-not-research,Captcha solvers are not research,captcha solver,commercial,automation,A,automation,false,"They review solvers. Captchas are a stop sign, not a product feature."
+local-scripts-outside-work-rooms,Local scripts stay outside work rooms,local browser scripts,how-to,automation,C,automation,false,Scripts stay outside work rooms. Product is not an RPA host.
+agent-browsers-versus-operator-profiles,Agent browsers versus operator profiles,agent browser vs antidetect,comparison,automation,D,automation,false,Adjacent to the AI-browser commercial page. Operator profile versus agent runtime.
+mcp-is-not-a-local-profile,MCP is not a local profile,mcp antidetect automation,commercial,automation,B,automation,false,1001-word MCP promo. We are not an MCP runtime.
+social-media-automation-tools-we-refuse,Social media automation tools we refuse,social media automation tools,commercial,automation,A,automation,false,Refuse unofficial schedulers and engagement bots.
+linkedin-and-automation-tools-we-refuse,LinkedIn automation tools we refuse,linkedin automation tools,commercial,automation,A,automation,false,Distinct LinkedIn query. Licensed seats and official tools only.
+browserless-and-browserbase-are-not-profiles,Browserless and Browserbase are not operator profiles,browserless io,commercial,automation,A,automation,false,Cloud automation browsers hold the session off-box.
+maskwright-is-not-an-agent-runtime,MaskWright is not an agent runtime,maskwright automation,commercial,automation,C,automation,false,"Product honesty: no Playwright, Puppeteer, Selenium, or agent runtime in 0.1."
+proxies-in-an-antidetect-browser,Proxies in an antidetect browser,proxy antidetect browser,commercial,proxies,A,growth,true,BYO HTTP and SOCKS5. No bundled exits.
+what-are-proxies,What proxies are,what are proxies,informational,proxies,A,growth,false,Beginner definition. Keep provider upsells out.
+how-to-use-a-proxy-server,How to use a proxy server in a profile,how to use a proxy server,how-to,proxies,A,growth,false,"Chrome and OS setup. Our angle is per-profile, not system-wide."
+socks5-versus-http-proxies,SOCKS5 versus HTTP proxies,socks5 vs http proxy,comparison,proxies,A,technical,false,"They list SOCKS5 vendors. We compare protocols. Product parses http, https, socks5."
+bring-your-own-proxy-ethic,Bring your own proxy,byo proxy,commercial,proxies,C,privacy,false,They broker or upsell exits. Credentials stay local. We do not sell traffic.
+checking-exit-ip-before-launch,Check the exit IP before launch,check proxy ip,how-to,proxies,B,technical,false,"2019 page, 446 words. Exit check before launch. Product uses ip-api.com."
+geo-matching-proxy-to-fingerprint,Match the fingerprint to the exit geo,proxy fingerprint match,how-to,proxies,A,technical,false,"Geo, timezone, language alignment. Product does this on start."
+sticky-sessions-and-why-they-matter,Sticky sessions and why they matter,sticky proxy,informational,proxies,A,growth,false,Sticky sessions for logins. Covers residential sticky. Do not split a second sticky page.
+rotating-proxies-break-logins,Rotating proxies break logins,rotating proxy accounts,how-to,proxies,A,growth,false,Rotating exits break cookies. Not a ban-evasion tip.
+proxy-auth-formats,Proxy username and password formats,proxy user pass format,how-to,proxies,C,technical,false,host:port:user:pass and URL forms. HTTP auth extension versus SOCKS5 handshake.
+dns-leaks-on-windows,DNS leaks on Windows with a proxy,dns leak windows proxy,how-to,proxies,A,technical,false,Windows resolver and IPv6 adjacent. Definition stays on the fingerprinting sibling.
+ipv6-leaks-we-still-see,IPv6 leaks we still see,ipv6 leak proxy,how-to,proxies,C,technical,false,No Windows IPv6 leak page in the crawl.
+proxy-plus-cookies,A new exit does not clean an old cookie jar,proxy cookies session,how-to,proxies,C,growth,false,"New exit, old jar. They treat this as a warmup trick. We treat it as hygiene."
+what-we-refuse-to-log-about-proxies,What we refuse to log about proxies,proxy logging privacy,informational,proxies,C,privacy,false,What we refuse to log. Credentials live in encrypted profiles.json.
+what-are-residential-proxies,What residential proxies are,what are residential proxies,informational,proxies,A,growth,false,Definition. No provider top-10 clone.
+residential-versus-datacenter-proxies,Residential versus datacenter proxies,residential vs datacenter proxies,comparison,proxies,B,growth,false,"GoLogin 2021, Multilogin 2023. Refresh without a vendor table."
+isp-proxies-on-a-local-profile,What ISP proxies are,isp proxies,informational,proxies,B,growth,false,Multilogin definition is 878 words. Not a top-10 provider list.
+residential-proxy-ethics,Residential proxy ethics,ethical residential proxies,informational,proxies,C,privacy,false,Consent and malware-kit exits. They skip ethics.
+residential-versus-vpn,Residential proxies versus a VPN,residential proxy vs vpn,comparison,proxies,A,growth,false,Distinct from antidetect-versus-VPN. This is exit type.
+how-to-test-a-residential-exit,How to test a residential exit,test residential proxy,how-to,proxies,A,technical,false,"Exit, ASN, sticky, leak checks. Product geo check is TCP plus ip-api."
+shared-residential-subnets,Shared residential subnets,shared residential ip,informational,proxies,D,technical,false,Shared subnets. No dedicated crawl page.
+residential-proxies-we-do-not-sell,We do not sell residential proxies,buy residential proxies antidetect,commercial,proxies,C,privacy,false,They sell or rank providers. We do not broker traffic.
+what-are-mobile-proxies,What mobile proxies are,what are mobile proxies,informational,proxies,A,growth,false,"Definition plus 4G/5G. One page, not a provider list."
+mobile-proxy-versus-cloud-phone,Mobile proxy versus cloud phone,mobile proxy vs cloud phone,comparison,proxies,A,growth,false,Carrier exit versus a rented Android. Not a cloud-phone review.
+mobile-asn-on-a-desktop-browser,A mobile ASN on a desktop browser,mobile ip desktop browser,informational,proxies,C,technical,false,Mobile ASN on a desktop UA. Product is desktop only.
+mobile-versus-residential,Mobile versus residential proxies,mobile vs residential proxies,comparison,proxies,A,growth,false,Carrier versus residential. Distinct from ISP versus residential.
+carrier-grade-nat-and-shared-exits,Carrier-grade NAT and shared exits,cgnat proxy,informational,proxies,D,technical,false,Carrier-grade NAT. No crawl page.
+how-websites-detect-proxies,How websites detect proxies,how websites detect proxies,informational,proxies,B,technical,false,"Detection page is 573 words. Mechanism, not a hide-the-proxy guide."
+https-proxy-versus-http-forwarder,HTTPS proxies versus an HTTP forwarder,https proxy,informational,proxies,C,technical,false,Product parses https as an HTTP forwarder. TLS-to-proxy is not implemented.
+how-to-evaluate-a-proxy-provider,How to evaluate a proxy provider,how to choose a proxy provider,commercial,proxies,B,growth,false,Replaces ten vendor reviews. Evaluation criteria only.
+free-proxy-lists-are-a-trap,Free proxy lists are a trap,free proxy list,commercial,proxies,B,privacy,false,Thin listicles. Free lists are a trap.
+isp-versus-residential-proxies,ISP proxies versus residential proxies,isp proxies vs residential,comparison,proxies,B,growth,false,1034 words. Distinct from residential versus datacenter.
+multiple-accounts-on-one-pc,Multiple accounts on one PC,multiple accounts one computer,commercial,social-media,A,growth,true,Pillar. Authorized rooms on one PC. Not a farm playbook.
+cookie-jars-are-not-optional,Cookie jars are not optional,cookie isolation,informational,social-media,A,privacy,false,Why jars cannot be shared. Import how-to lives under privacy.
+authorized-accounts-only,Authorized accounts only,legitimate multiple accounts,informational,social-media,C,growth,false,They write create-unlimited guides. We write authorized only.
+how-accounts-get-linked,How sites link accounts,how websites link accounts,informational,social-media,A,technical,false,"Payment, device, graph, and jar overlap. Not a hide-the-link guide."
+household-ip-versus-profile-isolation,Household IP versus profile isolation,same ip multiple accounts,informational,social-media,A,growth,false,Household IP versus profile isolation. Distinct from proxy pages.
+multiple-accounts-and-platform-terms,Multiple accounts and platform terms,are multiple accounts legal,informational,social-media,A,growth,false,"Terms of service, not legal advice. No evasion framing."
+platform-roles-versus-extra-logins,Platform roles versus extra logins,business manager roles vs profiles,informational,social-media,C,growth,false,Platform roles beat extra logins. They sell more profiles instead.
+two-factor-stays-in-the-real-world,Two-factor stays in the real world,2fa antidetect,how-to,social-media,C,privacy,false,2FA stays on a real device. No SMS farms.
+cloning-a-profile-safely,"Clone a stencil, not a live session",clone browser profile,how-to,social-media,A,growth,false,"Stencil settings, not a live cookie dump."
+first-profile-checklist,First profile checklist,create antidetect profile,how-to,social-media,C,growth,false,"First profile checklist. Proxy, locale, core, empty jar."
+instagram-business-accounts-on-a-local-profile,Instagram business accounts on a local profile,manage instagram accounts antidetect,commercial,social-media,A,growth,false,Authorized brand and creator rooms. No shadowban chapter.
+instagram-cookies-and-session-hygiene,Instagram cookies and session hygiene,instagram cookies,how-to,social-media,A,privacy,false,Session hygiene for Instagram. Not a cookie-buy guide.
+instagram-meta-business-suite-isolation,Instagram and Meta Business Suite isolation,instagram business suite profiles,how-to,social-media,A,growth,false,Meta Business Suite as the native control plane. Covers Instagram ads entry.
+instagram-and-shared-device-signals,Instagram and shared device signals,instagram device fingerprint,informational,social-media,A,technical,false,Shared device signals. Their page is a ban guide. Ours is mechanism.
+instagram-content-research-without-mixing-jars,Instagram research without mixing jars,instagram competitor research,how-to,social-media,A,growth,false,Public research without mixing jars. No scraper code.
+instagram-scheduling-without-unofficial-helpers,Instagram scheduling without unofficial helpers,instagram scheduler safety,commercial,social-media,A,automation,false,Official Meta tools versus unofficial helpers.
+tiktok-web-versus-the-app,TikTok web versus the app,tiktok web login,how-to,social-media,A,growth,false,Web versus the app. Product is a desktop browser.
+tiktok-ads-manager-isolation,TikTok Ads Manager isolation,tiktok ads manager antidetect,commercial,social-media,A,growth,false,Ads Manager and Business Center hygiene in one page. Authorized advertisers.
+tiktok-device-checks-we-can-see,TikTok device checks we can see,tiktok device check,informational,social-media,A,technical,false,Device checks we can see from a desktop profile. No bypass.
+tiktok-creator-accounts-you-own,TikTok creator accounts you own,multiple tiktok accounts brand,commercial,social-media,A,growth,false,Creator accounts the operator owns. Not how to run 50 safely.
+tiktok-pixel-and-cookie-bleed,TikTok pixel and cookie bleed,tiktok pixel isolation,how-to,social-media,A,privacy,false,Pixel bleed across rooms.
+facebook-business-manager-isolation,Facebook Business Manager isolation,facebook business manager antidetect,commercial,social-media,A,growth,false,Business Manager isolation. No recycled BMs.
+facebook-pixels-stay-in-brand-rooms,Facebook pixels stay in brand rooms,facebook pixel isolation,how-to,social-media,A,privacy,false,Pixels stay in brand rooms.
+facebook-and-personal-profiles,Facebook personal versus business rooms,facebook personal vs business browser,informational,social-media,A,growth,false,Personal login versus work rooms.
+facebook-page-roles-not-cookie-dumps,"Facebook page roles, not cookie dumps",facebook page roles,how-to,social-media,A,growth,false,"Page roles, not cookie dumps."
+facebook-ads-account-limits-are-business-facts,Facebook ads account limits are business facts,facebook ads account limit,informational,social-media,A,growth,false,Limits are business facts. Their page is a restore guide. We will not write restore steps.
+reddit-sessions-on-a-local-profile,Reddit sessions on a local profile,reddit antidetect browser,commercial,social-media,A,growth,false,Brand and community rooms. No karma farm.
+reddit-moderation-accounts,Reddit moderation accounts,reddit mod account isolation,how-to,social-media,A,growth,false,Moderation accounts stay separate from brand promo.
+reddit-ads-manager-isolation,Reddit Ads Manager isolation,reddit ads manager,how-to,social-media,A,growth,false,Ads Manager isolation. Their page is a proxy list.
+reddit-api-versus-headed-browsing,Reddit API versus headed browsing,reddit api vs browser,comparison,social-media,A,automation,false,Official API versus headed browsing. 2023 scrape guide is the weak competitor page.
+linkedin-company-pages-on-one-pc,LinkedIn company pages on one PC,linkedin multiple accounts,commercial,social-media,A,growth,false,Company pages and licensed seats. No invitation-limit bypass.
+linkedin-sales-navigator-stays-licensed,LinkedIn Sales Navigator stays licensed,linkedin sales navigator browser,commercial,social-media,A,growth,false,Sales Navigator stays licensed.
+linkedin-recruiter-workflows,LinkedIn Recruiter workflows,linkedin recruiter antidetect,commercial,social-media,A,growth,false,Recruiter workflows you already pay for.
+linkedin-ads-manager-isolation,LinkedIn Campaign Manager isolation,linkedin campaign manager,how-to,social-media,A,growth,false,Campaign Manager isolation.
+linkedin-research-on-public-pages,LinkedIn research on public pages,linkedin public profile research,how-to,social-media,A,growth,false,Public pages. Their page is a scraper guide. No inbox scrape.
+youtube-studio-on-a-local-profile,YouTube Studio on a local profile,youtube studio antidetect,commercial,social-media,A,growth,false,Studio on a local profile. Brand accounts are the sibling.
+youtube-brand-accounts,YouTube Brand Accounts,youtube brand account isolation,how-to,social-media,A,growth,false,Brand Accounts versus extra Google logins.
+youtube-and-google-account-clusters,YouTube and Google account clusters,google account linking youtube,informational,social-media,A,privacy,false,Google account clusters. Gmail sibling covers mail isolation.
+x-brand-accounts-on-a-local-profile,X brand accounts on a local profile,manage twitter accounts antidetect,commercial,social-media,A,growth,false,Brand accounts you own. No engagement farm.
+x-ads-manager-isolation,X Ads Manager isolation,twitter ads manager browser,how-to,social-media,A,growth,false,Ads Manager isolation.
+x-api-versus-unofficial-helpers,X API versus unofficial helpers,twitter api vs bot,comparison,social-media,A,automation,false,Official API versus unofficial helpers.
+discord-brand-and-community-rooms,Discord brand and community rooms,multiple discord accounts,commercial,social-media,A,growth,false,Community and brand servers. Their page is a free-farm guide.
+telegram-brand-channels-on-a-local-profile,Telegram brand channels on a local profile,multiple telegram accounts,commercial,social-media,A,growth,false,Brand channels. Their page is a ban-recovery guide. No recovery steps.
+gmail-and-google-account-isolation,Gmail and Google account isolation,multiple gmail accounts,commercial,social-media,A,growth,false,Google account isolation for work. No warmup protocol.
+ecommerce-accounts-on-one-pc,Ecommerce accounts on one PC,dropshipping multiple stores,commercial,ecommerce,A,growth,true,Pillar. Storefront isolation on one PC. 2024 dropshipping explainers are dated.
+supplier-portals-vs-retail-admin,Supplier portals versus retail admin,supplier portal isolation,how-to,ecommerce,C,growth,false,Supplier login versus retail admin. They do not split these rooms.
+amazon-seller-central-isolation,Amazon Seller Central isolation,amazon multiple seller accounts,commercial,ecommerce,A,growth,false,Authorized entities only. No buy-account chapter.
+product-research-in-a-cold-room,Product research in a cold room,dropshipping product research,how-to,ecommerce,A,growth,false,Cold research room. No customer data in that profile.
+payment-and-tax-tabs-stay-in-entity,Payment and tax tabs stay in the entity,store payout isolation,how-to,ecommerce,C,privacy,false,Payout and tax tabs stay in the legal entity room.
+shipping-extensions-per-store,Shipping extensions per store,shipping addon isolation,how-to,ecommerce,C,growth,false,Unpacked extensions are per profile. Product supports that.
+customer-data-never-in-research,Customer data never belongs in research,ecommerce data isolation,how-to,ecommerce,C,privacy,false,Customer exports never land in a research profile.
+clone-a-store-stencil-not-a-session,"Clone a store stencil, not a session",clone ecommerce profile,how-to,ecommerce,C,growth,false,"Store stencil, not a live seller session."
+marketplace-one-identity-rules,Marketplace one-identity rules,marketplace one identity rules,informational,ecommerce,A,growth,false,One-identity marketplace rules. We will not multiply seller IDs.
+etsy-shop-isolation,Etsy shop isolation,multiple etsy shops,commercial,ecommerce,A,growth,false,Authorized shops. Their manage-without-bans page is the poor-intent sibling we skip.
+ebay-seller-isolation,eBay seller isolation,multiple ebay seller accounts,commercial,ecommerce,A,growth,false,Authorized sellers. No stealth-identity guide.
+shopify-multi-store-isolation,Shopify multi-store isolation,shopify multiple stores,commercial,ecommerce,A,growth,false,Staff accounts and store isolation. No email scrape.
+airbnb-listing-isolation,Airbnb listing isolation for authorized hosts,multiple airbnb accounts,commercial,ecommerce,A,growth,false,Authorized listings and partners. Their page pushes extra accounts. We follow Airbnb's one-account rule where it applies.
+affiliate-dashboard-isolation,Affiliate dashboard isolation,affiliate dashboard isolation,how-to,ecommerce,A,growth,false,Network dashboards in separate rooms. Distinct from the antidetect-for-affiliate commercial page.
+affiliate-self-clicks-are-fraud,Affiliate self-clicks are fraud,affiliate self click fraud,informational,ecommerce,C,growth,false,Self-clicks are fraud. They skip this.
+affiliate-research-rooms,Affiliate research rooms,affiliate landing page research,how-to,ecommerce,D,growth,false,Research rooms for creatives. No cloaking.
+affiliate-extensions-we-refuse,Affiliate extensions we refuse,affiliate cloaking extension,commercial,ecommerce,C,automation,false,Cloaking extensions we refuse. Product can load unpacked extensions. That is not permission to cloak.
+paypal-business-versus-personal-rooms,PayPal business versus personal rooms,paypal business isolation,how-to,ecommerce,C,privacy,false,They have create-multiple-PayPal guides. We cover business versus personal for one entity.
+antidetect-browsers-for-amazon,Antidetect browsers for Amazon,best antidetect browsers for amazon,commercial,ecommerce,A,growth,false,Commercial Amazon query. Ops live on the Seller Central sibling.
+what-is-web-scraping,What web scraping is,what is web scraping,informational,scraping,B,automation,true,2023 definition. Pillar. Official channels first.
+scraping-ethics-we-follow,Scraping ethics we follow,ethical web scraping,informational,scraping,C,automation,false,Ethics they underwrite because they sell bypass. Our rules.
+robots-txt-and-terms-come-first,robots.txt and terms come first,robots.txt scraping,informational,scraping,C,automation,false,robots.txt and terms come first. No crawl page treats this as the rule.
+official-apis-versus-headed-collection,Official APIs versus headed collection,scraping api vs browser,comparison,scraping,A,automation,false,Official APIs versus headed collection.
+public-pages-slowly,"Public pages, slowly",slow scraping,how-to,scraping,C,automation,false,"Public pages, slowly. They optimize for volume."
+rate-limits-are-not-a-puzzle,Rate limits are not a puzzle,scrape rate limit,informational,scraping,A,automation,false,"Rate limits are a contract, not a puzzle."
+captchas-are-a-stop-sign,Captchas are a stop sign,captcha scraping,informational,scraping,A,automation,false,Distinct from the captcha-solver commercial page. Here captcha stops collection.
+user-agent-honesty-in-research,User-agent honesty in research,scraper user agent,how-to,scraping,C,automation,false,Honest UA for research clients. Not a random Chrome string.
+storing-research-files,Storing research files,scrape data storage,how-to,scraping,D,privacy,false,Where research files live. Adjacent hygiene.
+facebook-ads-library-research-locally,Facebook Ads Library research locally,facebook ads library scraping,commercial,scraping,A,automation,false,Public Ads Library. Manual and official tools first. No login scrape.
+scraping-behind-login-is-not-research,Scraping behind a login is not research,scrape behind login,informational,scraping,C,automation,false,Behind-login collection is not research.
+playwright-for-pages-you-own,Playwright for pages you own,playwright scraping own site,how-to,scraping,C,automation,false,Playwright on properties you own. Product does not ship Playwright.
+anti-bot-pages-and-official-channels,Anti-bot pages and official channels,cloudflare scraping ethics,informational,scraping,A,automation,false,Their page is a bypass guide. Ours is official channels only.
+personal-data-and-collection,Personal data and collection,scraping personal data,informational,scraping,C,privacy,false,Personal data collection. They scrape emails from Shopify stores.
+we-will-not-hide-a-scraper,We will not hide a scraper,undetectable scraper,commercial,scraping,A,automation,false,We will not hide a scraper.
+what-is-a-scraping-browser,What a scraping browser is,scraping browser,informational,scraping,A,automation,false,What a scraping browser is. Best-of lives under antidetect-for-scraping.
+web-scraping-with-python-overview,"Web scraping with Python, without a stealth stack",web scraping with python,how-to,scraping,A,automation,false,Overview. Official libraries and APIs. No stealth stack.
+web-scraping-tools-criteria,How to judge a web scraping tool,web scraping tools,commercial,scraping,B,automation,false,"2023-2025 lists. Refresh as a criteria page, not a 15-tool clone."
+proxies-for-web-scraping,Proxies for web scraping,proxies for web scraping,commercial,scraping,A,growth,false,When a proxy is enough and when a headed profile is the wrong tool.
+instagram-public-research-versus-scrape,Instagram public research versus a scrape,instagram scraping,commercial,scraping,B,automation,false,2023 code guide. Public research versus scrape. No code stealth.
+linkedin-we-will-not-scrape-inboxes,We will not scrape LinkedIn inboxes,linkedin scraper tools,commercial,scraping,A,automation,false,We will not scrape LinkedIn inboxes. Official API and public pages.
+what-leaves-this-machine,What leaves this machine,antidetect telemetry,informational,privacy,C,privacy,true,"Pillar. Ads feed, updater, ip-api, ad iframes. No analytics SDK. No profile upload."
+browser-security-versus-antidetect,Browser security versus antidetect,secure browser vs antidetect,comparison,privacy,A,privacy,false,Security hardening versus isolation. Distinct from the antidetect cluster comparison.
+profile-encryption-at-rest,What encryption at rest actually covers,encrypted browser profiles,informational,privacy,C,technical,false,Honesty: profiles.json is AES-256-GCM. Chromium user-data dirs and cookie JSON are not.
+extensions-inside-a-profile,Extensions inside a profile,browser extension isolation,how-to,privacy,A,technical,false,Unpacked extensions per profile. They review cookie editors.
+downloads-folder-discipline,Downloads folder discipline,browser downloads isolation,how-to,privacy,D,privacy,false,Download trays leak across rooms. No crawl page.
+local-storage-is-a-second-cookie,localStorage is a second cookie jar,localstorage isolation,informational,privacy,C,technical,false,Zero localStorage articles in the crawl. Product imports and exports JSON.
+if-a-vendor-is-breached,If a vendor is breached,antidetect breach,informational,privacy,C,privacy,false,"If a cloud vendor is breached, they hold the jars. Local disk is the contrast."
+update-channel-habits,Update channel habits,browser update hygiene,how-to,privacy,C,technical,false,electron-updater to updates.maskwright.com. Core version versus spoofed UA.
+why-we-dropped-bandwidth-sharing,Why we dropped bandwidth sharing,bandwidth sharing sdk,informational,privacy,C,privacy,false,We dropped bandwidth-sharing SDKs. They sometimes bundle exits.
+what-is-a-cloud-browser,What a cloud browser is,what is a cloud browser,informational,privacy,A,privacy,false,Definition. Risk sibling is next.
+cloud-browser-risk,Cloud browser risk,cloud browser security,commercial,privacy,A,privacy,false,Who can read the session on a rented browser.
+what-is-a-cloud-phone,What a cloud phone is,what is a cloud phone,informational,privacy,A,privacy,false,"One definition page. Not a review of LDCloud, UgPhone, VSPhone, or the rest."
+cloud-phones-versus-local-windows,Cloud phones versus a local Windows profile,cloud phone vs antidetect browser,comparison,privacy,A,privacy,false,Second and last cloud-phone piece. Local Windows versus a rented Android.
+data-residency-is-your-disk,Data residency is your disk,browser data residency,informational,privacy,C,privacy,false,Residency is the operator disk. They hold cloud copies.
+why-we-do-not-sync-profiles,Why we do not sync profiles,antidetect sync,commercial,privacy,C,privacy,false,No cloud profile sync in the product. That is the point.
+who-holds-the-cookie-jar,Who holds the cookie jar,cloud browser cookies,informational,privacy,C,privacy,false,Who holds the cookie jar when the browser is rented.
+offline-operator-days,Offline operator days,offline antidetect browser,commercial,privacy,C,privacy,false,"CRUD works offline. Ads, updates, and geo checks need a network unless blocked."
+why-we-refuse-team-seats,Why we refuse team seats,antidetect team seats,commercial,privacy,C,privacy,false,No team seats. Platform roles and contractors without a shared vault.
+contractor-access-done-right,Contractor access done right,contractor ad account access,how-to,privacy,C,growth,false,"Contractor access through platform roles, not a mailed user-data folder."
+do-not-email-a-user-data-folder,Do not email a user-data folder,send browser profile,how-to,privacy,C,privacy,false,Do not email a Chromium user-data directory.
+audit-trails-you-cannot-have-without-a-server,Audit trails you cannot have without a server,antidetect audit log,informational,privacy,C,privacy,false,Audit trails need a server. We do not have one for profiles.
+export-and-import-cookies,Export and import cookies,import cookies antidetect,how-to,privacy,B,technical,false,2022 page. Netscape and JSON. CDP setCookies. Files are plaintext on disk.
+importing-local-storage,Importing localStorage,import localstorage,how-to,privacy,C,technical,false,No localStorage import page in the crawl. Product supports JSON import and export.
+backing-up-the-store,Backing up the local store,backup antidetect profiles,how-to,privacy,C,privacy,false,No cloud sync means you back up maskwright-data.
+disk-use-and-user-data,Disk use and user-data directories,antidetect disk space,informational,privacy,C,technical,false,Chromium user-data dirs grow. No crawl page on disk use.
+ads-in-the-dashboard-not-in-your-tabs,"Ads in the dashboard, not in your tabs",antidetect app ads,informational,privacy,C,privacy,false,"Ads in dashboard chrome, not in launched tabs. Feed plus iframe wrappers."
+free-app-owned-ad-slots,A free app funded by owned ad slots,free antidetect monetization,commercial,privacy,C,growth,false,Owned ad slots fund the app. Distinct from the free-antidetect commercial page.
+what-is-cookie-based-session-management,What cookie-based session management is,cookie based session management,informational,privacy,B,privacy,false,1163 words. Session versus fingerprint. Cookie robot merge lives in pre-made cookies.
+sharing-profiles-is-sharing-cookies,Sharing a profile is sharing cookies,browser session share,how-to,privacy,A,privacy,false,Sharing a live session is sharing the jar.
+unsigned-windows-builds-and-smartscreen,Unsigned Windows builds and SmartScreen,windows smartscreen unsigned app,informational,privacy,D,technical,false,Installer may be unsigned. SmartScreen is expected. Adjacent Windows trust.
+geo-lookups-leave-the-machine,Geo lookups leave the machine,ip-api geo lookup privacy,informational,privacy,C,privacy,false,Exit geo via ip-api.com and geojs.io. That traffic leaves the machine.
+indexeddb-is-a-third-jar,IndexedDB is a third jar,indexeddb isolation,informational,privacy,D,technical,false,IndexedDB is a third jar. No crawl page. Product does not encrypt it.
+pre-made-cookies-and-cookie-robots,Pre-made cookies and cookie robots,pre-made cookies,commercial,privacy,B,privacy,false,Cookie robot 2019 is 844 words. Risks of bought history. Not a how-to-buy.

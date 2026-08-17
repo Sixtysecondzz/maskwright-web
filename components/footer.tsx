@@ -28,6 +28,11 @@ export function Footer() {
               </Link>
             </li>
             <li>
+              <Link href="/blog" className="hover:text-ink">
+                Blog
+              </Link>
+            </li>
+            <li>
               <Link href="/download" className="hover:text-ink">
                 Download
               </Link>

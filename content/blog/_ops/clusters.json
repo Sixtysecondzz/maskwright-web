@@ -1,0 +1,414 @@
+[
+  {
+    "category": "antidetect-browsers",
+    "pillar": "what-is-an-antidetect-browser",
+    "slugs": [
+      "what-is-an-antidetect-browser",
+      "antidetect-browser-vs-chrome",
+      "antidetect-browser-vs-vpn",
+      "antidetect-browser-vs-incognito",
+      "best-antidetect-browsers-local-vs-cloud",
+      "free-antidetect-browser-what-free-means",
+      "how-antidetect-browsers-work",
+      "antidetect-browser-for-windows",
+      "chromium-core-in-an-antidetect-browser",
+      "firefox-vs-chromium-antidetect-cores",
+      "camoufox-and-firefox-antidetect-notes",
+      "why-we-built-a-local-antidetect-browser",
+      "antidetect-browser-without-an-account",
+      "antidetect-profile-caps-vs-local-limits",
+      "vendor-lock-in-in-antidetect-tools",
+      "antidetect-browser-for-agencies",
+      "most-secure-browsers-are-not-antidetect",
+      "antidetect-browser-glossary",
+      "when-you-do-not-need-an-antidetect-browser",
+      "how-to-choose-an-antidetect-browser"
+    ]
+  },
+  {
+    "category": "browser-fingerprinting",
+    "pillar": "what-is-device-fingerprinting",
+    "slugs": [
+      "what-is-device-fingerprinting",
+      "what-is-browser-fingerprinting",
+      "canvas-fingerprinting-on-windows",
+      "webgl-renderer-strings",
+      "webrtc-ip-leaks",
+      "audio-context-fingerprint",
+      "font-enumeration-leaks",
+      "client-rects-and-subpixels",
+      "hardware-concurrency-and-cores",
+      "screen-resolution-coherence",
+      "user-agent-is-not-enough",
+      "timezone-language-and-proxy-country",
+      "battery-and-media-device-ids",
+      "webgpu-and-new-fingerprint-surfaces",
+      "seed-versus-random-fingerprints",
+      "how-we-read-browserleaks",
+      "creepjs-consistency-checks",
+      "pixelscan-consistency",
+      "iphey-scores-are-not-verdicts",
+      "browserscan-walkthrough",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "client-hints-and-user-agent-data",
+      "timezone-must-match-the-proxy",
+      "deep-tell-coverage",
+      "testing-a-fingerprint-before-work",
+      "new-fingerprint-same-folder",
+      "gpu-and-sandbox-flags",
+      "fingerprint-stability-across-launches"
+    ]
+  },
+  {
+    "category": "browser-automation",
+    "pillar": "browser-automation-vs-a-real-profile",
+    "slugs": [
+      "browser-automation-vs-a-real-profile",
+      "playwright-and-real-browser-profiles",
+      "puppeteer-stealth-is-not-a-profile",
+      "selenium-webdriver-flags",
+      "headed-vs-headless-detection",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "window-sync-and-rpa-we-will-not-ship",
+      "official-apis-versus-ui-bots",
+      "debugging-ports-and-operator-risk",
+      "keyboard-timing-packs-are-theater",
+      "batch-launch-is-not-a-farm",
+      "automation-ethics-we-follow",
+      "when-to-use-a-bot-account",
+      "local-scripts-outside-work-rooms",
+      "captcha-solvers-are-not-research",
+      "playwright-vs-puppeteer-vs-selenium"
+    ]
+  },
+  {
+    "category": "multiple-accounts",
+    "pillar": "multiple-accounts-on-one-pc",
+    "slugs": [
+      "multiple-accounts-on-one-pc",
+      "one-machine-many-identities",
+      "isolated-profiles-on-one-pc",
+      "cookie-jars-are-not-optional",
+      "do-not-share-a-live-profile",
+      "cloning-a-profile-safely",
+      "naming-profiles-without-leaking",
+      "folders-and-tags-for-operators",
+      "when-not-to-open-a-profile",
+      "first-profile-checklist",
+      "platform-roles-versus-extra-logins",
+      "two-factor-stays-in-the-real-world",
+      "authorized-accounts-only",
+      "how-accounts-get-linked",
+      "household-ip-versus-profile-isolation",
+      "multiple-accounts-and-the-law"
+    ]
+  },
+  {
+    "category": "instagram",
+    "pillar": "instagram-business-accounts-on-a-local-profile",
+    "slugs": [
+      "instagram-business-accounts-on-a-local-profile",
+      "instagram-cookies-and-session-hygiene",
+      "instagram-meta-business-suite-isolation",
+      "instagram-and-residential-exits",
+      "instagram-content-research-without-mixing-jars",
+      "instagram-ads-manager-on-windows",
+      "instagram-login-challenges-what-they-mean",
+      "instagram-creator-vs-business-rooms",
+      "instagram-and-shared-device-signals",
+      "instagram-scheduling-without-unofficial-helpers",
+      "instagram-brand-safety-on-one-pc",
+      "instagram-we-will-not-teach-ban-evasion"
+    ]
+  },
+  {
+    "category": "tiktok",
+    "pillar": "tiktok-web-versus-the-app",
+    "slugs": [
+      "tiktok-web-versus-the-app",
+      "tiktok-ads-manager-isolation",
+      "tiktok-and-mobile-proxy-myths",
+      "tiktok-research-rooms",
+      "tiktok-timezone-and-region",
+      "tiktok-business-center-hygiene",
+      "tiktok-device-checks-we-can-see",
+      "tiktok-and-cloud-phones-are-not-us",
+      "tiktok-creator-accounts-you-own",
+      "tiktok-pixel-and-cookie-bleed",
+      "tiktok-login-challenges",
+      "tiktok-we-will-not-teach-shadowban-tricks"
+    ]
+  },
+  {
+    "category": "reddit",
+    "pillar": "reddit-sessions-on-a-local-profile",
+    "slugs": [
+      "reddit-sessions-on-a-local-profile",
+      "reddit-and-shared-exits",
+      "reddit-moderation-accounts",
+      "reddit-ads-manager-isolation",
+      "reddit-research-versus-automation",
+      "reddit-ipv6-leaks",
+      "reddit-old-cookies-new-ip",
+      "reddit-community-work-for-brands",
+      "reddit-api-versus-headed-browsing",
+      "reddit-ip-blocks-what-we-observe"
+    ]
+  },
+  {
+    "category": "linkedin",
+    "pillar": "linkedin-company-pages-on-one-pc",
+    "slugs": [
+      "linkedin-company-pages-on-one-pc",
+      "linkedin-warm-sessions-mean-calendars",
+      "linkedin-sales-navigator-stays-licensed",
+      "linkedin-and-automation-tools-we-refuse",
+      "linkedin-recruiter-workflows",
+      "linkedin-research-on-public-pages",
+      "linkedin-ads-manager-isolation",
+      "linkedin-login-challenges",
+      "linkedin-personal-vs-work-rooms",
+      "linkedin-we-will-not-scrape-inboxes"
+    ]
+  },
+  {
+    "category": "facebook",
+    "pillar": "facebook-ads-library-research-locally",
+    "slugs": [
+      "facebook-ads-library-research-locally",
+      "facebook-business-manager-isolation",
+      "facebook-pixels-stay-in-brand-rooms",
+      "facebook-and-personal-profiles",
+      "facebook-login-checkpoints",
+      "facebook-commerce-manager",
+      "facebook-page-roles-not-cookie-dumps",
+      "facebook-ads-account-limits-are-business-facts",
+      "facebook-catalogs-and-cookies",
+      "facebook-research-vs-operations",
+      "facebook-and-residential-exits",
+      "facebook-we-will-not-recycle-business-managers"
+    ]
+  },
+  {
+    "category": "x",
+    "pillar": "x-brand-accounts-on-a-local-profile",
+    "slugs": [
+      "x-brand-accounts-on-a-local-profile",
+      "x-ads-manager-isolation",
+      "x-api-versus-unofficial-helpers",
+      "x-research-rooms",
+      "x-and-shared-device-tells",
+      "x-login-challenges",
+      "x-creator-accounts-you-own",
+      "x-we-will-not-farm-engagement"
+    ]
+  },
+  {
+    "category": "youtube",
+    "pillar": "youtube-studio-on-a-local-profile",
+    "slugs": [
+      "youtube-studio-on-a-local-profile",
+      "youtube-brand-accounts",
+      "youtube-ads-manager-isolation",
+      "youtube-and-google-account-clusters",
+      "youtube-research-without-mixing",
+      "youtube-login-challenges",
+      "youtube-analytics-exports",
+      "youtube-we-will-not-fake-watch-time"
+    ]
+  },
+  {
+    "category": "proxies",
+    "pillar": "proxies-in-an-antidetect-browser",
+    "slugs": [
+      "proxies-in-an-antidetect-browser",
+      "socks5-versus-http-proxies",
+      "bring-your-own-proxy-ethic",
+      "checking-exit-ip-before-launch",
+      "geo-matching-proxy-to-fingerprint",
+      "sticky-sessions-and-why-they-matter",
+      "rotating-proxies-break-logins",
+      "proxy-auth-formats",
+      "dns-leaks-on-windows",
+      "ipv6-leaks-we-still-see",
+      "webrtc-disabled-still-check-stun",
+      "proxy-plus-cookies",
+      "latency-and-profile-feel",
+      "failover-when-a-peer-dies",
+      "provider-templates-without-lock-in",
+      "what-we-refuse-to-log-about-proxies"
+    ]
+  },
+  {
+    "category": "residential-proxies",
+    "pillar": "what-are-residential-proxies",
+    "slugs": [
+      "what-are-residential-proxies",
+      "residential-versus-datacenter-proxies",
+      "isp-proxies-on-a-local-profile",
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins",
+      "residential-pools-get-tired",
+      "residential-versus-vpn",
+      "how-to-test-a-residential-exit",
+      "residential-proxies-and-timezone",
+      "shared-residential-subnets",
+      "residential-proxies-we-do-not-sell",
+      "residential-proxies-for-storefronts"
+    ]
+  },
+  {
+    "category": "mobile-proxies",
+    "pillar": "what-are-mobile-proxies",
+    "slugs": [
+      "what-are-mobile-proxies",
+      "mobile-4g-proxies",
+      "mobile-proxy-versus-cloud-phone",
+      "mobile-asn-on-a-desktop-browser",
+      "mobile-proxies-and-tiktok-myths",
+      "mobile-sticky-sessions",
+      "mobile-versus-residential",
+      "carrier-grade-nat-and-shared-exits",
+      "mobile-proxies-for-ads-research",
+      "mobile-proxies-we-do-not-bundle"
+    ]
+  },
+  {
+    "category": "affiliate-marketing",
+    "pillar": "affiliate-ops-without-a-cloud-seat",
+    "slugs": [
+      "affiliate-ops-without-a-cloud-seat",
+      "affiliate-disclosures-still-apply",
+      "affiliate-dashboard-isolation",
+      "affiliate-self-clicks-are-fraud",
+      "affiliate-locale-is-not-a-proxy-trick",
+      "affiliate-creatives-and-download-trays",
+      "affiliate-networks-and-multiple-brands",
+      "affiliate-research-rooms",
+      "affiliate-extensions-we-refuse",
+      "affiliate-reporting-hygiene"
+    ]
+  },
+  {
+    "category": "dropshipping",
+    "pillar": "dropshipping-stores-on-one-pc",
+    "slugs": [
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin",
+      "marketplace-one-identity-rules",
+      "product-research-in-a-cold-room",
+      "payment-and-tax-tabs-stay-in-entity",
+      "shipping-extensions-per-store",
+      "customer-data-never-in-research",
+      "dropshipping-ads-accounts",
+      "clone-a-store-stencil-not-a-session",
+      "dropshipping-we-will-not-multiply-seller-ids"
+    ]
+  },
+  {
+    "category": "web-scraping",
+    "pillar": "scraping-ethics-we-follow",
+    "slugs": [
+      "scraping-ethics-we-follow",
+      "robots-txt-and-terms-come-first",
+      "official-apis-versus-headed-collection",
+      "public-pages-slowly",
+      "rate-limits-are-not-a-puzzle",
+      "captchas-are-a-stop-sign",
+      "user-agent-honesty-in-research",
+      "storing-research-files",
+      "facebook-ads-library-notes",
+      "scraping-behind-login-is-not-research",
+      "playwright-for-pages-you-own",
+      "anti-bot-pages-and-official-channels",
+      "personal-data-and-collection",
+      "we-will-not-hide-a-scraper"
+    ]
+  },
+  {
+    "category": "ai-agents",
+    "pillar": "ai-agents-need-a-browser-they-do-not-own",
+    "slugs": [
+      "ai-agents-need-a-browser-they-do-not-own",
+      "agent-browsers-versus-operator-profiles",
+      "persistent-sessions-and-agent-risk",
+      "tool-use-without-wearing-a-store-login",
+      "local-agents-on-windows",
+      "cloud-agent-browsers-hold-your-cookies",
+      "agents-and-official-apis",
+      "agents-should-not-impersonate-customers",
+      "evaluating-agent-browser-products",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ]
+  },
+  {
+    "category": "browser-security",
+    "pillar": "browser-security-versus-antidetect",
+    "slugs": [
+      "browser-security-versus-antidetect",
+      "profile-encryption-at-rest",
+      "what-leaves-this-machine",
+      "privacy-policy-in-practice",
+      "extensions-inside-a-profile",
+      "downloads-folder-discipline",
+      "cookie-hygiene",
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached",
+      "update-channel-habits",
+      "malware-and-unwanted-kits",
+      "why-we-dropped-bandwidth-sharing"
+    ]
+  },
+  {
+    "category": "cloud-browsers",
+    "pillar": "what-is-a-cloud-browser",
+    "slugs": [
+      "what-is-a-cloud-browser",
+      "cloud-browser-risk",
+      "cloud-phones-are-not-our-product",
+      "cloud-phones-versus-local-windows",
+      "data-residency-is-your-disk",
+      "why-we-do-not-sync-profiles",
+      "why-we-stay-local",
+      "rented-androids-and-identity",
+      "cloud-browser-for-automation-tradeoffs",
+      "who-holds-the-cookie-jar",
+      "offline-operator-days",
+      "windows-first-on-purpose"
+    ]
+  },
+  {
+    "category": "team-collaboration",
+    "pillar": "why-we-refuse-team-seats",
+    "slugs": [
+      "why-we-refuse-team-seats",
+      "team-features-we-will-not-ship",
+      "sharing-profiles-is-sharing-cookies",
+      "platform-roles-beat-shared-vaults",
+      "contractor-access-done-right",
+      "agencies-and-local-vaults",
+      "do-not-email-a-user-data-folder",
+      "audit-trails-you-cannot-have-without-a-server",
+      "one-operator-one-pc",
+      "when-a-company-needs-a-different-product"
+    ]
+  },
+  {
+    "category": "account-management",
+    "pillar": "account-management-on-a-local-browser",
+    "slugs": [
+      "account-management-on-a-local-browser",
+      "operator-daily-workflow",
+      "stopping-a-profile-cleanly",
+      "backing-up-the-store",
+      "export-and-import-cookies",
+      "importing-local-storage",
+      "disk-use-and-user-data",
+      "running-many-windows-processes",
+      "no-cloud-sync-means-you-back-up",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "free-app-owned-ad-slots",
+      "first-week-with-maskwright"
+    ]
+  }
+]

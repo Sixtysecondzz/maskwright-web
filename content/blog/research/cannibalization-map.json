@@ -1,0 +1,287 @@
+{
+  "merged": [
+    {
+      "kept_keyword": "timezone proxy mismatch",
+      "kept_slug": "timezone-language-and-proxy-country",
+      "folded": [
+        "browser timezone spoofing",
+        "timezone must match proxy",
+        "geolocation timezone language alignment"
+      ],
+      "reason": "One operational intent: locale follows the exit."
+    },
+    {
+      "kept_keyword": "sticky proxy",
+      "kept_slug": "sticky-sessions-and-why-they-matter",
+      "folded": [
+        "sticky residential proxy",
+        "sticky mobile proxy"
+      ],
+      "reason": "Sticky is one concept. Type-specific notes belong on residential and mobile definition pages."
+    },
+    {
+      "kept_keyword": "what are mobile proxies",
+      "kept_slug": "what-are-mobile-proxies",
+      "folded": [
+        "4g mobile proxies",
+        "5g mobile proxies"
+      ],
+      "reason": "Same SERP as mobile proxies."
+    },
+    {
+      "kept_keyword": "tiktok ads manager antidetect",
+      "kept_slug": "tiktok-ads-manager-isolation",
+      "folded": [
+        "tiktok business center",
+        "tiktok proxy country"
+      ],
+      "reason": "Ads Manager and Business Center are one hygiene story. Region match is the timezone page."
+    },
+    {
+      "kept_keyword": "instagram business suite profiles",
+      "kept_slug": "instagram-meta-business-suite-isolation",
+      "folded": [
+        "instagram ads manager browser",
+        "instagram creator vs business"
+      ],
+      "reason": "Meta Business Suite is the ads and role entry. Creator versus business is a section, not a second URL."
+    },
+    {
+      "kept_keyword": "facebook ads library scraping",
+      "kept_slug": "facebook-ads-library-research-locally",
+      "folded": [
+        "facebook ads library research",
+        "facebook ads research"
+      ],
+      "reason": "One public-library intent. Lives in scraping, not a second social URL."
+    },
+    {
+      "kept_keyword": "headless browser detection",
+      "kept_slug": "headed-vs-headless-detection",
+      "folded": [
+        "what is a headless browser",
+        "best headless browsers"
+      ],
+      "reason": "Detection and definition are one page. No headless-tool list."
+    },
+    {
+      "kept_keyword": "browserless io",
+      "kept_slug": "browserless-and-browserbase-are-not-profiles",
+      "folded": [
+        "browserbase",
+        "is browserless any good"
+      ],
+      "reason": "One cloud-automation-browser intent."
+    },
+    {
+      "kept_keyword": "pre-made cookies",
+      "kept_slug": "pre-made-cookies-and-cookie-robots",
+      "folded": [
+        "cookie robot",
+        "cookie robot for tiktok",
+        "cookie history generator"
+      ],
+      "reason": "Bought or generated cookie history is one risk story."
+    },
+    {
+      "kept_keyword": "encrypted browser profiles",
+      "kept_slug": "profile-encryption-at-rest",
+      "folded": [
+        "chromium user-data-dir encryption",
+        "maskwright store key",
+        "cookie file plaintext"
+      ],
+      "reason": "One honesty page for what is encrypted and what is not."
+    },
+    {
+      "kept_keyword": "antidetect team seats",
+      "kept_slug": "why-we-refuse-team-seats",
+      "folded": [
+        "antidetect for teams",
+        "antidetect collaboration",
+        "solo antidetect operator"
+      ],
+      "reason": "No seats is one product fact."
+    },
+    {
+      "kept_keyword": "buy residential proxies antidetect",
+      "kept_slug": "residential-proxies-we-do-not-sell",
+      "folded": [
+        "antidetect mobile proxies",
+        "mobile proxies we do not bundle"
+      ],
+      "reason": "We do not sell or bundle any exit type."
+    },
+    {
+      "kept_keyword": "privacy sandbox fingerprinting",
+      "kept_slug": "after-third-party-cookies",
+      "folded": [
+        "chips partitioned cookies",
+        "topics api fingerprinting"
+      ],
+      "reason": "Post-cookie tracking is one adjacent page."
+    },
+    {
+      "kept_keyword": "how websites detect proxies",
+      "kept_slug": "how-websites-detect-proxies",
+      "folded": [
+        "what is proxy detection",
+        "proxy detection"
+      ],
+      "reason": "Same mechanism query."
+    },
+    {
+      "kept_keyword": "socks5 vs http proxy",
+      "kept_slug": "socks5-versus-http-proxies",
+      "folded": [
+        "what is socks5",
+        "socks5 proxy"
+      ],
+      "reason": "Protocol comparison answers the definition query."
+    }
+  ],
+  "rejected": [
+    {
+      "keywords": [
+        "ldcloud review",
+        "ugphone review",
+        "vsphone review",
+        "vmos cloud phone",
+        "redfinger android cloud",
+        "bitcloudphone review",
+        "duoplus cloud phone",
+        "geelark cloud phone",
+        "morelogin cloud phone",
+        "multilogin cloud phone review"
+      ],
+      "reason": "Cloud-phone review clones. Two pages cover the intent: what a cloud phone is, and cloud phone versus local Windows."
+    },
+    {
+      "keywords": [
+        "best antidetect browsers france",
+        "best antidetect browsers uk",
+        "best antidetect browsers germany",
+        "best antidetect browsers vietnam",
+        "best antidetect browsers turkey",
+        "best antidetect browsers usa",
+        "best antidetect browsers for mac"
+      ],
+      "reason": "Same commercial intent as best antidetect browsers local versus cloud, with a geo or OS modifier."
+    },
+    {
+      "keywords": [
+        "adspower vs gologin",
+        "dolphin anty alternatives",
+        "octo browser vs gologin",
+        "morelogin vs adspower",
+        "incogniton vs morelogin",
+        "multilogin chrome alternative"
+      ],
+      "reason": "Vendor-versus-vendor reviews we cannot honestly bench. Choice criteria live on how to choose."
+    },
+    {
+      "keywords": [
+        "tiktok shadow ban",
+        "how to unshadowban tiktok",
+        "instagram ban evasion",
+        "facebook account restricted",
+        "reddit ip banned",
+        "how to avoid ip blocking",
+        "warmup social accounts",
+        "buy facebook accounts",
+        "buy amazon seller accounts",
+        "buy twitter accounts"
+      ],
+      "reason": "Ban-evasion, warmup, and account-market playbooks. Isolation of authorized accounts is allowed. These queries are not."
+    },
+    {
+      "keywords": [
+        "how to run 50 tiktok accounts",
+        "how to create multiple paypal accounts",
+        "how to create multiple instagram accounts",
+        "manage multiple instagram accounts without getting banned"
+      ],
+      "reason": "Same intent as the authorized-platform pages, with farm or evasion modifiers we will not rank for."
+    },
+    {
+      "keywords": [
+        "how to pass creepjs",
+        "how to pass pixelscan",
+        "how to pass iphey",
+        "how to pass browserscan",
+        "how to pass browserleaks"
+      ],
+      "reason": "Same lab queries as the how-we-read pages. Pass-the-test intent is refused."
+    },
+    {
+      "keywords": [
+        "oxylabs review",
+        "bright data review",
+        "iproyal review",
+        "soax proxy review",
+        "best usa residential proxies",
+        "top 10 isp proxy providers",
+        "top 10 mobile proxy providers"
+      ],
+      "reason": "Provider listicles. One evaluation page replaces them."
+    },
+    {
+      "keywords": [
+        "tiktok algorithm 2026",
+        "youtube channel ideas",
+        "deep link vs universal link",
+        "best time to post on twitter"
+      ],
+      "reason": "Generic social-growth intent outside MaskWright topical authority."
+    },
+    {
+      "keywords": [
+        "onlyfans scraper",
+        "sneaker copping bots",
+        "ticketmaster presale bypass",
+        "how to bypass cloudflare"
+      ],
+      "reason": "Unauthorized collection or queue abuse."
+    },
+    {
+      "keywords": [
+        "why we stay local",
+        "local first antidetect",
+        "windows first on purpose",
+        "most secure browser vs antidetect"
+      ],
+      "reason": "Local architecture is the local-antidetect page. Secure-versus-antidetect is the privacy comparison. Most-secure-browsers is the listicle query."
+    },
+    {
+      "keywords": [
+        "cookie hygiene",
+        "cookie isolation vs cookie hygiene"
+      ],
+      "reason": "Same jar story as cookie-jars-are-not-optional plus session management."
+    },
+    {
+      "keywords": [
+        "tiktok cloud phone",
+        "rented androids and identity",
+        "cloud phones are not our product"
+      ],
+      "reason": "Covered by what-is-a-cloud-phone and cloud-phones-versus-local-windows."
+    },
+    {
+      "keywords": [
+        "manage multiple social media accounts",
+        "one machine many identities",
+        "isolated profiles on one pc"
+      ],
+      "reason": "Same intent as multiple-accounts-on-one-pc."
+    },
+    {
+      "keywords": [
+        "speech synthesis fingerprint",
+        "plugins mimetypes fingerprint",
+        "do not track fingerprint"
+      ],
+      "reason": "Real surfaces, no distinct search intent beyond the surfaces inventory page."
+    }
+  ]
+}

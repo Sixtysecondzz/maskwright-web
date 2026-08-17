@@ -1,0 +1,247 @@
+keyword,intent,cluster,class,competitor_urls,notes
+what is browser fingerprinting,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-fingerprint-browser-top-choices/ | https://multilogin.com/blog/browser-fingerprinting-for-business/,"They target the definition query. Write a mechanism page, not a tool list."
+what is device fingerprinting,informational,browser-fingerprinting,B,https://gologin.com/blog/device-fingerprinting/ | https://gologin.com/blog/device-fingerprinting-in-web-scraping/,GoLogin pages are from 2023. Separate device from browser fingerprint without recycling their outline.
+canvas fingerprinting,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-canvas-fingerprinting/ | https://multilogin.com/blog/the-great-myth-of-canvas-fingerprinting/,Windows ClearType and stable noise. Not a pass-the-lab guide.
+webgl fingerprint,informational,browser-fingerprinting,A,https://gologin.com/blog/ultimate-guide-to-webgl-fingerprint/ | https://gologin.com/blog/webgl-canvas-fingerprinting/,2023 combo page is 641 words. Keep WebGL separate from canvas.
+webgpu fingerprint,informational,browser-fingerprinting,C,,Zero crawl hits for WebGPU. Product implements navigator.gpu adapter info.
+webrtc leak,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-a-webrtc-leak/ | https://multilogin.com/blog/how-to-prevent-webrtc-leak/,Multilogin prevent page is thin. Explain STUN and local candidates.
+webrtc ip handling policy,how-to,browser-fingerprinting,C,,"Product modes: disabled, proxy, public, real. They explain leaks, not mode tradeoffs."
+audio fingerprinting,informational,browser-fingerprinting,C,,No OfflineAudioContext page in either crawl. Product seeds audio noise.
+font fingerprinting,informational,browser-fingerprinting,C,,No font-enumeration article in the crawl. Windows DirectWrite and allowlists.
+getclientrects fingerprint,informational,browser-fingerprinting,C,,No client-rects coverage. Product adds stable noise on getBoundingClientRect.
+user agent spoofing,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-a-user-agent/,"UA alone is not a profile. Pair with Client Hints in a sibling, not this page."
+client hints fingerprint,informational,browser-fingerprinting,C,,Zero Client Hints / UA-CH articles in the crawl. Product sets userAgentData.
+hardwareconcurrency fingerprint,informational,browser-fingerprinting,C,,No hardwareConcurrency page. Coherence with GPU and deviceMemory.
+screen fingerprint,informational,browser-fingerprinting,C,,"No dedicated screen-coherence page. Avail size, color depth, pixel ratio."
+timezone proxy mismatch,how-to,browser-fingerprinting,A,https://gologin.com/blog/what-is-timezone-spoofing-avoid-account-bans-safely/,"Their title is ban-framed. Ours is locale, language, and exit geo alignment."
+battery api fingerprint,informational,browser-fingerprinting,C,,No battery or media-deviceId article. Product implements both.
+fingerprint seed,informational,browser-fingerprinting,C,,They randomize for labs. We explain a stable seed versus a new identity.
+stable browser fingerprint,how-to,browser-fingerprinting,C,,"Stability across launches is not a crawl topic. Same folder, same seed."
+browserleaks,commercial,browser-fingerprinting,B,https://gologin.com/blog/how-to-pass-browserleaks/ | https://gologin.com/blog/browserleaks-review-fingerprint-testing/,"Poor intent: pass guides. We write how to read the page, not how to trophy it."
+creepjs,commercial,browser-fingerprinting,B,https://gologin.com/blog/how-to-pass-creepjs/,Pass-CreepJS intent. We cover consistency checks only.
+pixelscan,commercial,browser-fingerprinting,B,https://gologin.com/blog/how-to-pass-pixelscan/,"Pass-Pixelscan intent. Interpretation, not a walkthrough to green."
+iphey trust score,commercial,browser-fingerprinting,B,https://gologin.com/blog/how-to-pass-iphey/,Score chasing. We refuse trophy scores.
+browserscan,commercial,browser-fingerprinting,B,https://gologin.com/blog/how-to-pass-every-browserscan-fingerprint-test/,"Pass-every-test framing. Read the audit, do not game it."
+vpn fingerprinting,informational,browser-fingerprinting,B,https://gologin.com/blog/is-vpn-good-or-bad/ | https://multilogin.com/blog/vpn-leaks-explained/,GoLogin VPN page is 2021. VPN is not a fingerprint tool.
+geolocation spoofing,informational,browser-fingerprinting,A,https://gologin.com/blog/guide-to-geolocation-spoofing/,Geolocation API versus IP geo. Product aligns both to the exit.
+what is a dns leak,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-a-dns-leak/,Definition page. Windows resolver details live in the proxies sibling.
+what is an ip leak,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-an-ip-leak/ | https://multilogin.com/blog/what-is-ip-leak/,Definition. Do not merge with WebRTC or DNS.
+ja3 ja4 fingerprint,informational,browser-fingerprinting,C,,"No JA3/JA4 article in the crawl. Product: compile-time BoringSSL, not JS spoof."
+navigator.webdriver,informational,browser-fingerprinting,C,,No dedicated webdriver page. Product sets false and disables AutomationControlled.
+webgl vendor user agent match,informational,browser-fingerprinting,C,,They list surfaces. They do not write GPU and UA coherence.
+mobile user agent on desktop,informational,browser-fingerprinting,C,,Product is desktop only. Why a phone UA on Windows fails.
+macos fingerprint on windows,informational,browser-fingerprinting,C,,OS-family mismatch on a Windows host. They do not write this tell.
+test browser fingerprint,how-to,browser-fingerprinting,A,https://gologin.com/blog/browserleaks-review-fingerprint-testing/,Operational checklist before work. Not a lab-pass recipe.
+new fingerprint same profile,how-to,browser-fingerprinting,C,,"New paint, same Chromium folder. They do not warn about leftover jars."
+browser fingerprint surfaces,informational,browser-fingerprinting,B,https://multilogin.com/blog/5-elements-of-your-browser-fingerprint-you-need-to-know/ | https://multilogin.com/blog/top-browser-fingerprinting-techniques/,"2022-2023 lists, 800 words. Full surface inventory we actually implement."
+privacy sandbox fingerprinting,informational,browser-fingerprinting,D,,"Adjacent: Topics, CHIPS, third-party cookie loss. Neither blog built this."
+digital footprint vs browser fingerprint,informational,browser-fingerprinting,A,https://gologin.com/blog/what-is-a-digital-footprint/,They conflate accounts and cookies with canvas. Keep the distinction.
+cross browser fingerprinting,informational,browser-fingerprinting,D,,No cross-browser fingerprint page in the crawl.
+mac address fingerprint,informational,browser-fingerprinting,B,https://gologin.com/blog/what-is-mac-address-hiding/ | https://gologin.com/blog/mac-address-vs-ip-address/,Thin 2021 hiding page. MAC is not a browser surface. Product does not hide MACs.
+browser fingerprint spoofing,informational,browser-fingerprinting,B,https://gologin.com/blog/browser-fingerprint-spoofing-how-to-prevent-tracking/,2023 tracking-prevention page. Spoof versus reduce-signal is the gap.
+what is an antidetect browser,informational,antidetect-browsers,B,https://gologin.com/blog/what-is-antidetect-browser/,"Definition page dated 2023-11-02. Rewrite as local isolation, not a cloud locker."
+how antidetect browsers work,informational,antidetect-browsers,A,https://gologin.com/blog/choose-antidetect-browser/,They bury mechanics in a buyer guide. Standalone how-it-works page.
+how to choose antidetect browser,commercial,antidetect-browsers,B,https://gologin.com/blog/choose-antidetect-browser/ | https://multilogin.com/blog/how-to-select-anti-detect-browser/,"Multilogin checklist is 587 words from 2023. Local, BYO proxy, no seats."
+best antidetect browsers 2026,commercial,antidetect-browsers,A,https://gologin.com/blog/anti-fingerprinting-browser/,One local-versus-cloud roundup. Not a 40-tool clone.
+free antidetect browser,commercial,antidetect-browsers,A,https://gologin.com/blog/best-free-antidetect-browser/,What free means when ads sit in dashboard chrome.
+antidetect browser vs chrome,comparison,antidetect-browsers,A,https://gologin.com/blog/choose-antidetect-browser/,Chrome profiles are not isolated fingerprints. Distinct from the chrome-profiles sibling.
+antidetect browser vs vpn,comparison,antidetect-browsers,A,https://gologin.com/blog/is-vpn-good-or-bad/ | https://gologin.com/blog/best-vpn-browser/,VPN changes the exit. It does not isolate jars.
+antidetect vs incognito,comparison,antidetect-browsers,A,https://gologin.com/blog/incognito-mode-alternative/,Incognito is a temp jar on the same engine.
+tor browser alternative,comparison,antidetect-browsers,A,https://gologin.com/blog/tor-browser-alternative/,Tor is anonymity routing. Antidetect is profile isolation. Do not sell Tor as a farm tool.
+chrome profiles vs antidetect,comparison,antidetect-browsers,C,,They mention Chrome profiles as a weak alternative. No dedicated page.
+firefox containers vs antidetect,comparison,antidetect-browsers,D,,No containers page in the crawl. Cookie jars without fingerprint isolation.
+multi account browser,commercial,antidetect-browsers,A,https://gologin.com/blog/multi-account-browser/,Category term. Authorized rooms only.
+multi session browser,commercial,antidetect-browsers,A,https://gologin.com/blog/multi-session-browser/,SessionBox-class query. Distinct from multi-account.
+antidetect browser windows,commercial,antidetect-browsers,A,https://gologin.com/blog/best-anti-detect-browser-for-windows-pc/,Public channel is Windows 10/11 x64. Do not invent a Mac pack.
+antidetect chromium,informational,antidetect-browsers,C,,"Crawl has product-update Chromium notes, not a core explainer. Target 131 plus fallback."
+firefox antidetect browser,comparison,antidetect-browsers,C,,Zero Firefox-core articles. Camoufox is the sibling commercial query.
+camoufox,commercial,antidetect-browsers,A,https://gologin.com/blog/camoufox-vs-gologin-honest-review/ | https://multilogin.com/blog/camoufox-alternatives/,They review Camoufox as a rival. We have it as an optional Firefox core.
+local antidetect browser,commercial,antidetect-browsers,C,,They sell cloud lockers. Local-first is the gap.
+antidetect browser no account,commercial,antidetect-browsers,C,,No no-account positioning in their blogs. Product has no login.
+antidetect profile limit,commercial,antidetect-browsers,C,,They meter seats and profiles. Local disk is the real cap.
+antidetect vendor lock-in,commercial,antidetect-browsers,C,,Cloud sync lock-in is not a topic they want. Export and local folders.
+do I need an antidetect browser,commercial,antidetect-browsers,C,,Honest no. Platform roles and one Chrome profile are enough for many desks.
+most secure browsers,commercial,antidetect-browsers,A,https://gologin.com/blog/best-secure-browsers/ | https://gologin.com/blog/safest-browsers-privacy/ | https://gologin.com/blog/best-browser-for-privacy/,They rank Brave and Mullvad as if they were antidetect. Different jobs. The versus query lives under privacy.
+best antidetect browsers for smm,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browsers-for-smm/,"Commercial use-case. Authorized brand rooms, not a farm list."
+best antidetect browsers for affiliate marketing,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browsers-for-affiliate-marketing/,Commercial use-case. Ops isolation lives under ecommerce.
+best antidetect browsers for dropshipping,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browsers-for-dropshipping/,Commercial use-case. Store ops live under ecommerce.
+best antidetect browsers for web scraping,commercial,antidetect-browsers,A,https://gologin.com/blog/best-anti-detect-browsers-for-web-scraping/,Commercial use-case. Ethics live under scraping.
+best antidetect browsers for media buying,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browsers-for-media-buying/,"Ads-account isolation, not spend-limit evasion."
+best antidetect browsers for seo,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browsers-for-seo/,SERP research rooms. Not rank manipulation.
+ghost browser alternative,comparison,antidetect-browsers,A,https://gologin.com/blog/ghost-browser-alternative/ | https://multilogin.com/blog/multilogin-vs-ghostbrowser-vs-sessionbox/,Multi-session Chrome versus isolated engines.
+browser as a service,commercial,antidetect-browsers,A,https://gologin.com/blog/browser-as-a-service-with-gologin-cloud-browser/,BaaS holds the jar on someone else's disk.
+custom chromium vs chrome,informational,antidetect-browsers,C,,Product falls back to system Chrome or Edge when the 131 core is missing.
+antidetect browser for android,commercial,antidetect-browsers,A,https://gologin.com/blog/best-antidetect-browser-for-android/ | https://gologin.com/blog/best-antidetect-browsers-for-iphone/,One mobile piece. We do not ship Android or iPhone. Desktop profiles only.
+antidetect browser for agencies,commercial,antidetect-browsers,C,,They sell team seats. We do not. Platform roles and local vaults.
+proxy browser vs antidetect,comparison,antidetect-browsers,A,https://gologin.com/blog/best-proxy-browsers/,A proxy browser changes the exit. It does not isolate fingerprints.
+virtual machine vs antidetect,comparison,antidetect-browsers,B,https://gologin.com/blog/virtual-machine-vs-anti-detect-browser/,"2021 page, 1248 words. VM versus profile isolation on one Windows box."
+browser automation vs antidetect,comparison,automation,A,https://gologin.com/blog/browser-automation-with-selenium/ | https://multilogin.com/blog/web-browser-automation-using-selenium/,A headed profile is not a driver. Pillar for this cluster.
+playwright antidetect,commercial,automation,B,https://gologin.com/blog/selenium-vs-playwright/ | https://multilogin.com/blog/test-automation-playwright-vs-selenium/,"2023 pages, thin. Product has no Playwright export. Say that."
+puppeteer stealth,commercial,automation,C,,Zero Puppeteer articles in the crawl. Stealth plugins are not a profile.
+selenium detection,commercial,automation,B,https://gologin.com/blog/browser-automation-with-selenium/ | https://gologin.com/blog/using-selenium-with-gologin/,"413 and 495 words, 2020-2021. WebDriver flags, no product integration."
+playwright vs puppeteer vs selenium,comparison,automation,B,https://gologin.com/blog/selenium-vs-playwright/ | https://multilogin.com/blog/test-automation-playwright-vs-selenium/,"Outdated pairwise pages. One comparison, official APIs first, no stealth recipes."
+headless browser detection,informational,automation,A,https://multilogin.com/blog/what-is-headless-browser/ | https://multilogin.com/blog/best-headless-browsers/,Headed versus headless tells. Not a hide-the-driver guide.
+ai agent browser,commercial,automation,A,https://gologin.com/blog/best-ai-browsers-for-agents-mcp-more/,Agent browsers versus operator-owned profiles.
+antidetect rpa,commercial,automation,A,https://gologin.com/blog/bitcloudphone-review/,They sell window sync and RPA on cloud phones. We will not ship either.
+browser bot vs api,informational,automation,C,,Official APIs versus UI bots. They rank on bot how-tos.
+chrome remote debugging,informational,automation,C,,Product uses an ephemeral CDP port internally. Not a user automation API.
+human typing simulation,informational,automation,C,,Keyboard timing packs are theater. They sell warmup. We refuse.
+batch browser profiles,how-to,automation,C,,Product can bulk start and stop. That is not a farm.
+ethical browser automation,informational,automation,C,,"Policy page for this desk. Authorized work, official channels."
+captcha solver,commercial,automation,A,https://gologin.com/blog/test-drive-of-captcha-solving-services/ | https://gologin.com/blog/best-captcha-solving-service/,"They review solvers. Captchas are a stop sign, not a product feature."
+local browser scripts,how-to,automation,C,,Scripts stay outside work rooms. Product is not an RPA host.
+agent browser vs antidetect,comparison,automation,D,,Adjacent to the AI-browser commercial page. Operator profile versus agent runtime.
+mcp antidetect automation,commercial,automation,B,https://gologin.com/blog/unlock-gologin-automation-a-guide-to-using-mcp-with-your-ai-assistant/,1001-word MCP promo. We are not an MCP runtime.
+social media automation tools,commercial,automation,A,https://multilogin.com/blog/best-social-media-automation-tools/ | https://multilogin.com/blog/social-media-automation/,Refuse unofficial schedulers and engagement bots.
+linkedin automation tools,commercial,automation,A,https://gologin.com/blog/best-linkedin-automation-tools/ | https://multilogin.com/blog/best-linkedin-automation-tools/,Distinct LinkedIn query. Licensed seats and official tools only.
+browserless io,commercial,automation,A,https://gologin.com/blog/is-browserless-actually-any-good/ | https://gologin.com/blog/is-browserbase-any-good/,Cloud automation browsers hold the session off-box.
+maskwright automation,commercial,automation,C,,"Product honesty: no Playwright, Puppeteer, Selenium, or agent runtime in 0.1."
+proxy antidetect browser,commercial,proxies,A,https://gologin.com/blog/what-are-proxies/ | https://gologin.com/blog/best-proxy-browsers/,BYO HTTP and SOCKS5. No bundled exits.
+what are proxies,informational,proxies,A,https://gologin.com/blog/what-are-proxies/,Beginner definition. Keep provider upsells out.
+how to use a proxy server,how-to,proxies,A,https://gologin.com/blog/how-to-use-a-proxy-server/,"Chrome and OS setup. Our angle is per-profile, not system-wide."
+socks5 vs http proxy,comparison,proxies,A,https://multilogin.com/blog/top-socks5-residential-proxy-providers/,"They list SOCKS5 vendors. We compare protocols. Product parses http, https, socks5."
+byo proxy,commercial,proxies,C,,They broker or upsell exits. Credentials stay local. We do not sell traffic.
+check proxy ip,how-to,proxies,B,https://multilogin.com/blog/ip-checker-automatically-match-browser-location-settings-to-external-ip-address-settings/,"2019 page, 446 words. Exit check before launch. Product uses ip-api.com."
+proxy fingerprint match,how-to,proxies,A,https://multilogin.com/blog/ip-checker-automatically-match-browser-location-settings-to-external-ip-address-settings/,"Geo, timezone, language alignment. Product does this on start."
+sticky proxy,informational,proxies,A,https://multilogin.com/blog/how-to-use-residential-proxies/,Sticky sessions for logins. Covers residential sticky. Do not split a second sticky page.
+rotating proxy accounts,how-to,proxies,A,https://multilogin.com/blog/how-to-use-residential-proxies/,Rotating exits break cookies. Not a ban-evasion tip.
+proxy user pass format,how-to,proxies,C,,host:port:user:pass and URL forms. HTTP auth extension versus SOCKS5 handshake.
+dns leak windows proxy,how-to,proxies,A,https://gologin.com/blog/what-is-a-dns-leak/,Windows resolver and IPv6 adjacent. Definition stays on the fingerprinting sibling.
+ipv6 leak proxy,how-to,proxies,C,,No Windows IPv6 leak page in the crawl.
+proxy cookies session,how-to,proxies,C,,"New exit, old jar. They treat this as a warmup trick. We treat it as hygiene."
+proxy logging privacy,informational,proxies,C,,What we refuse to log. Credentials live in encrypted profiles.json.
+what are residential proxies,informational,proxies,A,https://multilogin.com/blog/how-to-use-residential-proxies/ | https://gologin.com/blog/technical-comparison-of-the-top-10-residential-proxy-providers/,Definition. No provider top-10 clone.
+residential vs datacenter proxies,comparison,proxies,B,https://gologin.com/blog/datacenter-proxies-vs-residential-proxies/ | https://multilogin.com/blog/datacenter-vs-residential-ip-proxies-your-complete-guide/,"GoLogin 2021, Multilogin 2023. Refresh without a vendor table."
+isp proxies,informational,proxies,B,https://multilogin.com/blog/what-is-an-isp-proxy/ | https://gologin.com/blog/top-isp-proxy-providers/,Multilogin definition is 878 words. Not a top-10 provider list.
+ethical residential proxies,informational,proxies,C,,Consent and malware-kit exits. They skip ethics.
+residential proxy vs vpn,comparison,proxies,A,https://gologin.com/blog/what-does-a-vpn-hide/,Distinct from antidetect-versus-VPN. This is exit type.
+test residential proxy,how-to,proxies,A,https://multilogin.com/blog/fast-residential-proxies/,"Exit, ASN, sticky, leak checks. Product geo check is TCP plus ip-api."
+shared residential ip,informational,proxies,D,,Shared subnets. No dedicated crawl page.
+buy residential proxies antidetect,commercial,proxies,C,,They sell or rank providers. We do not broker traffic.
+what are mobile proxies,informational,proxies,A,https://multilogin.com/blog/what-is-a-mobile-proxy/ | https://gologin.com/blog/top-10-mobile-proxy-providers-technical-testing-and-comparison/,"Definition plus 4G/5G. One page, not a provider list."
+mobile proxy vs cloud phone,comparison,proxies,A,https://multilogin.com/blog/what-is-a-mobile-proxy/,Carrier exit versus a rented Android. Not a cloud-phone review.
+mobile ip desktop browser,informational,proxies,C,,Mobile ASN on a desktop UA. Product is desktop only.
+mobile vs residential proxies,comparison,proxies,A,https://multilogin.com/blog/what-is-a-mobile-proxy/,Carrier versus residential. Distinct from ISP versus residential.
+cgnat proxy,informational,proxies,D,,Carrier-grade NAT. No crawl page.
+how websites detect proxies,informational,proxies,B,https://multilogin.com/blog/how-do-websites-detect-if-you-re-using-proxies/ | https://multilogin.com/blog/what-is-proxy-detection/,"Detection page is 573 words. Mechanism, not a hide-the-proxy guide."
+https proxy,informational,proxies,C,,Product parses https as an HTTP forwarder. TLS-to-proxy is not implemented.
+how to choose a proxy provider,commercial,proxies,B,https://gologin.com/blog/technical-comparison-of-the-top-10-residential-proxy-providers/ | https://multilogin.com/blog/best-residential-proxy-providers/,Replaces ten vendor reviews. Evaluation criteria only.
+free proxy list,commercial,proxies,B,https://multilogin.com/blog/socks5-proxy-list/ | https://multilogin.com/blog/free-proxy-server-list-korea/,Thin listicles. Free lists are a trap.
+isp proxies vs residential,comparison,proxies,B,https://multilogin.com/blog/isp-proxies-vs-residential-proxies/,1034 words. Distinct from residential versus datacenter.
+multiple accounts one computer,commercial,social-media,A,https://gologin.com/blog/manage-multiple-online-accounts-on-one-device/ | https://gologin.com/blog/multiple-social-media-accounts/,Pillar. Authorized rooms on one PC. Not a farm playbook.
+cookie isolation,informational,social-media,A,https://gologin.com/blog/browser-session-management/,Why jars cannot be shared. Import how-to lives under privacy.
+legitimate multiple accounts,informational,social-media,C,,They write create-unlimited guides. We write authorized only.
+how websites link accounts,informational,social-media,A,https://gologin.com/blog/manage-multiple-online-accounts-on-one-device/,"Payment, device, graph, and jar overlap. Not a hide-the-link guide."
+same ip multiple accounts,informational,social-media,A,https://gologin.com/blog/manage-multiple-online-accounts-on-one-device/,Household IP versus profile isolation. Distinct from proxy pages.
+are multiple accounts legal,informational,social-media,A,https://gologin.com/blog/manage-multiple-online-accounts-on-one-device/,"Terms of service, not legal advice. No evasion framing."
+business manager roles vs profiles,informational,social-media,C,,Platform roles beat extra logins. They sell more profiles instead.
+2fa antidetect,how-to,social-media,C,,2FA stays on a real device. No SMS farms.
+clone browser profile,how-to,social-media,A,https://gologin.com/blog/browser-session-share/,"Stencil settings, not a live cookie dump."
+create antidetect profile,how-to,social-media,C,,"First profile checklist. Proxy, locale, core, empty jar."
+manage instagram accounts antidetect,commercial,social-media,A,https://gologin.com/blog/multiple-instagram-accounts/ | https://multilogin.com/blog/managing-multiple-instagram-accounts/,Authorized brand and creator rooms. No shadowban chapter.
+instagram cookies,how-to,social-media,A,https://gologin.com/blog/cookie-import-export/,Session hygiene for Instagram. Not a cookie-buy guide.
+instagram business suite profiles,how-to,social-media,A,https://gologin.com/blog/multiple-instagram-accounts/,Meta Business Suite as the native control plane. Covers Instagram ads entry.
+instagram device fingerprint,informational,social-media,A,https://gologin.com/blog/what-instagram-account-can-be-banned/,Shared device signals. Their page is a ban guide. Ours is mechanism.
+instagram competitor research,how-to,social-media,A,https://gologin.com/blog/web-scraping-instagram-with-python/,Public research without mixing jars. No scraper code.
+instagram scheduler safety,commercial,social-media,A,https://multilogin.com/blog/best-social-media-automation-tools/,Official Meta tools versus unofficial helpers.
+tiktok web login,how-to,social-media,A,https://gologin.com/blog/how-to-use-tiktok-web-login/,Web versus the app. Product is a desktop browser.
+tiktok ads manager antidetect,commercial,social-media,A,https://gologin.com/blog/multiple-tiktok-accounts/,Ads Manager and Business Center hygiene in one page. Authorized advertisers.
+tiktok device check,informational,social-media,A,https://gologin.com/blog/multiple-tiktok-accounts/,Device checks we can see from a desktop profile. No bypass.
+multiple tiktok accounts brand,commercial,social-media,A,https://gologin.com/blog/multiple-tiktok-accounts/,Creator accounts the operator owns. Not how to run 50 safely.
+tiktok pixel isolation,how-to,social-media,A,https://gologin.com/blog/multiple-tiktok-accounts/,Pixel bleed across rooms.
+facebook business manager antidetect,commercial,social-media,A,https://gologin.com/blog/multiple-accounts-on-facebook/,Business Manager isolation. No recycled BMs.
+facebook pixel isolation,how-to,social-media,A,https://gologin.com/blog/multiple-accounts-on-facebook/,Pixels stay in brand rooms.
+facebook personal vs business browser,informational,social-media,A,https://gologin.com/blog/multiple-accounts-on-facebook/,Personal login versus work rooms.
+facebook page roles,how-to,social-media,A,https://gologin.com/blog/multiple-accounts-on-facebook/,"Page roles, not cookie dumps."
+facebook ads account limit,informational,social-media,A,https://gologin.com/blog/facebook-ad-account-disabled/,Limits are business facts. Their page is a restore guide. We will not write restore steps.
+reddit antidetect browser,commercial,social-media,A,https://gologin.com/blog/multiple-reddit-accounts/,Brand and community rooms. No karma farm.
+reddit mod account isolation,how-to,social-media,A,https://gologin.com/blog/multiple-reddit-accounts/,Moderation accounts stay separate from brand promo.
+reddit ads manager,how-to,social-media,A,https://gologin.com/blog/how-to-choose-best-reddit-proxy/,Ads Manager isolation. Their page is a proxy list.
+reddit api vs browser,comparison,social-media,A,https://gologin.com/blog/web-scraping-reddit/,Official API versus headed browsing. 2023 scrape guide is the weak competitor page.
+linkedin multiple accounts,commercial,social-media,A,https://gologin.com/blog/linkedin-multiple-accounts/,Company pages and licensed seats. No invitation-limit bypass.
+linkedin sales navigator browser,commercial,social-media,A,https://gologin.com/blog/linkedin-multiple-accounts/,Sales Navigator stays licensed.
+linkedin recruiter antidetect,commercial,social-media,A,https://gologin.com/blog/linkedin-multiple-accounts/,Recruiter workflows you already pay for.
+linkedin campaign manager,how-to,social-media,A,https://gologin.com/blog/linkedin-multiple-accounts/,Campaign Manager isolation.
+linkedin public profile research,how-to,social-media,A,https://gologin.com/blog/scraping-data-from-linkedin/,Public pages. Their page is a scraper guide. No inbox scrape.
+youtube studio antidetect,commercial,social-media,A,https://multilogin.com/blog/youtube-studio-desktop-login/ | https://gologin.com/blog/how-to-run-multiple-youtube-accounts/,Studio on a local profile. Brand accounts are the sibling.
+youtube brand account isolation,how-to,social-media,A,https://gologin.com/blog/how-to-run-multiple-youtube-accounts/,Brand Accounts versus extra Google logins.
+google account linking youtube,informational,social-media,A,https://gologin.com/blog/manage-multiple-google-accounts/,Google account clusters. Gmail sibling covers mail isolation.
+manage twitter accounts antidetect,commercial,social-media,A,https://gologin.com/blog/multiple-twitter-accounts/,Brand accounts you own. No engagement farm.
+twitter ads manager browser,how-to,social-media,A,https://gologin.com/blog/multiple-twitter-accounts/,Ads Manager isolation.
+twitter api vs bot,comparison,social-media,A,https://gologin.com/blog/web-scraping-twitter-with-python/,Official API versus unofficial helpers.
+multiple discord accounts,commercial,social-media,A,https://gologin.com/blog/the-easiest-way-to-run-multiple-discord-accounts/,Community and brand servers. Their page is a free-farm guide.
+multiple telegram accounts,commercial,social-media,A,https://gologin.com/blog/telegram-account-banned/,Brand channels. Their page is a ban-recovery guide. No recovery steps.
+multiple gmail accounts,commercial,social-media,A,https://gologin.com/blog/manage-multiple-google-accounts/,Google account isolation for work. No warmup protocol.
+dropshipping multiple stores,commercial,ecommerce,A,https://gologin.com/blog/best-antidetect-browsers-for-dropshipping/ | https://gologin.com/blog/what-is-dropshipping/,Pillar. Storefront isolation on one PC. 2024 dropshipping explainers are dated.
+supplier portal isolation,how-to,ecommerce,C,,Supplier login versus retail admin. They do not split these rooms.
+amazon multiple seller accounts,commercial,ecommerce,A,https://gologin.com/blog/multiple-amazon-accounts/ | https://multilogin.com/blog/how-to-manage-multiple-amazon-accounts/,Authorized entities only. No buy-account chapter.
+dropshipping product research,how-to,ecommerce,A,https://gologin.com/blog/best-dropshipping-tools/,Cold research room. No customer data in that profile.
+store payout isolation,how-to,ecommerce,C,,Payout and tax tabs stay in the legal entity room.
+shipping addon isolation,how-to,ecommerce,C,,Unpacked extensions are per profile. Product supports that.
+ecommerce data isolation,how-to,ecommerce,C,,Customer exports never land in a research profile.
+clone ecommerce profile,how-to,ecommerce,C,,"Store stencil, not a live seller session."
+marketplace one identity rules,informational,ecommerce,A,https://gologin.com/blog/multiple-amazon-accounts/ | https://gologin.com/blog/multiple-ebay-accounts/,One-identity marketplace rules. We will not multiply seller IDs.
+multiple etsy shops,commercial,ecommerce,A,https://gologin.com/blog/how-to-run-multiple-etsy-shops/ | https://multilogin.com/blog/can-i-create-multiple-etsy-shops/,Authorized shops. Their manage-without-bans page is the poor-intent sibling we skip.
+multiple ebay seller accounts,commercial,ecommerce,A,https://gologin.com/blog/multiple-ebay-accounts/ | https://multilogin.com/blog/how-to-create-and-manage-multiple-ebay-accounts/,Authorized sellers. No stealth-identity guide.
+shopify multiple stores,commercial,ecommerce,A,https://multilogin.com/blog/how-to-create-multiple-shopify-stores/ | https://multilogin.com/blog/managing-shopify-multiple-stores/,Staff accounts and store isolation. No email scrape.
+multiple airbnb accounts,commercial,ecommerce,A,https://gologin.com/blog/multiple-airbnb-accounts/,Authorized listings and partners. Their page pushes extra accounts. We follow Airbnb's one-account rule where it applies.
+affiliate dashboard isolation,how-to,ecommerce,A,https://gologin.com/blog/best-affiliate-marketing-tools/,Network dashboards in separate rooms. Distinct from the antidetect-for-affiliate commercial page.
+affiliate self click fraud,informational,ecommerce,C,,Self-clicks are fraud. They skip this.
+affiliate landing page research,how-to,ecommerce,D,,Research rooms for creatives. No cloaking.
+affiliate cloaking extension,commercial,ecommerce,C,,Cloaking extensions we refuse. Product can load unpacked extensions. That is not permission to cloak.
+paypal business isolation,how-to,ecommerce,C,,They have create-multiple-PayPal guides. We cover business versus personal for one entity.
+best antidetect browsers for amazon,commercial,ecommerce,A,https://multilogin.com/blog/best-antidetect-browsers-for-amazon/,Commercial Amazon query. Ops live on the Seller Central sibling.
+what is web scraping,informational,scraping,B,https://gologin.com/blog/what-is-web-scraping-examples-2023/,2023 definition. Pillar. Official channels first.
+ethical web scraping,informational,scraping,C,,Ethics they underwrite because they sell bypass. Our rules.
+robots.txt scraping,informational,scraping,C,,robots.txt and terms come first. No crawl page treats this as the rule.
+scraping api vs browser,comparison,scraping,A,https://gologin.com/blog/web-scraping-tools-services/,Official APIs versus headed collection.
+slow scraping,how-to,scraping,C,,"Public pages, slowly. They optimize for volume."
+scrape rate limit,informational,scraping,A,https://gologin.com/blog/web-scraping-common-challenges/,"Rate limits are a contract, not a puzzle."
+captcha scraping,informational,scraping,A,https://gologin.com/blog/best-captcha-solving-service/,Distinct from the captcha-solver commercial page. Here captcha stops collection.
+scraper user agent,how-to,scraping,C,,Honest UA for research clients. Not a random Chrome string.
+scrape data storage,how-to,scraping,D,,Where research files live. Adjacent hygiene.
+facebook ads library scraping,commercial,scraping,A,https://multilogin.com/blog/facebook-ads-library-scraping/,Public Ads Library. Manual and official tools first. No login scrape.
+scrape behind login,informational,scraping,C,,Behind-login collection is not research.
+playwright scraping own site,how-to,scraping,C,,Playwright on properties you own. Product does not ship Playwright.
+cloudflare scraping ethics,informational,scraping,A,https://gologin.com/blog/web-scraping-service-cloudflare-bypass/,Their page is a bypass guide. Ours is official channels only.
+scraping personal data,informational,scraping,C,,Personal data collection. They scrape emails from Shopify stores.
+undetectable scraper,commercial,scraping,A,https://gologin.com/blog/best-web-scraping-tools-bypassing-cloudflare/,We will not hide a scraper.
+scraping browser,informational,scraping,A,https://gologin.com/blog/15-best-scraping-browsers-tools/,What a scraping browser is. Best-of lives under antidetect-for-scraping.
+web scraping with python,how-to,scraping,A,https://gologin.com/blog/web-scraping-with-python/ | https://multilogin.com/blog/web-scraping-with-python/,Overview. Official libraries and APIs. No stealth stack.
+web scraping tools,commercial,scraping,B,https://gologin.com/blog/web-scraping-tools-open-source-dev-kit/ | https://gologin.com/blog/web-scraping-tools-services/,"2023-2025 lists. Refresh as a criteria page, not a 15-tool clone."
+proxies for web scraping,commercial,scraping,A,https://gologin.com/blog/web-scraping-proxy/ | https://multilogin.com/blog/best-datacenter-proxies-for-web-scraping/,When a proxy is enough and when a headed profile is the wrong tool.
+instagram scraping,commercial,scraping,B,https://gologin.com/blog/web-scraping-instagram-with-python/,2023 code guide. Public research versus scrape. No code stealth.
+linkedin scraper tools,commercial,scraping,A,https://multilogin.com/blog/best-linkedin-scraper-tools/ | https://gologin.com/blog/scraping-data-from-linkedin/,We will not scrape LinkedIn inboxes. Official API and public pages.
+antidetect telemetry,informational,privacy,C,,"Pillar. Ads feed, updater, ip-api, ad iframes. No analytics SDK. No profile upload."
+secure browser vs antidetect,comparison,privacy,A,https://gologin.com/blog/best-secure-browsers/ | https://gologin.com/blog/safest-browsers-privacy/,Security hardening versus isolation. Distinct from the antidetect cluster comparison.
+encrypted browser profiles,informational,privacy,C,,Honesty: profiles.json is AES-256-GCM. Chromium user-data dirs and cookie JSON are not.
+browser extension isolation,how-to,privacy,A,https://gologin.com/blog/best-cookie-editor/,Unpacked extensions per profile. They review cookie editors.
+browser downloads isolation,how-to,privacy,D,,Download trays leak across rooms. No crawl page.
+localstorage isolation,informational,privacy,C,,Zero localStorage articles in the crawl. Product imports and exports JSON.
+antidetect breach,informational,privacy,C,,"If a cloud vendor is breached, they hold the jars. Local disk is the contrast."
+browser update hygiene,how-to,privacy,C,,electron-updater to updates.maskwright.com. Core version versus spoofed UA.
+bandwidth sharing sdk,informational,privacy,C,,We dropped bandwidth-sharing SDKs. They sometimes bundle exits.
+what is a cloud browser,informational,privacy,A,https://gologin.com/blog/best-cloud-browsers/ | https://gologin.com/blog/browser-as-a-service-with-gologin-cloud-browser/,Definition. Risk sibling is next.
+cloud browser security,commercial,privacy,A,https://gologin.com/blog/best-cloud-browsers/,Who can read the session on a rented browser.
+what is a cloud phone,informational,privacy,A,https://gologin.com/blog/ldcloud-review/ | https://multilogin.com/blog/duoplus-cloud-phone-review/,"One definition page. Not a review of LDCloud, UgPhone, VSPhone, or the rest."
+cloud phone vs antidetect browser,comparison,privacy,A,https://gologin.com/blog/ldcloud-review/ | https://gologin.com/blog/ugphone-review/,Second and last cloud-phone piece. Local Windows versus a rented Android.
+browser data residency,informational,privacy,C,,Residency is the operator disk. They hold cloud copies.
+antidetect sync,commercial,privacy,C,,No cloud profile sync in the product. That is the point.
+cloud browser cookies,informational,privacy,C,,Who holds the cookie jar when the browser is rented.
+offline antidetect browser,commercial,privacy,C,,"CRUD works offline. Ads, updates, and geo checks need a network unless blocked."
+antidetect team seats,commercial,privacy,C,,No team seats. Platform roles and contractors without a shared vault.
+contractor ad account access,how-to,privacy,C,,"Contractor access through platform roles, not a mailed user-data folder."
+send browser profile,how-to,privacy,C,,Do not email a Chromium user-data directory.
+antidetect audit log,informational,privacy,C,,Audit trails need a server. We do not have one for profiles.
+import cookies antidetect,how-to,privacy,B,https://gologin.com/blog/cookie-import-export/,2022 page. Netscape and JSON. CDP setCookies. Files are plaintext on disk.
+import localstorage,how-to,privacy,C,,No localStorage import page in the crawl. Product supports JSON import and export.
+backup antidetect profiles,how-to,privacy,C,,No cloud sync means you back up maskwright-data.
+antidetect disk space,informational,privacy,C,,Chromium user-data dirs grow. No crawl page on disk use.
+antidetect app ads,informational,privacy,C,,"Ads in dashboard chrome, not in launched tabs. Feed plus iframe wrappers."
+free antidetect monetization,commercial,privacy,C,,Owned ad slots fund the app. Distinct from the free-antidetect commercial page.
+cookie based session management,informational,privacy,B,https://multilogin.com/blog/what-is-cookie-based-session-management/,1163 words. Session versus fingerprint. Cookie robot merge lives in pre-made cookies.
+browser session share,how-to,privacy,A,https://gologin.com/blog/browser-session-share/,Sharing a live session is sharing the jar.
+windows smartscreen unsigned app,informational,privacy,D,,Installer may be unsigned. SmartScreen is expected. Adjacent Windows trust.
+ip-api geo lookup privacy,informational,privacy,C,,Exit geo via ip-api.com and geojs.io. That traffic leaves the machine.
+indexeddb isolation,informational,privacy,D,,IndexedDB is a third jar. No crawl page. Product does not encrypt it.
+pre-made cookies,commercial,privacy,B,https://multilogin.com/blog/what-are-pre-made-cookies/ | https://multilogin.com/blog/cookierobot-automatically-create-cookie-history-for-your-browser/,Cookie robot 2019 is 844 words. Risks of bought history. Not a how-to-buy.

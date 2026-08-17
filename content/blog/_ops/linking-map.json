@@ -1,0 +1,4758 @@
+[
+  {
+    "slug": "what-is-an-antidetect-browser",
+    "related": [
+      "antidetect-browser-vs-chrome",
+      "antidetect-browser-vs-vpn",
+      "antidetect-browser-vs-incognito",
+      "best-antidetect-browsers-local-vs-cloud",
+      "free-antidetect-browser-what-free-means",
+      "x-research-rooms",
+      "window-sync-and-rpa-we-will-not-ship"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-vs-chrome",
+    "related": [
+      "antidetect-browser-vs-vpn",
+      "antidetect-browser-vs-incognito",
+      "best-antidetect-browsers-local-vs-cloud",
+      "free-antidetect-browser-what-free-means",
+      "how-antidetect-browsers-work",
+      "marketplace-one-identity-rules",
+      "reddit-research-versus-automation"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-vs-vpn",
+    "related": [
+      "antidetect-browser-vs-incognito",
+      "best-antidetect-browsers-local-vs-cloud",
+      "free-antidetect-browser-what-free-means",
+      "how-antidetect-browsers-work",
+      "antidetect-browser-for-windows",
+      "iphey-scores-are-not-verdicts",
+      "product-research-in-a-cold-room"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-vs-incognito",
+    "related": [
+      "best-antidetect-browsers-local-vs-cloud",
+      "free-antidetect-browser-what-free-means",
+      "how-antidetect-browsers-work",
+      "antidetect-browser-for-windows",
+      "chromium-core-in-an-antidetect-browser",
+      "agent-browsers-versus-operator-profiles",
+      "rotating-proxies-break-logins"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "best-antidetect-browsers-local-vs-cloud",
+    "related": [
+      "free-antidetect-browser-what-free-means",
+      "how-antidetect-browsers-work",
+      "antidetect-browser-for-windows",
+      "chromium-core-in-an-antidetect-browser",
+      "firefox-vs-chromium-antidetect-cores",
+      "agents-and-official-apis",
+      "x-brand-accounts-on-a-local-profile"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "free-antidetect-browser-what-free-means",
+    "related": [
+      "how-antidetect-browsers-work",
+      "antidetect-browser-for-windows",
+      "chromium-core-in-an-antidetect-browser",
+      "firefox-vs-chromium-antidetect-cores",
+      "camoufox-and-firefox-antidetect-notes",
+      "affiliate-extensions-we-refuse",
+      "instagram-and-residential-exits"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "how-antidetect-browsers-work",
+    "related": [
+      "antidetect-browser-for-windows",
+      "chromium-core-in-an-antidetect-browser",
+      "firefox-vs-chromium-antidetect-cores",
+      "camoufox-and-firefox-antidetect-notes",
+      "why-we-built-a-local-antidetect-browser",
+      "offline-operator-days",
+      "x-brand-accounts-on-a-local-profile"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-for-windows",
+    "related": [
+      "chromium-core-in-an-antidetect-browser",
+      "firefox-vs-chromium-antidetect-cores",
+      "camoufox-and-firefox-antidetect-notes",
+      "why-we-built-a-local-antidetect-browser",
+      "antidetect-browser-without-an-account",
+      "sharing-profiles-is-sharing-cookies",
+      "reddit-ip-blocks-what-we-observe"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "chromium-core-in-an-antidetect-browser",
+    "related": [
+      "firefox-vs-chromium-antidetect-cores",
+      "camoufox-and-firefox-antidetect-notes",
+      "why-we-built-a-local-antidetect-browser",
+      "antidetect-browser-without-an-account",
+      "antidetect-profile-caps-vs-local-limits",
+      "tiktok-pixel-and-cookie-bleed",
+      "x-api-versus-unofficial-helpers"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "firefox-vs-chromium-antidetect-cores",
+    "related": [
+      "camoufox-and-firefox-antidetect-notes",
+      "why-we-built-a-local-antidetect-browser",
+      "antidetect-browser-without-an-account",
+      "antidetect-profile-caps-vs-local-limits",
+      "vendor-lock-in-in-antidetect-tools",
+      "mobile-proxies-we-do-not-bundle",
+      "rented-androids-and-identity"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "camoufox-and-firefox-antidetect-notes",
+    "related": [
+      "why-we-built-a-local-antidetect-browser",
+      "antidetect-browser-without-an-account",
+      "antidetect-profile-caps-vs-local-limits",
+      "vendor-lock-in-in-antidetect-tools",
+      "antidetect-browser-for-agencies",
+      "iphey-scores-are-not-verdicts",
+      "linkedin-we-will-not-scrape-inboxes"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-we-built-a-local-antidetect-browser",
+    "related": [
+      "antidetect-browser-without-an-account",
+      "antidetect-profile-caps-vs-local-limits",
+      "vendor-lock-in-in-antidetect-tools",
+      "antidetect-browser-for-agencies",
+      "most-secure-browsers-are-not-antidetect",
+      "tiktok-creator-accounts-you-own",
+      "evaluating-agent-browser-products"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-without-an-account",
+    "related": [
+      "antidetect-profile-caps-vs-local-limits",
+      "vendor-lock-in-in-antidetect-tools",
+      "antidetect-browser-for-agencies",
+      "most-secure-browsers-are-not-antidetect",
+      "antidetect-browser-glossary",
+      "webrtc-ip-leaks",
+      "affiliate-extensions-we-refuse"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-profile-caps-vs-local-limits",
+    "related": [
+      "vendor-lock-in-in-antidetect-tools",
+      "antidetect-browser-for-agencies",
+      "most-secure-browsers-are-not-antidetect",
+      "antidetect-browser-glossary",
+      "when-you-do-not-need-an-antidetect-browser",
+      "affiliate-extensions-we-refuse",
+      "affiliate-networks-and-multiple-brands"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "vendor-lock-in-in-antidetect-tools",
+    "related": [
+      "antidetect-browser-for-agencies",
+      "most-secure-browsers-are-not-antidetect",
+      "antidetect-browser-glossary",
+      "when-you-do-not-need-an-antidetect-browser",
+      "how-to-choose-an-antidetect-browser",
+      "client-hints-and-user-agent-data",
+      "data-residency-is-your-disk"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-for-agencies",
+    "related": [
+      "most-secure-browsers-are-not-antidetect",
+      "antidetect-browser-glossary",
+      "when-you-do-not-need-an-antidetect-browser",
+      "how-to-choose-an-antidetect-browser",
+      "what-is-an-antidetect-browser",
+      "x-login-challenges",
+      "audit-trails-you-cannot-have-without-a-server"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "most-secure-browsers-are-not-antidetect",
+    "related": [
+      "antidetect-browser-glossary",
+      "when-you-do-not-need-an-antidetect-browser",
+      "how-to-choose-an-antidetect-browser",
+      "what-is-an-antidetect-browser",
+      "antidetect-browser-vs-chrome",
+      "agents-and-official-apis",
+      "reddit-ip-blocks-what-we-observe"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "antidetect-browser-glossary",
+    "related": [
+      "when-you-do-not-need-an-antidetect-browser",
+      "how-to-choose-an-antidetect-browser",
+      "what-is-an-antidetect-browser",
+      "antidetect-browser-vs-chrome",
+      "antidetect-browser-vs-vpn",
+      "linkedin-login-challenges",
+      "affiliate-dashboard-isolation"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "when-you-do-not-need-an-antidetect-browser",
+    "related": [
+      "how-to-choose-an-antidetect-browser",
+      "what-is-an-antidetect-browser",
+      "antidetect-browser-vs-chrome",
+      "antidetect-browser-vs-vpn",
+      "antidetect-browser-vs-incognito",
+      "linkedin-sales-navigator-stays-licensed",
+      "geo-matching-proxy-to-fingerprint"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "how-to-choose-an-antidetect-browser",
+    "related": [
+      "what-is-an-antidetect-browser",
+      "antidetect-browser-vs-chrome",
+      "antidetect-browser-vs-vpn",
+      "antidetect-browser-vs-incognito",
+      "best-antidetect-browsers-local-vs-cloud",
+      "export-and-import-cookies",
+      "checking-exit-ip-before-launch"
+    ],
+    "category": "/blog/category/antidetect-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-is-device-fingerprinting",
+    "related": [
+      "client-hints-and-user-agent-data",
+      "timezone-must-match-the-proxy",
+      "deep-tell-coverage",
+      "testing-a-fingerprint-before-work",
+      "new-fingerprint-same-folder",
+      "selenium-webdriver-flags",
+      "agencies-and-local-vaults"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-is-browser-fingerprinting",
+    "related": [
+      "timezone-must-match-the-proxy",
+      "deep-tell-coverage",
+      "testing-a-fingerprint-before-work",
+      "new-fingerprint-same-folder",
+      "gpu-and-sandbox-flags",
+      "scraping-ethics-we-follow",
+      "payment-and-tax-tabs-stay-in-entity"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "canvas-fingerprinting-on-windows",
+    "related": [
+      "deep-tell-coverage",
+      "testing-a-fingerprint-before-work",
+      "new-fingerprint-same-folder",
+      "gpu-and-sandbox-flags",
+      "fingerprint-stability-across-launches",
+      "instagram-we-will-not-teach-ban-evasion",
+      "if-a-vendor-is-breached"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "webgl-renderer-strings",
+    "related": [
+      "testing-a-fingerprint-before-work",
+      "new-fingerprint-same-folder",
+      "gpu-and-sandbox-flags",
+      "fingerprint-stability-across-launches",
+      "what-is-device-fingerprinting",
+      "bring-your-own-proxy-ethic",
+      "latency-and-profile-feel"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "webrtc-ip-leaks",
+    "related": [
+      "new-fingerprint-same-folder",
+      "gpu-and-sandbox-flags",
+      "fingerprint-stability-across-launches",
+      "what-is-device-fingerprinting",
+      "what-is-browser-fingerprinting",
+      "affiliate-research-rooms",
+      "isolated-profiles-on-one-pc"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "audio-context-fingerprint",
+    "related": [
+      "gpu-and-sandbox-flags",
+      "fingerprint-stability-across-launches",
+      "what-is-device-fingerprinting",
+      "what-is-browser-fingerprinting",
+      "canvas-fingerprinting-on-windows",
+      "stopping-a-profile-cleanly",
+      "facebook-ads-library-research-locally"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "font-enumeration-leaks",
+    "related": [
+      "fingerprint-stability-across-launches",
+      "what-is-device-fingerprinting",
+      "what-is-browser-fingerprinting",
+      "canvas-fingerprinting-on-windows",
+      "webgl-renderer-strings",
+      "instagram-ads-manager-on-windows",
+      "ads-in-the-dashboard-not-in-your-tabs"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "client-rects-and-subpixels",
+    "related": [
+      "what-is-device-fingerprinting",
+      "what-is-browser-fingerprinting",
+      "canvas-fingerprinting-on-windows",
+      "webgl-renderer-strings",
+      "webrtc-ip-leaks",
+      "do-not-share-a-live-profile",
+      "tiktok-and-mobile-proxy-myths"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "hardware-concurrency-and-cores",
+    "related": [
+      "what-is-browser-fingerprinting",
+      "canvas-fingerprinting-on-windows",
+      "webgl-renderer-strings",
+      "webrtc-ip-leaks",
+      "audio-context-fingerprint",
+      "residential-proxies-and-timezone",
+      "instagram-and-residential-exits"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "screen-resolution-coherence",
+    "related": [
+      "canvas-fingerprinting-on-windows",
+      "webgl-renderer-strings",
+      "webrtc-ip-leaks",
+      "audio-context-fingerprint",
+      "font-enumeration-leaks",
+      "cloning-a-profile-safely",
+      "when-you-do-not-need-an-antidetect-browser"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "user-agent-is-not-enough",
+    "related": [
+      "webgl-renderer-strings",
+      "webrtc-ip-leaks",
+      "audio-context-fingerprint",
+      "font-enumeration-leaks",
+      "client-rects-and-subpixels",
+      "running-many-windows-processes",
+      "browser-security-versus-antidetect"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "timezone-language-and-proxy-country",
+    "related": [
+      "webrtc-ip-leaks",
+      "audio-context-fingerprint",
+      "font-enumeration-leaks",
+      "client-rects-and-subpixels",
+      "hardware-concurrency-and-cores",
+      "reddit-api-versus-headed-browsing",
+      "multiple-accounts-on-one-pc"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "battery-and-media-device-ids",
+    "related": [
+      "audio-context-fingerprint",
+      "font-enumeration-leaks",
+      "client-rects-and-subpixels",
+      "hardware-concurrency-and-cores",
+      "screen-resolution-coherence",
+      "webrtc-disabled-still-check-stun",
+      "instagram-scheduling-without-unofficial-helpers"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "webgpu-and-new-fingerprint-surfaces",
+    "related": [
+      "font-enumeration-leaks",
+      "client-rects-and-subpixels",
+      "hardware-concurrency-and-cores",
+      "screen-resolution-coherence",
+      "user-agent-is-not-enough",
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "seed-versus-random-fingerprints",
+    "related": [
+      "client-rects-and-subpixels",
+      "hardware-concurrency-and-cores",
+      "screen-resolution-coherence",
+      "user-agent-is-not-enough",
+      "timezone-language-and-proxy-country",
+      "how-to-test-a-residential-exit",
+      "household-ip-versus-profile-isolation"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "how-we-read-browserleaks",
+    "related": [
+      "hardware-concurrency-and-cores",
+      "screen-resolution-coherence",
+      "user-agent-is-not-enough",
+      "timezone-language-and-proxy-country",
+      "battery-and-media-device-ids",
+      "facebook-and-personal-profiles",
+      "carrier-grade-nat-and-shared-exits"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "creepjs-consistency-checks",
+    "related": [
+      "screen-resolution-coherence",
+      "user-agent-is-not-enough",
+      "timezone-language-and-proxy-country",
+      "battery-and-media-device-ids",
+      "webgpu-and-new-fingerprint-surfaces",
+      "dropshipping-stores-on-one-pc",
+      "x-api-versus-unofficial-helpers"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "pixelscan-consistency",
+    "related": [
+      "user-agent-is-not-enough",
+      "timezone-language-and-proxy-country",
+      "battery-and-media-device-ids",
+      "webgpu-and-new-fingerprint-surfaces",
+      "seed-versus-random-fingerprints",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "persistent-sessions-and-agent-risk"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "iphey-scores-are-not-verdicts",
+    "related": [
+      "timezone-language-and-proxy-country",
+      "battery-and-media-device-ids",
+      "webgpu-and-new-fingerprint-surfaces",
+      "seed-versus-random-fingerprints",
+      "how-we-read-browserleaks",
+      "browser-automation-vs-a-real-profile",
+      "shipping-extensions-per-store"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "browserscan-walkthrough",
+    "related": [
+      "battery-and-media-device-ids",
+      "webgpu-and-new-fingerprint-surfaces",
+      "seed-versus-random-fingerprints",
+      "how-we-read-browserleaks",
+      "creepjs-consistency-checks",
+      "maskwright-is-not-an-agent-runtime-yet",
+      "facebook-and-personal-profiles"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-vpn-alone-fails-fingerprint-tests",
+    "related": [
+      "webgpu-and-new-fingerprint-surfaces",
+      "seed-versus-random-fingerprints",
+      "how-we-read-browserleaks",
+      "creepjs-consistency-checks",
+      "pixelscan-consistency",
+      "mobile-4g-proxies",
+      "two-factor-stays-in-the-real-world"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "client-hints-and-user-agent-data",
+    "related": [
+      "seed-versus-random-fingerprints",
+      "how-we-read-browserleaks",
+      "creepjs-consistency-checks",
+      "pixelscan-consistency",
+      "iphey-scores-are-not-verdicts",
+      "residential-pools-get-tired",
+      "audit-trails-you-cannot-have-without-a-server"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "timezone-must-match-the-proxy",
+    "related": [
+      "how-we-read-browserleaks",
+      "creepjs-consistency-checks",
+      "pixelscan-consistency",
+      "iphey-scores-are-not-verdicts",
+      "browserscan-walkthrough",
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "deep-tell-coverage",
+    "related": [
+      "creepjs-consistency-checks",
+      "pixelscan-consistency",
+      "iphey-scores-are-not-verdicts",
+      "browserscan-walkthrough",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "when-not-to-open-a-profile",
+      "antidetect-browser-for-windows"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "testing-a-fingerprint-before-work",
+    "related": [
+      "pixelscan-consistency",
+      "iphey-scores-are-not-verdicts",
+      "browserscan-walkthrough",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "client-hints-and-user-agent-data",
+      "antidetect-browser-glossary",
+      "two-factor-stays-in-the-real-world"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "new-fingerprint-same-folder",
+    "related": [
+      "iphey-scores-are-not-verdicts",
+      "browserscan-walkthrough",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "client-hints-and-user-agent-data",
+      "timezone-must-match-the-proxy",
+      "tiktok-creator-accounts-you-own",
+      "multiple-accounts-and-the-law"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "gpu-and-sandbox-flags",
+    "related": [
+      "browserscan-walkthrough",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "client-hints-and-user-agent-data",
+      "timezone-must-match-the-proxy",
+      "deep-tell-coverage",
+      "how-accounts-get-linked",
+      "affiliate-dashboard-isolation"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "fingerprint-stability-across-launches",
+    "related": [
+      "why-vpn-alone-fails-fingerprint-tests",
+      "client-hints-and-user-agent-data",
+      "timezone-must-match-the-proxy",
+      "deep-tell-coverage",
+      "testing-a-fingerprint-before-work",
+      "team-features-we-will-not-ship",
+      "tiktok-and-mobile-proxy-myths"
+    ],
+    "category": "/blog/category/browser-fingerprinting",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "browser-automation-vs-a-real-profile",
+    "related": [
+      "headed-vs-headless-detection",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "window-sync-and-rpa-we-will-not-ship",
+      "official-apis-versus-ui-bots",
+      "debugging-ports-and-operator-risk",
+      "instagram-content-research-without-mixing-jars",
+      "playwright-for-pages-you-own"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "playwright-and-real-browser-profiles",
+    "related": [
+      "ai-agents-in-a-browser-they-do-not-own",
+      "window-sync-and-rpa-we-will-not-ship",
+      "official-apis-versus-ui-bots",
+      "debugging-ports-and-operator-risk",
+      "keyboard-timing-packs-are-theater",
+      "profile-encryption-at-rest",
+      "when-you-do-not-need-an-antidetect-browser"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "puppeteer-stealth-is-not-a-profile",
+    "related": [
+      "window-sync-and-rpa-we-will-not-ship",
+      "official-apis-versus-ui-bots",
+      "debugging-ports-and-operator-risk",
+      "keyboard-timing-packs-are-theater",
+      "batch-launch-is-not-a-farm",
+      "residential-proxies-and-timezone",
+      "facebook-page-roles-not-cookie-dumps"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "selenium-webdriver-flags",
+    "related": [
+      "official-apis-versus-ui-bots",
+      "debugging-ports-and-operator-risk",
+      "keyboard-timing-packs-are-theater",
+      "batch-launch-is-not-a-farm",
+      "automation-ethics-we-follow",
+      "linkedin-recruiter-workflows",
+      "affiliate-locale-is-not-a-proxy-trick"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "headed-vs-headless-detection",
+    "related": [
+      "debugging-ports-and-operator-risk",
+      "keyboard-timing-packs-are-theater",
+      "batch-launch-is-not-a-farm",
+      "automation-ethics-we-follow",
+      "when-to-use-a-bot-account",
+      "authorized-accounts-only",
+      "sticky-residential-for-logins"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "ai-agents-in-a-browser-they-do-not-own",
+    "related": [
+      "keyboard-timing-packs-are-theater",
+      "batch-launch-is-not-a-farm",
+      "automation-ethics-we-follow",
+      "when-to-use-a-bot-account",
+      "local-scripts-outside-work-rooms",
+      "webrtc-disabled-still-check-stun",
+      "mobile-versus-residential"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "window-sync-and-rpa-we-will-not-ship",
+    "related": [
+      "batch-launch-is-not-a-farm",
+      "automation-ethics-we-follow",
+      "when-to-use-a-bot-account",
+      "local-scripts-outside-work-rooms",
+      "captcha-solvers-are-not-research",
+      "x-we-will-not-farm-engagement",
+      "facebook-login-checkpoints"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "official-apis-versus-ui-bots",
+    "related": [
+      "automation-ethics-we-follow",
+      "when-to-use-a-bot-account",
+      "local-scripts-outside-work-rooms",
+      "captcha-solvers-are-not-research",
+      "playwright-vs-puppeteer-vs-selenium",
+      "multiple-accounts-and-the-law",
+      "dropshipping-stores-on-one-pc"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "debugging-ports-and-operator-risk",
+    "related": [
+      "when-to-use-a-bot-account",
+      "local-scripts-outside-work-rooms",
+      "captcha-solvers-are-not-research",
+      "playwright-vs-puppeteer-vs-selenium",
+      "browser-automation-vs-a-real-profile",
+      "multiple-accounts-and-the-law",
+      "webrtc-ip-leaks"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "keyboard-timing-packs-are-theater",
+    "related": [
+      "local-scripts-outside-work-rooms",
+      "captcha-solvers-are-not-research",
+      "playwright-vs-puppeteer-vs-selenium",
+      "browser-automation-vs-a-real-profile",
+      "playwright-and-real-browser-profiles",
+      "platform-roles-versus-extra-logins",
+      "cookie-jars-are-not-optional"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "batch-launch-is-not-a-farm",
+    "related": [
+      "captcha-solvers-are-not-research",
+      "playwright-vs-puppeteer-vs-selenium",
+      "browser-automation-vs-a-real-profile",
+      "playwright-and-real-browser-profiles",
+      "puppeteer-stealth-is-not-a-profile",
+      "creepjs-consistency-checks",
+      "x-we-will-not-farm-engagement"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "automation-ethics-we-follow",
+    "related": [
+      "playwright-vs-puppeteer-vs-selenium",
+      "browser-automation-vs-a-real-profile",
+      "playwright-and-real-browser-profiles",
+      "puppeteer-stealth-is-not-a-profile",
+      "selenium-webdriver-flags",
+      "residential-pools-get-tired",
+      "tiktok-ads-manager-isolation"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "when-to-use-a-bot-account",
+    "related": [
+      "browser-automation-vs-a-real-profile",
+      "playwright-and-real-browser-profiles",
+      "puppeteer-stealth-is-not-a-profile",
+      "selenium-webdriver-flags",
+      "headed-vs-headless-detection",
+      "facebook-catalogs-and-cookies",
+      "do-not-share-a-live-profile"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "local-scripts-outside-work-rooms",
+    "related": [
+      "playwright-and-real-browser-profiles",
+      "puppeteer-stealth-is-not-a-profile",
+      "selenium-webdriver-flags",
+      "headed-vs-headless-detection",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "why-we-dropped-bandwidth-sharing"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "captcha-solvers-are-not-research",
+    "related": [
+      "puppeteer-stealth-is-not-a-profile",
+      "selenium-webdriver-flags",
+      "headed-vs-headless-detection",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "window-sync-and-rpa-we-will-not-ship",
+      "platform-roles-beat-shared-vaults",
+      "antidetect-browser-for-windows"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "playwright-vs-puppeteer-vs-selenium",
+    "related": [
+      "selenium-webdriver-flags",
+      "headed-vs-headless-detection",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "window-sync-and-rpa-we-will-not-ship",
+      "official-apis-versus-ui-bots",
+      "canvas-fingerprinting-on-windows",
+      "x-login-challenges"
+    ],
+    "category": "/blog/category/browser-automation",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "multiple-accounts-on-one-pc",
+    "related": [
+      "cloning-a-profile-safely",
+      "naming-profiles-without-leaking",
+      "folders-and-tags-for-operators",
+      "when-not-to-open-a-profile",
+      "first-profile-checklist",
+      "reddit-ip-blocks-what-we-observe",
+      "facebook-business-manager-isolation"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "one-machine-many-identities",
+    "related": [
+      "naming-profiles-without-leaking",
+      "folders-and-tags-for-operators",
+      "when-not-to-open-a-profile",
+      "first-profile-checklist",
+      "platform-roles-versus-extra-logins",
+      "tiktok-device-checks-we-can-see",
+      "playwright-and-real-browser-profiles"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "isolated-profiles-on-one-pc",
+    "related": [
+      "folders-and-tags-for-operators",
+      "when-not-to-open-a-profile",
+      "first-profile-checklist",
+      "platform-roles-versus-extra-logins",
+      "two-factor-stays-in-the-real-world",
+      "user-agent-honesty-in-research",
+      "linkedin-warm-sessions-mean-calendars"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cookie-jars-are-not-optional",
+    "related": [
+      "when-not-to-open-a-profile",
+      "first-profile-checklist",
+      "platform-roles-versus-extra-logins",
+      "two-factor-stays-in-the-real-world",
+      "authorized-accounts-only",
+      "dns-leaks-on-windows",
+      "screen-resolution-coherence"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "do-not-share-a-live-profile",
+    "related": [
+      "first-profile-checklist",
+      "platform-roles-versus-extra-logins",
+      "two-factor-stays-in-the-real-world",
+      "authorized-accounts-only",
+      "how-accounts-get-linked",
+      "windows-first-on-purpose",
+      "tiktok-device-checks-we-can-see"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloning-a-profile-safely",
+    "related": [
+      "platform-roles-versus-extra-logins",
+      "two-factor-stays-in-the-real-world",
+      "authorized-accounts-only",
+      "how-accounts-get-linked",
+      "household-ip-versus-profile-isolation",
+      "camoufox-and-firefox-antidetect-notes",
+      "antidetect-browser-vs-incognito"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "naming-profiles-without-leaking",
+    "related": [
+      "two-factor-stays-in-the-real-world",
+      "authorized-accounts-only",
+      "how-accounts-get-linked",
+      "household-ip-versus-profile-isolation",
+      "multiple-accounts-and-the-law",
+      "tiktok-and-cloud-phones-are-not-us",
+      "personal-data-and-collection"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "folders-and-tags-for-operators",
+    "related": [
+      "authorized-accounts-only",
+      "how-accounts-get-linked",
+      "household-ip-versus-profile-isolation",
+      "multiple-accounts-and-the-law",
+      "multiple-accounts-on-one-pc",
+      "facebook-research-vs-operations",
+      "backing-up-the-store"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "when-not-to-open-a-profile",
+    "related": [
+      "how-accounts-get-linked",
+      "household-ip-versus-profile-isolation",
+      "multiple-accounts-and-the-law",
+      "multiple-accounts-on-one-pc",
+      "one-machine-many-identities",
+      "how-we-read-browserleaks",
+      "affiliate-research-rooms"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "first-profile-checklist",
+    "related": [
+      "household-ip-versus-profile-isolation",
+      "multiple-accounts-and-the-law",
+      "multiple-accounts-on-one-pc",
+      "one-machine-many-identities",
+      "isolated-profiles-on-one-pc",
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "keyboard-timing-packs-are-theater"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "platform-roles-versus-extra-logins",
+    "related": [
+      "multiple-accounts-and-the-law",
+      "multiple-accounts-on-one-pc",
+      "one-machine-many-identities",
+      "isolated-profiles-on-one-pc",
+      "cookie-jars-are-not-optional",
+      "reddit-api-versus-headed-browsing",
+      "anti-bot-pages-and-official-channels"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "two-factor-stays-in-the-real-world",
+    "related": [
+      "multiple-accounts-on-one-pc",
+      "one-machine-many-identities",
+      "isolated-profiles-on-one-pc",
+      "cookie-jars-are-not-optional",
+      "do-not-share-a-live-profile",
+      "tiktok-business-center-hygiene",
+      "instagram-meta-business-suite-isolation"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "authorized-accounts-only",
+    "related": [
+      "one-machine-many-identities",
+      "isolated-profiles-on-one-pc",
+      "cookie-jars-are-not-optional",
+      "do-not-share-a-live-profile",
+      "cloning-a-profile-safely",
+      "reddit-research-versus-automation",
+      "linkedin-recruiter-workflows"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "how-accounts-get-linked",
+    "related": [
+      "isolated-profiles-on-one-pc",
+      "cookie-jars-are-not-optional",
+      "do-not-share-a-live-profile",
+      "cloning-a-profile-safely",
+      "naming-profiles-without-leaking",
+      "tiktok-creator-accounts-you-own",
+      "webgl-renderer-strings"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "household-ip-versus-profile-isolation",
+    "related": [
+      "cookie-jars-are-not-optional",
+      "do-not-share-a-live-profile",
+      "cloning-a-profile-safely",
+      "naming-profiles-without-leaking",
+      "folders-and-tags-for-operators",
+      "platform-roles-beat-shared-vaults",
+      "shared-residential-subnets"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "multiple-accounts-and-the-law",
+    "related": [
+      "do-not-share-a-live-profile",
+      "cloning-a-profile-safely",
+      "naming-profiles-without-leaking",
+      "folders-and-tags-for-operators",
+      "when-not-to-open-a-profile",
+      "instagram-and-shared-device-signals",
+      "reddit-ipv6-leaks"
+    ],
+    "category": "/blog/category/multiple-accounts",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-business-accounts-on-a-local-profile",
+    "related": [
+      "instagram-content-research-without-mixing-jars",
+      "instagram-ads-manager-on-windows",
+      "instagram-login-challenges-what-they-mean",
+      "instagram-creator-vs-business-rooms",
+      "instagram-and-shared-device-signals",
+      "tiktok-web-versus-the-app",
+      "vendor-lock-in-in-antidetect-tools"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-cookies-and-session-hygiene",
+    "related": [
+      "instagram-ads-manager-on-windows",
+      "instagram-login-challenges-what-they-mean",
+      "instagram-creator-vs-business-rooms",
+      "instagram-and-shared-device-signals",
+      "instagram-scheduling-without-unofficial-helpers",
+      "linkedin-personal-vs-work-rooms",
+      "how-antidetect-browsers-work"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-meta-business-suite-isolation",
+    "related": [
+      "instagram-login-challenges-what-they-mean",
+      "instagram-creator-vs-business-rooms",
+      "instagram-and-shared-device-signals",
+      "instagram-scheduling-without-unofficial-helpers",
+      "instagram-brand-safety-on-one-pc",
+      "linkedin-sales-navigator-stays-licensed",
+      "account-management-on-a-local-browser"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-and-residential-exits",
+    "related": [
+      "instagram-creator-vs-business-rooms",
+      "instagram-and-shared-device-signals",
+      "instagram-scheduling-without-unofficial-helpers",
+      "instagram-brand-safety-on-one-pc",
+      "instagram-we-will-not-teach-ban-evasion",
+      "user-agent-honesty-in-research",
+      "facebook-we-will-not-recycle-business-managers"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-content-research-without-mixing-jars",
+    "related": [
+      "instagram-and-shared-device-signals",
+      "instagram-scheduling-without-unofficial-helpers",
+      "instagram-brand-safety-on-one-pc",
+      "instagram-we-will-not-teach-ban-evasion",
+      "instagram-business-accounts-on-a-local-profile",
+      "public-pages-slowly",
+      "team-features-we-will-not-ship"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-ads-manager-on-windows",
+    "related": [
+      "instagram-scheduling-without-unofficial-helpers",
+      "instagram-brand-safety-on-one-pc",
+      "instagram-we-will-not-teach-ban-evasion",
+      "instagram-business-accounts-on-a-local-profile",
+      "instagram-cookies-and-session-hygiene",
+      "affiliate-reporting-hygiene",
+      "most-secure-browsers-are-not-antidetect"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-login-challenges-what-they-mean",
+    "related": [
+      "instagram-brand-safety-on-one-pc",
+      "instagram-we-will-not-teach-ban-evasion",
+      "instagram-business-accounts-on-a-local-profile",
+      "instagram-cookies-and-session-hygiene",
+      "instagram-meta-business-suite-isolation",
+      "how-to-choose-an-antidetect-browser",
+      "tiktok-timezone-and-region"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-creator-vs-business-rooms",
+    "related": [
+      "instagram-we-will-not-teach-ban-evasion",
+      "instagram-business-accounts-on-a-local-profile",
+      "instagram-cookies-and-session-hygiene",
+      "instagram-meta-business-suite-isolation",
+      "instagram-and-residential-exits",
+      "linkedin-company-pages-on-one-pc",
+      "mobile-4g-proxies"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-and-shared-device-signals",
+    "related": [
+      "instagram-business-accounts-on-a-local-profile",
+      "instagram-cookies-and-session-hygiene",
+      "instagram-meta-business-suite-isolation",
+      "instagram-and-residential-exits",
+      "instagram-content-research-without-mixing-jars",
+      "ipv6-leaks-we-still-see",
+      "cloud-agent-browsers-hold-your-cookies"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-scheduling-without-unofficial-helpers",
+    "related": [
+      "instagram-cookies-and-session-hygiene",
+      "instagram-meta-business-suite-isolation",
+      "instagram-and-residential-exits",
+      "instagram-content-research-without-mixing-jars",
+      "instagram-ads-manager-on-windows",
+      "geo-matching-proxy-to-fingerprint",
+      "scraping-behind-login-is-not-research"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-brand-safety-on-one-pc",
+    "related": [
+      "instagram-meta-business-suite-isolation",
+      "instagram-and-residential-exits",
+      "instagram-content-research-without-mixing-jars",
+      "instagram-ads-manager-on-windows",
+      "instagram-login-challenges-what-they-mean",
+      "importing-local-storage",
+      "playwright-for-pages-you-own"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "instagram-we-will-not-teach-ban-evasion",
+    "related": [
+      "instagram-and-residential-exits",
+      "instagram-content-research-without-mixing-jars",
+      "instagram-ads-manager-on-windows",
+      "instagram-login-challenges-what-they-mean",
+      "instagram-creator-vs-business-rooms",
+      "reddit-ipv6-leaks",
+      "dns-leaks-on-windows"
+    ],
+    "category": "/blog/category/instagram",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-web-versus-the-app",
+    "related": [
+      "tiktok-business-center-hygiene",
+      "tiktok-device-checks-we-can-see",
+      "tiktok-and-cloud-phones-are-not-us",
+      "tiktok-creator-accounts-you-own",
+      "tiktok-pixel-and-cookie-bleed",
+      "seed-versus-random-fingerprints"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-ads-manager-isolation",
+    "related": [
+      "tiktok-device-checks-we-can-see",
+      "tiktok-and-cloud-phones-are-not-us",
+      "tiktok-creator-accounts-you-own",
+      "tiktok-pixel-and-cookie-bleed",
+      "tiktok-login-challenges",
+      "importing-local-storage",
+      "antidetect-profile-caps-vs-local-limits"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-and-mobile-proxy-myths",
+    "related": [
+      "tiktok-and-cloud-phones-are-not-us",
+      "tiktok-creator-accounts-you-own",
+      "tiktok-pixel-and-cookie-bleed",
+      "tiktok-login-challenges",
+      "tiktok-we-will-not-teach-shadowban-tricks",
+      "window-sync-and-rpa-we-will-not-ship",
+      "instagram-we-will-not-teach-ban-evasion"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-research-rooms",
+    "related": [
+      "tiktok-creator-accounts-you-own",
+      "tiktok-pixel-and-cookie-bleed",
+      "tiktok-login-challenges",
+      "tiktok-we-will-not-teach-shadowban-tricks",
+      "tiktok-web-versus-the-app",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "seed-versus-random-fingerprints"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-timezone-and-region",
+    "related": [
+      "tiktok-pixel-and-cookie-bleed",
+      "tiktok-login-challenges",
+      "tiktok-we-will-not-teach-shadowban-tricks",
+      "tiktok-web-versus-the-app",
+      "tiktok-ads-manager-isolation",
+      "data-residency-is-your-disk",
+      "affiliate-locale-is-not-a-proxy-trick"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-business-center-hygiene",
+    "related": [
+      "tiktok-login-challenges",
+      "tiktok-we-will-not-teach-shadowban-tricks",
+      "tiktok-web-versus-the-app",
+      "tiktok-ads-manager-isolation",
+      "tiktok-and-mobile-proxy-myths",
+      "reddit-research-versus-automation",
+      "canvas-fingerprinting-on-windows"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-device-checks-we-can-see",
+    "related": [
+      "tiktok-we-will-not-teach-shadowban-tricks",
+      "tiktok-web-versus-the-app",
+      "tiktok-ads-manager-isolation",
+      "tiktok-and-mobile-proxy-myths",
+      "tiktok-research-rooms",
+      "what-is-an-antidetect-browser",
+      "when-you-do-not-need-an-antidetect-browser"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-and-cloud-phones-are-not-us",
+    "related": [
+      "tiktok-web-versus-the-app",
+      "tiktok-ads-manager-isolation",
+      "tiktok-and-mobile-proxy-myths",
+      "tiktok-research-rooms",
+      "tiktok-timezone-and-region",
+      "debugging-ports-and-operator-risk",
+      "how-to-choose-an-antidetect-browser"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-creator-accounts-you-own",
+    "related": [
+      "tiktok-ads-manager-isolation",
+      "tiktok-and-mobile-proxy-myths",
+      "tiktok-research-rooms",
+      "tiktok-timezone-and-region",
+      "tiktok-business-center-hygiene",
+      "bring-your-own-proxy-ethic",
+      "payment-and-tax-tabs-stay-in-entity"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-pixel-and-cookie-bleed",
+    "related": [
+      "tiktok-and-mobile-proxy-myths",
+      "tiktok-research-rooms",
+      "tiktok-timezone-and-region",
+      "tiktok-business-center-hygiene",
+      "tiktok-device-checks-we-can-see",
+      "user-agent-honesty-in-research",
+      "youtube-ads-manager-isolation"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-login-challenges",
+    "related": [
+      "tiktok-research-rooms",
+      "tiktok-timezone-and-region",
+      "tiktok-business-center-hygiene",
+      "tiktok-device-checks-we-can-see",
+      "tiktok-and-cloud-phones-are-not-us",
+      "seed-versus-random-fingerprints",
+      "affiliate-self-clicks-are-fraud"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tiktok-we-will-not-teach-shadowban-tricks",
+    "related": [
+      "tiktok-timezone-and-region",
+      "tiktok-business-center-hygiene",
+      "tiktok-device-checks-we-can-see",
+      "tiktok-and-cloud-phones-are-not-us",
+      "tiktok-creator-accounts-you-own",
+      "timezone-must-match-the-proxy",
+      "headed-vs-headless-detection"
+    ],
+    "category": "/blog/category/tiktok",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-sessions-on-a-local-profile",
+    "related": [
+      "reddit-old-cookies-new-ip",
+      "reddit-community-work-for-brands",
+      "reddit-api-versus-headed-browsing",
+      "reddit-ip-blocks-what-we-observe",
+      "reddit-and-shared-exits",
+      "linkedin-and-automation-tools-we-refuse",
+      "how-to-test-a-residential-exit"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-and-shared-exits",
+    "related": [
+      "reddit-community-work-for-brands",
+      "reddit-api-versus-headed-browsing",
+      "reddit-ip-blocks-what-we-observe",
+      "reddit-sessions-on-a-local-profile",
+      "reddit-moderation-accounts",
+      "proxy-plus-cookies",
+      "residential-versus-datacenter-proxies"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-moderation-accounts",
+    "related": [
+      "reddit-api-versus-headed-browsing",
+      "reddit-ip-blocks-what-we-observe",
+      "reddit-sessions-on-a-local-profile",
+      "reddit-and-shared-exits",
+      "reddit-ads-manager-isolation",
+      "ipv6-leaks-we-still-see",
+      "creepjs-consistency-checks"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-ads-manager-isolation",
+    "related": [
+      "reddit-ip-blocks-what-we-observe",
+      "reddit-sessions-on-a-local-profile",
+      "reddit-and-shared-exits",
+      "reddit-moderation-accounts",
+      "reddit-research-versus-automation",
+      "residential-proxies-we-do-not-sell",
+      "webrtc-ip-leaks"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-research-versus-automation",
+    "related": [
+      "reddit-sessions-on-a-local-profile",
+      "reddit-and-shared-exits",
+      "reddit-moderation-accounts",
+      "reddit-ads-manager-isolation",
+      "reddit-ipv6-leaks",
+      "proxy-auth-formats",
+      "official-apis-versus-headed-collection"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-ipv6-leaks",
+    "related": [
+      "reddit-and-shared-exits",
+      "reddit-moderation-accounts",
+      "reddit-ads-manager-isolation",
+      "reddit-research-versus-automation",
+      "reddit-old-cookies-new-ip",
+      "gpu-and-sandbox-flags",
+      "proxy-plus-cookies"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-old-cookies-new-ip",
+    "related": [
+      "reddit-moderation-accounts",
+      "reddit-ads-manager-isolation",
+      "reddit-research-versus-automation",
+      "reddit-ipv6-leaks",
+      "reddit-community-work-for-brands",
+      "windows-first-on-purpose",
+      "webrtc-ip-leaks"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-community-work-for-brands",
+    "related": [
+      "reddit-ads-manager-isolation",
+      "reddit-research-versus-automation",
+      "reddit-ipv6-leaks",
+      "reddit-old-cookies-new-ip",
+      "reddit-api-versus-headed-browsing",
+      "keyboard-timing-packs-are-theater",
+      "tiktok-pixel-and-cookie-bleed"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-api-versus-headed-browsing",
+    "related": [
+      "reddit-research-versus-automation",
+      "reddit-ipv6-leaks",
+      "reddit-old-cookies-new-ip",
+      "reddit-community-work-for-brands",
+      "reddit-ip-blocks-what-we-observe",
+      "customer-data-never-in-research",
+      "debugging-ports-and-operator-risk"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "reddit-ip-blocks-what-we-observe",
+    "related": [
+      "reddit-ipv6-leaks",
+      "reddit-old-cookies-new-ip",
+      "reddit-community-work-for-brands",
+      "reddit-api-versus-headed-browsing",
+      "reddit-sessions-on-a-local-profile",
+      "x-and-shared-device-tells",
+      "facebook-page-roles-not-cookie-dumps"
+    ],
+    "category": "/blog/category/reddit",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-company-pages-on-one-pc",
+    "related": [
+      "linkedin-login-challenges",
+      "linkedin-personal-vs-work-rooms",
+      "linkedin-we-will-not-scrape-inboxes",
+      "linkedin-warm-sessions-mean-calendars",
+      "linkedin-sales-navigator-stays-licensed",
+      "facebook-ads-account-limits-are-business-facts",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-warm-sessions-mean-calendars",
+    "related": [
+      "linkedin-personal-vs-work-rooms",
+      "linkedin-we-will-not-scrape-inboxes",
+      "linkedin-company-pages-on-one-pc",
+      "linkedin-sales-navigator-stays-licensed",
+      "linkedin-and-automation-tools-we-refuse",
+      "platform-roles-beat-shared-vaults",
+      "batch-launch-is-not-a-farm"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-sales-navigator-stays-licensed",
+    "related": [
+      "linkedin-we-will-not-scrape-inboxes",
+      "linkedin-company-pages-on-one-pc",
+      "linkedin-warm-sessions-mean-calendars",
+      "linkedin-and-automation-tools-we-refuse",
+      "linkedin-recruiter-workflows",
+      "keyboard-timing-packs-are-theater",
+      "cloud-agent-browsers-hold-your-cookies"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-and-automation-tools-we-refuse",
+    "related": [
+      "linkedin-company-pages-on-one-pc",
+      "linkedin-warm-sessions-mean-calendars",
+      "linkedin-sales-navigator-stays-licensed",
+      "linkedin-recruiter-workflows",
+      "linkedin-research-on-public-pages",
+      "latency-and-profile-feel",
+      "vendor-lock-in-in-antidetect-tools"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-recruiter-workflows",
+    "related": [
+      "linkedin-warm-sessions-mean-calendars",
+      "linkedin-sales-navigator-stays-licensed",
+      "linkedin-and-automation-tools-we-refuse",
+      "linkedin-research-on-public-pages",
+      "linkedin-ads-manager-isolation",
+      "first-profile-checklist",
+      "downloads-folder-discipline"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-research-on-public-pages",
+    "related": [
+      "linkedin-sales-navigator-stays-licensed",
+      "linkedin-and-automation-tools-we-refuse",
+      "linkedin-recruiter-workflows",
+      "linkedin-ads-manager-isolation",
+      "linkedin-login-challenges",
+      "facebook-ads-library-research-locally",
+      "cloud-browser-risk"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-ads-manager-isolation",
+    "related": [
+      "linkedin-and-automation-tools-we-refuse",
+      "linkedin-recruiter-workflows",
+      "linkedin-research-on-public-pages",
+      "linkedin-login-challenges",
+      "linkedin-personal-vs-work-rooms",
+      "folders-and-tags-for-operators",
+      "facebook-login-checkpoints"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-login-challenges",
+    "related": [
+      "linkedin-recruiter-workflows",
+      "linkedin-research-on-public-pages",
+      "linkedin-ads-manager-isolation",
+      "linkedin-personal-vs-work-rooms",
+      "linkedin-we-will-not-scrape-inboxes",
+      "affiliate-networks-and-multiple-brands",
+      "residential-versus-vpn"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-personal-vs-work-rooms",
+    "related": [
+      "linkedin-research-on-public-pages",
+      "linkedin-ads-manager-isolation",
+      "linkedin-login-challenges",
+      "linkedin-we-will-not-scrape-inboxes",
+      "linkedin-company-pages-on-one-pc",
+      "youtube-and-google-account-clusters",
+      "why-vpn-alone-fails-fingerprint-tests"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "linkedin-we-will-not-scrape-inboxes",
+    "related": [
+      "linkedin-ads-manager-isolation",
+      "linkedin-login-challenges",
+      "linkedin-personal-vs-work-rooms",
+      "linkedin-company-pages-on-one-pc",
+      "linkedin-warm-sessions-mean-calendars",
+      "new-fingerprint-same-folder",
+      "antidetect-browser-vs-vpn"
+    ],
+    "category": "/blog/category/linkedin",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-ads-library-research-locally",
+    "related": [
+      "facebook-login-checkpoints",
+      "facebook-commerce-manager",
+      "facebook-page-roles-not-cookie-dumps",
+      "facebook-ads-account-limits-are-business-facts",
+      "facebook-catalogs-and-cookies",
+      "offline-operator-days",
+      "tiktok-research-rooms"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-business-manager-isolation",
+    "related": [
+      "facebook-commerce-manager",
+      "facebook-page-roles-not-cookie-dumps",
+      "facebook-ads-account-limits-are-business-facts",
+      "facebook-catalogs-and-cookies",
+      "facebook-research-vs-operations",
+      "browser-security-versus-antidetect",
+      "sharing-profiles-is-sharing-cookies"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-pixels-stay-in-brand-rooms",
+    "related": [
+      "facebook-page-roles-not-cookie-dumps",
+      "facebook-ads-account-limits-are-business-facts",
+      "facebook-catalogs-and-cookies",
+      "facebook-research-vs-operations",
+      "facebook-and-residential-exits",
+      "screen-resolution-coherence",
+      "affiliate-reporting-hygiene"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-and-personal-profiles",
+    "related": [
+      "facebook-ads-account-limits-are-business-facts",
+      "facebook-catalogs-and-cookies",
+      "facebook-research-vs-operations",
+      "facebook-and-residential-exits",
+      "facebook-we-will-not-recycle-business-managers",
+      "we-will-not-hide-a-scraper",
+      "audio-context-fingerprint"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-login-checkpoints",
+    "related": [
+      "facebook-catalogs-and-cookies",
+      "facebook-research-vs-operations",
+      "facebook-and-residential-exits",
+      "facebook-we-will-not-recycle-business-managers",
+      "facebook-ads-library-research-locally",
+      "audio-context-fingerprint",
+      "iphey-scores-are-not-verdicts"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-commerce-manager",
+    "related": [
+      "facebook-research-vs-operations",
+      "facebook-and-residential-exits",
+      "facebook-we-will-not-recycle-business-managers",
+      "facebook-ads-library-research-locally",
+      "facebook-business-manager-isolation",
+      "browser-security-versus-antidetect",
+      "mobile-proxies-we-do-not-bundle"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-page-roles-not-cookie-dumps",
+    "related": [
+      "facebook-and-residential-exits",
+      "facebook-we-will-not-recycle-business-managers",
+      "facebook-ads-library-research-locally",
+      "facebook-business-manager-isolation",
+      "facebook-pixels-stay-in-brand-rooms",
+      "affiliate-extensions-we-refuse",
+      "debugging-ports-and-operator-risk"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-ads-account-limits-are-business-facts",
+    "related": [
+      "facebook-we-will-not-recycle-business-managers",
+      "facebook-ads-library-research-locally",
+      "facebook-business-manager-isolation",
+      "facebook-pixels-stay-in-brand-rooms",
+      "facebook-and-personal-profiles",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "naming-profiles-without-leaking"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-catalogs-and-cookies",
+    "related": [
+      "facebook-ads-library-research-locally",
+      "facebook-business-manager-isolation",
+      "facebook-pixels-stay-in-brand-rooms",
+      "facebook-and-personal-profiles",
+      "facebook-login-checkpoints",
+      "tiktok-creator-accounts-you-own",
+      "we-will-not-hide-a-scraper"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-research-vs-operations",
+    "related": [
+      "facebook-business-manager-isolation",
+      "facebook-pixels-stay-in-brand-rooms",
+      "facebook-and-personal-profiles",
+      "facebook-login-checkpoints",
+      "facebook-commerce-manager",
+      "affiliate-extensions-we-refuse",
+      "residential-proxy-ethics"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-and-residential-exits",
+    "related": [
+      "facebook-pixels-stay-in-brand-rooms",
+      "facebook-and-personal-profiles",
+      "facebook-login-checkpoints",
+      "facebook-commerce-manager",
+      "facebook-page-roles-not-cookie-dumps",
+      "free-antidetect-browser-what-free-means",
+      "residential-versus-datacenter-proxies"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-we-will-not-recycle-business-managers",
+    "related": [
+      "facebook-and-personal-profiles",
+      "facebook-login-checkpoints",
+      "facebook-commerce-manager",
+      "facebook-page-roles-not-cookie-dumps",
+      "facebook-ads-account-limits-are-business-facts",
+      "tool-use-without-wearing-a-store-login",
+      "gpu-and-sandbox-flags"
+    ],
+    "category": "/blog/category/facebook",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-brand-accounts-on-a-local-profile",
+    "related": [
+      "x-and-shared-device-tells",
+      "x-login-challenges",
+      "x-creator-accounts-you-own",
+      "x-we-will-not-farm-engagement",
+      "x-ads-manager-isolation",
+      "ipv6-leaks-we-still-see"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-ads-manager-isolation",
+    "related": [
+      "x-login-challenges",
+      "x-creator-accounts-you-own",
+      "x-we-will-not-farm-engagement",
+      "x-brand-accounts-on-a-local-profile",
+      "x-api-versus-unofficial-helpers",
+      "instagram-creator-vs-business-rooms",
+      "cookie-jars-are-not-optional"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-api-versus-unofficial-helpers",
+    "related": [
+      "x-creator-accounts-you-own",
+      "x-we-will-not-farm-engagement",
+      "x-brand-accounts-on-a-local-profile",
+      "x-ads-manager-isolation",
+      "x-research-rooms",
+      "facebook-business-manager-isolation",
+      "proxy-plus-cookies"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-research-rooms",
+    "related": [
+      "x-we-will-not-farm-engagement",
+      "x-brand-accounts-on-a-local-profile",
+      "x-ads-manager-isolation",
+      "x-api-versus-unofficial-helpers",
+      "x-and-shared-device-tells",
+      "why-we-stay-local",
+      "proxy-plus-cookies"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-and-shared-device-tells",
+    "related": [
+      "x-brand-accounts-on-a-local-profile",
+      "x-ads-manager-isolation",
+      "x-api-versus-unofficial-helpers",
+      "x-research-rooms",
+      "x-login-challenges",
+      "linkedin-research-on-public-pages",
+      "linkedin-personal-vs-work-rooms"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-login-challenges",
+    "related": [
+      "x-ads-manager-isolation",
+      "x-api-versus-unofficial-helpers",
+      "x-research-rooms",
+      "x-and-shared-device-tells",
+      "x-creator-accounts-you-own",
+      "shipping-extensions-per-store",
+      "rate-limits-are-not-a-puzzle"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-creator-accounts-you-own",
+    "related": [
+      "x-api-versus-unofficial-helpers",
+      "x-research-rooms",
+      "x-and-shared-device-tells",
+      "x-login-challenges",
+      "x-we-will-not-farm-engagement",
+      "scraping-behind-login-is-not-research",
+      "dropshipping-ads-accounts"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "x-we-will-not-farm-engagement",
+    "related": [
+      "x-research-rooms",
+      "x-and-shared-device-tells",
+      "x-login-challenges",
+      "x-creator-accounts-you-own",
+      "x-brand-accounts-on-a-local-profile",
+      "authorized-accounts-only",
+      "instagram-meta-business-suite-isolation"
+    ],
+    "category": "/blog/category/x",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-studio-on-a-local-profile",
+    "related": [
+      "youtube-login-challenges",
+      "youtube-analytics-exports",
+      "youtube-we-will-not-fake-watch-time",
+      "youtube-brand-accounts",
+      "youtube-ads-manager-isolation",
+      "extensions-inside-a-profile",
+      "antidetect-browser-vs-vpn"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-brand-accounts",
+    "related": [
+      "youtube-analytics-exports",
+      "youtube-we-will-not-fake-watch-time",
+      "youtube-studio-on-a-local-profile",
+      "youtube-ads-manager-isolation",
+      "youtube-and-google-account-clusters",
+      "browser-automation-vs-a-real-profile",
+      "antidetect-browser-for-agencies"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-ads-manager-isolation",
+    "related": [
+      "youtube-we-will-not-fake-watch-time",
+      "youtube-studio-on-a-local-profile",
+      "youtube-brand-accounts",
+      "youtube-and-google-account-clusters",
+      "youtube-research-without-mixing",
+      "mobile-proxies-and-tiktok-myths",
+      "keyboard-timing-packs-are-theater"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-and-google-account-clusters",
+    "related": [
+      "youtube-studio-on-a-local-profile",
+      "youtube-brand-accounts",
+      "youtube-ads-manager-isolation",
+      "youtube-research-without-mixing",
+      "youtube-login-challenges",
+      "facebook-catalogs-and-cookies",
+      "what-is-browser-fingerprinting"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-research-without-mixing",
+    "related": [
+      "youtube-brand-accounts",
+      "youtube-ads-manager-isolation",
+      "youtube-and-google-account-clusters",
+      "youtube-login-challenges",
+      "youtube-analytics-exports",
+      "user-agent-is-not-enough",
+      "update-channel-habits"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-login-challenges",
+    "related": [
+      "youtube-ads-manager-isolation",
+      "youtube-and-google-account-clusters",
+      "youtube-research-without-mixing",
+      "youtube-analytics-exports",
+      "youtube-we-will-not-fake-watch-time",
+      "residential-proxy-ethics",
+      "profile-encryption-at-rest"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-analytics-exports",
+    "related": [
+      "youtube-and-google-account-clusters",
+      "youtube-research-without-mixing",
+      "youtube-login-challenges",
+      "youtube-we-will-not-fake-watch-time",
+      "youtube-studio-on-a-local-profile",
+      "malware-and-unwanted-kits",
+      "dropshipping-stores-on-one-pc"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "youtube-we-will-not-fake-watch-time",
+    "related": [
+      "youtube-research-without-mixing",
+      "youtube-login-challenges",
+      "youtube-analytics-exports",
+      "youtube-studio-on-a-local-profile",
+      "youtube-brand-accounts",
+      "instagram-we-will-not-teach-ban-evasion",
+      "most-secure-browsers-are-not-antidetect"
+    ],
+    "category": "/blog/category/youtube",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "proxies-in-an-antidetect-browser",
+    "related": [
+      "checking-exit-ip-before-launch",
+      "geo-matching-proxy-to-fingerprint",
+      "sticky-sessions-and-why-they-matter",
+      "rotating-proxies-break-logins",
+      "proxy-auth-formats",
+      "what-is-an-antidetect-browser",
+      "tiktok-creator-accounts-you-own"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "socks5-versus-http-proxies",
+    "related": [
+      "geo-matching-proxy-to-fingerprint",
+      "sticky-sessions-and-why-they-matter",
+      "rotating-proxies-break-logins",
+      "proxy-auth-formats",
+      "dns-leaks-on-windows",
+      "affiliate-reporting-hygiene",
+      "chromium-core-in-an-antidetect-browser"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "bring-your-own-proxy-ethic",
+    "related": [
+      "sticky-sessions-and-why-they-matter",
+      "rotating-proxies-break-logins",
+      "proxy-auth-formats",
+      "dns-leaks-on-windows",
+      "ipv6-leaks-we-still-see",
+      "testing-a-fingerprint-before-work",
+      "residential-proxy-ethics"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "checking-exit-ip-before-launch",
+    "related": [
+      "rotating-proxies-break-logins",
+      "proxy-auth-formats",
+      "dns-leaks-on-windows",
+      "ipv6-leaks-we-still-see",
+      "webrtc-disabled-still-check-stun",
+      "when-not-to-open-a-profile",
+      "tiktok-business-center-hygiene"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "geo-matching-proxy-to-fingerprint",
+    "related": [
+      "proxy-auth-formats",
+      "dns-leaks-on-windows",
+      "ipv6-leaks-we-still-see",
+      "webrtc-disabled-still-check-stun",
+      "proxy-plus-cookies",
+      "storing-research-files",
+      "why-we-dropped-bandwidth-sharing"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "sticky-sessions-and-why-they-matter",
+    "related": [
+      "dns-leaks-on-windows",
+      "ipv6-leaks-we-still-see",
+      "webrtc-disabled-still-check-stun",
+      "proxy-plus-cookies",
+      "latency-and-profile-feel",
+      "linkedin-sales-navigator-stays-licensed",
+      "youtube-brand-accounts"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "rotating-proxies-break-logins",
+    "related": [
+      "ipv6-leaks-we-still-see",
+      "webrtc-disabled-still-check-stun",
+      "proxy-plus-cookies",
+      "latency-and-profile-feel",
+      "failover-when-a-peer-dies",
+      "team-features-we-will-not-ship",
+      "youtube-studio-on-a-local-profile"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "proxy-auth-formats",
+    "related": [
+      "webrtc-disabled-still-check-stun",
+      "proxy-plus-cookies",
+      "latency-and-profile-feel",
+      "failover-when-a-peer-dies",
+      "provider-templates-without-lock-in",
+      "tiktok-pixel-and-cookie-bleed",
+      "folders-and-tags-for-operators"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "dns-leaks-on-windows",
+    "related": [
+      "proxy-plus-cookies",
+      "latency-and-profile-feel",
+      "failover-when-a-peer-dies",
+      "provider-templates-without-lock-in",
+      "what-we-refuse-to-log-about-proxies",
+      "first-profile-checklist",
+      "mobile-sticky-sessions"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "ipv6-leaks-we-still-see",
+    "related": [
+      "latency-and-profile-feel",
+      "failover-when-a-peer-dies",
+      "provider-templates-without-lock-in",
+      "what-we-refuse-to-log-about-proxies",
+      "proxies-in-an-antidetect-browser",
+      "reddit-moderation-accounts",
+      "when-not-to-open-a-profile"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "webrtc-disabled-still-check-stun",
+    "related": [
+      "failover-when-a-peer-dies",
+      "provider-templates-without-lock-in",
+      "what-we-refuse-to-log-about-proxies",
+      "proxies-in-an-antidetect-browser",
+      "socks5-versus-http-proxies",
+      "tool-use-without-wearing-a-store-login",
+      "two-factor-stays-in-the-real-world"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "proxy-plus-cookies",
+    "related": [
+      "provider-templates-without-lock-in",
+      "what-we-refuse-to-log-about-proxies",
+      "proxies-in-an-antidetect-browser",
+      "socks5-versus-http-proxies",
+      "bring-your-own-proxy-ethic",
+      "dropshipping-ads-accounts",
+      "youtube-and-google-account-clusters"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "latency-and-profile-feel",
+    "related": [
+      "what-we-refuse-to-log-about-proxies",
+      "proxies-in-an-antidetect-browser",
+      "socks5-versus-http-proxies",
+      "bring-your-own-proxy-ethic",
+      "checking-exit-ip-before-launch",
+      "antidetect-browser-without-an-account",
+      "official-apis-versus-headed-collection"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "failover-when-a-peer-dies",
+    "related": [
+      "proxies-in-an-antidetect-browser",
+      "socks5-versus-http-proxies",
+      "bring-your-own-proxy-ethic",
+      "checking-exit-ip-before-launch",
+      "geo-matching-proxy-to-fingerprint",
+      "multiple-accounts-on-one-pc",
+      "sharing-profiles-is-sharing-cookies"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "provider-templates-without-lock-in",
+    "related": [
+      "socks5-versus-http-proxies",
+      "bring-your-own-proxy-ethic",
+      "checking-exit-ip-before-launch",
+      "geo-matching-proxy-to-fingerprint",
+      "sticky-sessions-and-why-they-matter",
+      "browser-security-versus-antidetect",
+      "tiktok-pixel-and-cookie-bleed"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-we-refuse-to-log-about-proxies",
+    "related": [
+      "bring-your-own-proxy-ethic",
+      "checking-exit-ip-before-launch",
+      "geo-matching-proxy-to-fingerprint",
+      "sticky-sessions-and-why-they-matter",
+      "rotating-proxies-break-logins",
+      "linkedin-and-automation-tools-we-refuse",
+      "supplier-portals-vs-retail-admin"
+    ],
+    "category": "/blog/category/proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-are-residential-proxies",
+    "related": [
+      "sticky-residential-for-logins",
+      "residential-pools-get-tired",
+      "residential-versus-vpn",
+      "how-to-test-a-residential-exit",
+      "residential-proxies-and-timezone",
+      "x-brand-accounts-on-a-local-profile",
+      "scraping-behind-login-is-not-research"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-versus-datacenter-proxies",
+    "related": [
+      "residential-pools-get-tired",
+      "residential-versus-vpn",
+      "how-to-test-a-residential-exit",
+      "residential-proxies-and-timezone",
+      "shared-residential-subnets",
+      "local-agents-on-windows",
+      "tiktok-ads-manager-isolation"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "isp-proxies-on-a-local-profile",
+    "related": [
+      "residential-versus-vpn",
+      "how-to-test-a-residential-exit",
+      "residential-proxies-and-timezone",
+      "shared-residential-subnets",
+      "residential-proxies-we-do-not-sell",
+      "hardware-concurrency-and-cores",
+      "affiliate-dashboard-isolation"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-proxy-ethics",
+    "related": [
+      "how-to-test-a-residential-exit",
+      "residential-proxies-and-timezone",
+      "shared-residential-subnets",
+      "residential-proxies-we-do-not-sell",
+      "residential-proxies-for-storefronts",
+      "team-features-we-will-not-ship",
+      "robots-txt-and-terms-come-first"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "sticky-residential-for-logins",
+    "related": [
+      "residential-proxies-and-timezone",
+      "shared-residential-subnets",
+      "residential-proxies-we-do-not-sell",
+      "residential-proxies-for-storefronts",
+      "what-are-residential-proxies",
+      "mobile-proxies-for-ads-research",
+      "x-creator-accounts-you-own"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-pools-get-tired",
+    "related": [
+      "shared-residential-subnets",
+      "residential-proxies-we-do-not-sell",
+      "residential-proxies-for-storefronts",
+      "what-are-residential-proxies",
+      "residential-versus-datacenter-proxies",
+      "tiktok-timezone-and-region",
+      "x-and-shared-device-tells"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-versus-vpn",
+    "related": [
+      "residential-proxies-we-do-not-sell",
+      "residential-proxies-for-storefronts",
+      "what-are-residential-proxies",
+      "residential-versus-datacenter-proxies",
+      "isp-proxies-on-a-local-profile",
+      "iphey-scores-are-not-verdicts",
+      "why-we-do-not-sync-profiles"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "how-to-test-a-residential-exit",
+    "related": [
+      "residential-proxies-for-storefronts",
+      "what-are-residential-proxies",
+      "residential-versus-datacenter-proxies",
+      "isp-proxies-on-a-local-profile",
+      "residential-proxy-ethics",
+      "public-pages-slowly",
+      "cloning-a-profile-safely"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-proxies-and-timezone",
+    "related": [
+      "what-are-residential-proxies",
+      "residential-versus-datacenter-proxies",
+      "isp-proxies-on-a-local-profile",
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "proxy-auth-formats"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "shared-residential-subnets",
+    "related": [
+      "residential-versus-datacenter-proxies",
+      "isp-proxies-on-a-local-profile",
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins",
+      "residential-pools-get-tired",
+      "timezone-language-and-proxy-country",
+      "keyboard-timing-packs-are-theater"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-proxies-we-do-not-sell",
+    "related": [
+      "isp-proxies-on-a-local-profile",
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins",
+      "residential-pools-get-tired",
+      "residential-versus-vpn",
+      "dropshipping-ads-accounts",
+      "how-accounts-get-linked"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "residential-proxies-for-storefronts",
+    "related": [
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins",
+      "residential-pools-get-tired",
+      "residential-versus-vpn",
+      "how-to-test-a-residential-exit",
+      "x-research-rooms",
+      "facebook-and-personal-profiles"
+    ],
+    "category": "/blog/category/residential-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-are-mobile-proxies",
+    "related": [
+      "mobile-4g-proxies",
+      "mobile-proxy-versus-cloud-phone",
+      "mobile-asn-on-a-desktop-browser",
+      "mobile-proxies-and-tiktok-myths",
+      "mobile-sticky-sessions",
+      "instagram-business-accounts-on-a-local-profile",
+      "reddit-community-work-for-brands"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-4g-proxies",
+    "related": [
+      "mobile-proxy-versus-cloud-phone",
+      "mobile-asn-on-a-desktop-browser",
+      "mobile-proxies-and-tiktok-myths",
+      "mobile-sticky-sessions",
+      "mobile-versus-residential",
+      "linkedin-warm-sessions-mean-calendars",
+      "agents-and-official-apis"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-proxy-versus-cloud-phone",
+    "related": [
+      "mobile-asn-on-a-desktop-browser",
+      "mobile-proxies-and-tiktok-myths",
+      "mobile-sticky-sessions",
+      "mobile-versus-residential",
+      "carrier-grade-nat-and-shared-exits",
+      "stopping-a-profile-cleanly",
+      "rotating-proxies-break-logins"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-asn-on-a-desktop-browser",
+    "related": [
+      "mobile-proxies-and-tiktok-myths",
+      "mobile-sticky-sessions",
+      "mobile-versus-residential",
+      "carrier-grade-nat-and-shared-exits",
+      "mobile-proxies-for-ads-research",
+      "why-we-dropped-bandwidth-sharing",
+      "residential-proxies-and-timezone"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-proxies-and-tiktok-myths",
+    "related": [
+      "mobile-sticky-sessions",
+      "mobile-versus-residential",
+      "carrier-grade-nat-and-shared-exits",
+      "mobile-proxies-for-ads-research",
+      "mobile-proxies-we-do-not-bundle",
+      "what-leaves-this-machine",
+      "why-we-dropped-bandwidth-sharing"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-sticky-sessions",
+    "related": [
+      "mobile-versus-residential",
+      "carrier-grade-nat-and-shared-exits",
+      "mobile-proxies-for-ads-research",
+      "mobile-proxies-we-do-not-bundle",
+      "what-are-mobile-proxies",
+      "official-apis-versus-ui-bots",
+      "screen-resolution-coherence"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-versus-residential",
+    "related": [
+      "carrier-grade-nat-and-shared-exits",
+      "mobile-proxies-for-ads-research",
+      "mobile-proxies-we-do-not-bundle",
+      "what-are-mobile-proxies",
+      "mobile-4g-proxies",
+      "linkedin-we-will-not-scrape-inboxes",
+      "reddit-old-cookies-new-ip"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "carrier-grade-nat-and-shared-exits",
+    "related": [
+      "mobile-proxies-for-ads-research",
+      "mobile-proxies-we-do-not-bundle",
+      "what-are-mobile-proxies",
+      "mobile-4g-proxies",
+      "mobile-proxy-versus-cloud-phone",
+      "user-agent-is-not-enough",
+      "what-is-an-antidetect-browser"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-proxies-for-ads-research",
+    "related": [
+      "mobile-proxies-we-do-not-bundle",
+      "what-are-mobile-proxies",
+      "mobile-4g-proxies",
+      "mobile-proxy-versus-cloud-phone",
+      "mobile-asn-on-a-desktop-browser",
+      "free-antidetect-browser-what-free-means",
+      "household-ip-versus-profile-isolation"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "mobile-proxies-we-do-not-bundle",
+    "related": [
+      "what-are-mobile-proxies",
+      "mobile-4g-proxies",
+      "mobile-proxy-versus-cloud-phone",
+      "mobile-asn-on-a-desktop-browser",
+      "mobile-proxies-and-tiktok-myths",
+      "what-leaves-this-machine",
+      "keyboard-timing-packs-are-theater"
+    ],
+    "category": "/blog/category/mobile-proxies",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-ops-without-a-cloud-seat",
+    "related": [
+      "affiliate-dashboard-isolation",
+      "affiliate-self-clicks-are-fraud",
+      "affiliate-locale-is-not-a-proxy-trick",
+      "affiliate-creatives-and-download-trays",
+      "affiliate-networks-and-multiple-brands",
+      "what-is-a-cloud-browser",
+      "antidetect-browser-glossary"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-disclosures-still-apply",
+    "related": [
+      "affiliate-self-clicks-are-fraud",
+      "affiliate-locale-is-not-a-proxy-trick",
+      "affiliate-creatives-and-download-trays",
+      "affiliate-networks-and-multiple-brands",
+      "affiliate-research-rooms",
+      "cloud-agent-browsers-hold-your-cookies",
+      "webrtc-ip-leaks"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-dashboard-isolation",
+    "related": [
+      "affiliate-locale-is-not-a-proxy-trick",
+      "affiliate-creatives-and-download-trays",
+      "affiliate-networks-and-multiple-brands",
+      "affiliate-research-rooms",
+      "affiliate-extensions-we-refuse",
+      "cloud-phones-are-not-our-product",
+      "tool-use-without-wearing-a-store-login"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-self-clicks-are-fraud",
+    "related": [
+      "affiliate-creatives-and-download-trays",
+      "affiliate-networks-and-multiple-brands",
+      "affiliate-research-rooms",
+      "affiliate-extensions-we-refuse",
+      "affiliate-reporting-hygiene",
+      "sharing-profiles-is-sharing-cookies",
+      "proxy-auth-formats"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-locale-is-not-a-proxy-trick",
+    "related": [
+      "affiliate-networks-and-multiple-brands",
+      "affiliate-research-rooms",
+      "affiliate-extensions-we-refuse",
+      "affiliate-reporting-hygiene",
+      "affiliate-ops-without-a-cloud-seat",
+      "household-ip-versus-profile-isolation",
+      "screen-resolution-coherence"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-creatives-and-download-trays",
+    "related": [
+      "affiliate-research-rooms",
+      "affiliate-extensions-we-refuse",
+      "affiliate-reporting-hygiene",
+      "affiliate-ops-without-a-cloud-seat",
+      "affiliate-disclosures-still-apply",
+      "timezone-language-and-proxy-country",
+      "headed-vs-headless-detection"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-networks-and-multiple-brands",
+    "related": [
+      "affiliate-extensions-we-refuse",
+      "affiliate-reporting-hygiene",
+      "affiliate-ops-without-a-cloud-seat",
+      "affiliate-disclosures-still-apply",
+      "affiliate-dashboard-isolation",
+      "x-research-rooms",
+      "how-antidetect-browsers-work"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-research-rooms",
+    "related": [
+      "affiliate-reporting-hygiene",
+      "affiliate-ops-without-a-cloud-seat",
+      "affiliate-disclosures-still-apply",
+      "affiliate-dashboard-isolation",
+      "affiliate-self-clicks-are-fraud",
+      "rotating-proxies-break-logins",
+      "why-we-built-a-local-antidetect-browser"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-extensions-we-refuse",
+    "related": [
+      "affiliate-ops-without-a-cloud-seat",
+      "affiliate-disclosures-still-apply",
+      "affiliate-dashboard-isolation",
+      "affiliate-self-clicks-are-fraud",
+      "affiliate-locale-is-not-a-proxy-trick",
+      "proxies-in-an-antidetect-browser",
+      "linkedin-research-on-public-pages"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "affiliate-reporting-hygiene",
+    "related": [
+      "affiliate-disclosures-still-apply",
+      "affiliate-dashboard-isolation",
+      "affiliate-self-clicks-are-fraud",
+      "affiliate-locale-is-not-a-proxy-trick",
+      "affiliate-creatives-and-download-trays",
+      "extensions-inside-a-profile",
+      "instagram-ads-manager-on-windows"
+    ],
+    "category": "/blog/category/affiliate-marketing",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "dropshipping-stores-on-one-pc",
+    "related": [
+      "product-research-in-a-cold-room",
+      "payment-and-tax-tabs-stay-in-entity",
+      "shipping-extensions-per-store",
+      "customer-data-never-in-research",
+      "dropshipping-ads-accounts",
+      "x-we-will-not-farm-engagement",
+      "shared-residential-subnets"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "supplier-portals-vs-retail-admin",
+    "related": [
+      "payment-and-tax-tabs-stay-in-entity",
+      "shipping-extensions-per-store",
+      "customer-data-never-in-research",
+      "dropshipping-ads-accounts",
+      "clone-a-store-stencil-not-a-session",
+      "puppeteer-stealth-is-not-a-profile",
+      "sticky-sessions-and-why-they-matter"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "marketplace-one-identity-rules",
+    "related": [
+      "shipping-extensions-per-store",
+      "customer-data-never-in-research",
+      "dropshipping-ads-accounts",
+      "clone-a-store-stencil-not-a-session",
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "screen-resolution-coherence",
+      "residential-proxies-and-timezone"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "product-research-in-a-cold-room",
+    "related": [
+      "customer-data-never-in-research",
+      "dropshipping-ads-accounts",
+      "clone-a-store-stencil-not-a-session",
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "dropshipping-stores-on-one-pc",
+      "malware-and-unwanted-kits",
+      "youtube-login-challenges"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "payment-and-tax-tabs-stay-in-entity",
+    "related": [
+      "dropshipping-ads-accounts",
+      "clone-a-store-stencil-not-a-session",
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin",
+      "isolated-profiles-on-one-pc",
+      "offline-operator-days"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "shipping-extensions-per-store",
+    "related": [
+      "clone-a-store-stencil-not-a-session",
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin",
+      "marketplace-one-identity-rules",
+      "timezone-language-and-proxy-country"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "customer-data-never-in-research",
+    "related": [
+      "dropshipping-we-will-not-multiply-seller-ids",
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin",
+      "marketplace-one-identity-rules",
+      "product-research-in-a-cold-room",
+      "x-login-challenges",
+      "geo-matching-proxy-to-fingerprint"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "dropshipping-ads-accounts",
+    "related": [
+      "dropshipping-stores-on-one-pc",
+      "supplier-portals-vs-retail-admin",
+      "marketplace-one-identity-rules",
+      "product-research-in-a-cold-room",
+      "payment-and-tax-tabs-stay-in-entity",
+      "x-ads-manager-isolation",
+      "chromium-core-in-an-antidetect-browser"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "clone-a-store-stencil-not-a-session",
+    "related": [
+      "supplier-portals-vs-retail-admin",
+      "marketplace-one-identity-rules",
+      "product-research-in-a-cold-room",
+      "payment-and-tax-tabs-stay-in-entity",
+      "shipping-extensions-per-store",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "instagram-meta-business-suite-isolation"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "dropshipping-we-will-not-multiply-seller-ids",
+    "related": [
+      "marketplace-one-identity-rules",
+      "product-research-in-a-cold-room",
+      "payment-and-tax-tabs-stay-in-entity",
+      "shipping-extensions-per-store",
+      "customer-data-never-in-research",
+      "stopping-a-profile-cleanly",
+      "instagram-ads-manager-on-windows"
+    ],
+    "category": "/blog/category/dropshipping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "scraping-ethics-we-follow",
+    "related": [
+      "public-pages-slowly",
+      "rate-limits-are-not-a-puzzle",
+      "captchas-are-a-stop-sign",
+      "user-agent-honesty-in-research",
+      "storing-research-files",
+      "facebook-we-will-not-recycle-business-managers",
+      "most-secure-browsers-are-not-antidetect"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "robots-txt-and-terms-come-first",
+    "related": [
+      "rate-limits-are-not-a-puzzle",
+      "captchas-are-a-stop-sign",
+      "user-agent-honesty-in-research",
+      "storing-research-files",
+      "facebook-ads-library-notes",
+      "battery-and-media-device-ids",
+      "rotating-proxies-break-logins"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "official-apis-versus-headed-collection",
+    "related": [
+      "captchas-are-a-stop-sign",
+      "user-agent-honesty-in-research",
+      "storing-research-files",
+      "facebook-ads-library-notes",
+      "scraping-behind-login-is-not-research",
+      "antidetect-browser-for-agencies",
+      "antidetect-browser-vs-incognito"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "public-pages-slowly",
+    "related": [
+      "user-agent-honesty-in-research",
+      "storing-research-files",
+      "facebook-ads-library-notes",
+      "scraping-behind-login-is-not-research",
+      "playwright-for-pages-you-own",
+      "timezone-language-and-proxy-country",
+      "how-to-test-a-residential-exit"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "rate-limits-are-not-a-puzzle",
+    "related": [
+      "storing-research-files",
+      "facebook-ads-library-notes",
+      "scraping-behind-login-is-not-research",
+      "playwright-for-pages-you-own",
+      "anti-bot-pages-and-official-channels",
+      "screen-resolution-coherence",
+      "reddit-ads-manager-isolation"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "captchas-are-a-stop-sign",
+    "related": [
+      "facebook-ads-library-notes",
+      "scraping-behind-login-is-not-research",
+      "playwright-for-pages-you-own",
+      "anti-bot-pages-and-official-channels",
+      "personal-data-and-collection",
+      "instagram-brand-safety-on-one-pc",
+      "mobile-proxies-and-tiktok-myths"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "user-agent-honesty-in-research",
+    "related": [
+      "scraping-behind-login-is-not-research",
+      "playwright-for-pages-you-own",
+      "anti-bot-pages-and-official-channels",
+      "personal-data-and-collection",
+      "we-will-not-hide-a-scraper",
+      "when-you-do-not-need-an-antidetect-browser",
+      "extensions-inside-a-profile"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "storing-research-files",
+    "related": [
+      "playwright-for-pages-you-own",
+      "anti-bot-pages-and-official-channels",
+      "personal-data-and-collection",
+      "we-will-not-hide-a-scraper",
+      "scraping-ethics-we-follow",
+      "firefox-vs-chromium-antidetect-cores",
+      "one-operator-one-pc"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "facebook-ads-library-notes",
+    "related": [
+      "anti-bot-pages-and-official-channels",
+      "personal-data-and-collection",
+      "we-will-not-hide-a-scraper",
+      "scraping-ethics-we-follow",
+      "robots-txt-and-terms-come-first",
+      "update-channel-habits",
+      "instagram-login-challenges-what-they-mean"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "scraping-behind-login-is-not-research",
+    "related": [
+      "personal-data-and-collection",
+      "we-will-not-hide-a-scraper",
+      "scraping-ethics-we-follow",
+      "robots-txt-and-terms-come-first",
+      "official-apis-versus-headed-collection",
+      "tiktok-login-challenges",
+      "facebook-commerce-manager"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "playwright-for-pages-you-own",
+    "related": [
+      "we-will-not-hide-a-scraper",
+      "scraping-ethics-we-follow",
+      "robots-txt-and-terms-come-first",
+      "official-apis-versus-headed-collection",
+      "public-pages-slowly",
+      "ai-agents-in-a-browser-they-do-not-own",
+      "facebook-commerce-manager"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "anti-bot-pages-and-official-channels",
+    "related": [
+      "scraping-ethics-we-follow",
+      "robots-txt-and-terms-come-first",
+      "official-apis-versus-headed-collection",
+      "public-pages-slowly",
+      "rate-limits-are-not-a-puzzle",
+      "browser-automation-vs-a-real-profile",
+      "instagram-content-research-without-mixing-jars"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "personal-data-and-collection",
+    "related": [
+      "robots-txt-and-terms-come-first",
+      "official-apis-versus-headed-collection",
+      "public-pages-slowly",
+      "rate-limits-are-not-a-puzzle",
+      "captchas-are-a-stop-sign",
+      "instagram-ads-manager-on-windows",
+      "downloads-folder-discipline"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "we-will-not-hide-a-scraper",
+    "related": [
+      "official-apis-versus-headed-collection",
+      "public-pages-slowly",
+      "rate-limits-are-not-a-puzzle",
+      "captchas-are-a-stop-sign",
+      "user-agent-honesty-in-research",
+      "mobile-4g-proxies",
+      "cloud-browser-risk"
+    ],
+    "category": "/blog/category/web-scraping",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "ai-agents-need-a-browser-they-do-not-own",
+    "related": [
+      "maskwright-is-not-an-agent-runtime-yet",
+      "agent-browsers-versus-operator-profiles",
+      "persistent-sessions-and-agent-risk",
+      "tool-use-without-wearing-a-store-login",
+      "local-agents-on-windows",
+      "export-and-import-cookies",
+      "official-apis-versus-ui-bots"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "agent-browsers-versus-operator-profiles",
+    "related": [
+      "ai-agents-need-a-browser-they-do-not-own",
+      "persistent-sessions-and-agent-risk",
+      "tool-use-without-wearing-a-store-login",
+      "local-agents-on-windows",
+      "cloud-agent-browsers-hold-your-cookies",
+      "residential-proxy-ethics",
+      "sticky-residential-for-logins"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "persistent-sessions-and-agent-risk",
+    "related": [
+      "agent-browsers-versus-operator-profiles",
+      "tool-use-without-wearing-a-store-login",
+      "local-agents-on-windows",
+      "cloud-agent-browsers-hold-your-cookies",
+      "agents-and-official-apis",
+      "customer-data-never-in-research",
+      "facebook-login-checkpoints"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "tool-use-without-wearing-a-store-login",
+    "related": [
+      "persistent-sessions-and-agent-risk",
+      "local-agents-on-windows",
+      "cloud-agent-browsers-hold-your-cookies",
+      "agents-and-official-apis",
+      "agents-should-not-impersonate-customers",
+      "instagram-brand-safety-on-one-pc"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "local-agents-on-windows",
+    "related": [
+      "tool-use-without-wearing-a-store-login",
+      "cloud-agent-browsers-hold-your-cookies",
+      "agents-and-official-apis",
+      "agents-should-not-impersonate-customers",
+      "evaluating-agent-browser-products",
+      "importing-local-storage",
+      "folders-and-tags-for-operators"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloud-agent-browsers-hold-your-cookies",
+    "related": [
+      "local-agents-on-windows",
+      "agents-and-official-apis",
+      "agents-should-not-impersonate-customers",
+      "evaluating-agent-browser-products",
+      "maskwright-is-not-an-agent-runtime-yet",
+      "instagram-scheduling-without-unofficial-helpers",
+      "bring-your-own-proxy-ethic"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "agents-and-official-apis",
+    "related": [
+      "cloud-agent-browsers-hold-your-cookies",
+      "agents-should-not-impersonate-customers",
+      "evaluating-agent-browser-products",
+      "maskwright-is-not-an-agent-runtime-yet",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "testing-a-fingerprint-before-work",
+      "facebook-research-vs-operations"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "agents-should-not-impersonate-customers",
+    "related": [
+      "agents-and-official-apis",
+      "evaluating-agent-browser-products",
+      "maskwright-is-not-an-agent-runtime-yet",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "agent-browsers-versus-operator-profiles",
+      "facebook-ads-library-notes",
+      "why-we-refuse-team-seats"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "evaluating-agent-browser-products",
+    "related": [
+      "agents-should-not-impersonate-customers",
+      "maskwright-is-not-an-agent-runtime-yet",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "agent-browsers-versus-operator-profiles",
+      "persistent-sessions-and-agent-risk",
+      "pixelscan-consistency",
+      "cloning-a-profile-safely"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "maskwright-is-not-an-agent-runtime-yet",
+    "related": [
+      "evaluating-agent-browser-products",
+      "ai-agents-need-a-browser-they-do-not-own",
+      "agent-browsers-versus-operator-profiles",
+      "persistent-sessions-and-agent-risk",
+      "tool-use-without-wearing-a-store-login",
+      "mobile-proxies-and-tiktok-myths",
+      "scraping-ethics-we-follow"
+    ],
+    "category": "/blog/category/ai-agents",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "browser-security-versus-antidetect",
+    "related": [
+      "extensions-inside-a-profile",
+      "downloads-folder-discipline",
+      "cookie-hygiene",
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached",
+      "why-vpn-alone-fails-fingerprint-tests",
+      "tiktok-we-will-not-teach-shadowban-tricks"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "profile-encryption-at-rest",
+    "related": [
+      "downloads-folder-discipline",
+      "cookie-hygiene",
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached",
+      "update-channel-habits",
+      "dns-leaks-on-windows",
+      "naming-profiles-without-leaking"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-leaves-this-machine",
+    "related": [
+      "cookie-hygiene",
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached",
+      "update-channel-habits",
+      "malware-and-unwanted-kits",
+      "window-sync-and-rpa-we-will-not-ship",
+      "captcha-solvers-are-not-research"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "privacy-policy-in-practice",
+    "related": [
+      "local-storage-is-a-second-cookie",
+      "if-a-vendor-is-breached",
+      "update-channel-habits",
+      "malware-and-unwanted-kits",
+      "why-we-dropped-bandwidth-sharing",
+      "agent-browsers-versus-operator-profiles",
+      "linkedin-sales-navigator-stays-licensed"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "extensions-inside-a-profile",
+    "related": [
+      "if-a-vendor-is-breached",
+      "update-channel-habits",
+      "malware-and-unwanted-kits",
+      "why-we-dropped-bandwidth-sharing",
+      "browser-security-versus-antidetect",
+      "x-ads-manager-isolation",
+      "vendor-lock-in-in-antidetect-tools"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "downloads-folder-discipline",
+    "related": [
+      "update-channel-habits",
+      "malware-and-unwanted-kits",
+      "why-we-dropped-bandwidth-sharing",
+      "browser-security-versus-antidetect",
+      "profile-encryption-at-rest",
+      "linkedin-personal-vs-work-rooms",
+      "affiliate-disclosures-still-apply"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cookie-hygiene",
+    "related": [
+      "malware-and-unwanted-kits",
+      "why-we-dropped-bandwidth-sharing",
+      "browser-security-versus-antidetect",
+      "profile-encryption-at-rest",
+      "what-leaves-this-machine",
+      "mobile-4g-proxies",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "local-storage-is-a-second-cookie",
+    "related": [
+      "why-we-dropped-bandwidth-sharing",
+      "browser-security-versus-antidetect",
+      "profile-encryption-at-rest",
+      "what-leaves-this-machine",
+      "privacy-policy-in-practice",
+      "tiktok-and-cloud-phones-are-not-us",
+      "how-we-read-browserleaks"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "if-a-vendor-is-breached",
+    "related": [
+      "browser-security-versus-antidetect",
+      "profile-encryption-at-rest",
+      "what-leaves-this-machine",
+      "privacy-policy-in-practice",
+      "extensions-inside-a-profile",
+      "platform-roles-beat-shared-vaults",
+      "timezone-must-match-the-proxy"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "update-channel-habits",
+    "related": [
+      "profile-encryption-at-rest",
+      "what-leaves-this-machine",
+      "privacy-policy-in-practice",
+      "extensions-inside-a-profile",
+      "downloads-folder-discipline",
+      "mobile-versus-residential",
+      "residential-proxy-ethics"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "malware-and-unwanted-kits",
+    "related": [
+      "what-leaves-this-machine",
+      "privacy-policy-in-practice",
+      "extensions-inside-a-profile",
+      "downloads-folder-discipline",
+      "cookie-hygiene",
+      "importing-local-storage",
+      "mobile-4g-proxies"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-we-dropped-bandwidth-sharing",
+    "related": [
+      "privacy-policy-in-practice",
+      "extensions-inside-a-profile",
+      "downloads-folder-discipline",
+      "cookie-hygiene",
+      "local-storage-is-a-second-cookie",
+      "youtube-we-will-not-fake-watch-time",
+      "reddit-api-versus-headed-browsing"
+    ],
+    "category": "/blog/category/browser-security",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "what-is-a-cloud-browser",
+    "related": [
+      "why-we-do-not-sync-profiles",
+      "why-we-stay-local",
+      "rented-androids-and-identity",
+      "cloud-browser-for-automation-tradeoffs",
+      "who-holds-the-cookie-jar",
+      "stopping-a-profile-cleanly",
+      "instagram-content-research-without-mixing-jars"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloud-browser-risk",
+    "related": [
+      "why-we-stay-local",
+      "rented-androids-and-identity",
+      "cloud-browser-for-automation-tradeoffs",
+      "who-holds-the-cookie-jar",
+      "offline-operator-days",
+      "export-and-import-cookies",
+      "x-brand-accounts-on-a-local-profile"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloud-phones-are-not-our-product",
+    "related": [
+      "rented-androids-and-identity",
+      "cloud-browser-for-automation-tradeoffs",
+      "who-holds-the-cookie-jar",
+      "offline-operator-days",
+      "windows-first-on-purpose",
+      "how-antidetect-browsers-work",
+      "instagram-ads-manager-on-windows"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloud-phones-versus-local-windows",
+    "related": [
+      "cloud-browser-for-automation-tradeoffs",
+      "who-holds-the-cookie-jar",
+      "offline-operator-days",
+      "windows-first-on-purpose",
+      "what-is-a-cloud-browser",
+      "profile-encryption-at-rest",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "data-residency-is-your-disk",
+    "related": [
+      "who-holds-the-cookie-jar",
+      "offline-operator-days",
+      "windows-first-on-purpose",
+      "what-is-a-cloud-browser",
+      "cloud-browser-risk",
+      "chromium-core-in-an-antidetect-browser",
+      "antidetect-browser-without-an-account"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-we-do-not-sync-profiles",
+    "related": [
+      "offline-operator-days",
+      "windows-first-on-purpose",
+      "what-is-a-cloud-browser",
+      "cloud-browser-risk",
+      "cloud-phones-are-not-our-product",
+      "x-creator-accounts-you-own",
+      "headed-vs-headless-detection"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-we-stay-local",
+    "related": [
+      "windows-first-on-purpose",
+      "what-is-a-cloud-browser",
+      "cloud-browser-risk",
+      "cloud-phones-are-not-our-product",
+      "cloud-phones-versus-local-windows",
+      "new-fingerprint-same-folder",
+      "what-is-an-antidetect-browser"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "rented-androids-and-identity",
+    "related": [
+      "what-is-a-cloud-browser",
+      "cloud-browser-risk",
+      "cloud-phones-are-not-our-product",
+      "cloud-phones-versus-local-windows",
+      "data-residency-is-your-disk",
+      "agencies-and-local-vaults",
+      "dropshipping-ads-accounts"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "cloud-browser-for-automation-tradeoffs",
+    "related": [
+      "cloud-browser-risk",
+      "cloud-phones-are-not-our-product",
+      "cloud-phones-versus-local-windows",
+      "data-residency-is-your-disk",
+      "why-we-do-not-sync-profiles",
+      "youtube-and-google-account-clusters",
+      "user-agent-is-not-enough"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "who-holds-the-cookie-jar",
+    "related": [
+      "cloud-phones-are-not-our-product",
+      "cloud-phones-versus-local-windows",
+      "data-residency-is-your-disk",
+      "why-we-do-not-sync-profiles",
+      "why-we-stay-local",
+      "linkedin-sales-navigator-stays-licensed",
+      "reddit-community-work-for-brands"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "offline-operator-days",
+    "related": [
+      "cloud-phones-versus-local-windows",
+      "data-residency-is-your-disk",
+      "why-we-do-not-sync-profiles",
+      "why-we-stay-local",
+      "rented-androids-and-identity",
+      "automation-ethics-we-follow",
+      "reddit-api-versus-headed-browsing"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "windows-first-on-purpose",
+    "related": [
+      "data-residency-is-your-disk",
+      "why-we-do-not-sync-profiles",
+      "why-we-stay-local",
+      "rented-androids-and-identity",
+      "cloud-browser-for-automation-tradeoffs",
+      "linkedin-recruiter-workflows",
+      "mobile-4g-proxies"
+    ],
+    "category": "/blog/category/cloud-browsers",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "why-we-refuse-team-seats",
+    "related": [
+      "audit-trails-you-cannot-have-without-a-server",
+      "one-operator-one-pc",
+      "when-a-company-needs-a-different-product",
+      "team-features-we-will-not-ship",
+      "sharing-profiles-is-sharing-cookies",
+      "agents-and-official-apis",
+      "if-a-vendor-is-breached"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "team-features-we-will-not-ship",
+    "related": [
+      "one-operator-one-pc",
+      "when-a-company-needs-a-different-product",
+      "why-we-refuse-team-seats",
+      "sharing-profiles-is-sharing-cookies",
+      "platform-roles-beat-shared-vaults",
+      "youtube-ads-manager-isolation",
+      "facebook-ads-library-research-locally"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "sharing-profiles-is-sharing-cookies",
+    "related": [
+      "when-a-company-needs-a-different-product",
+      "why-we-refuse-team-seats",
+      "team-features-we-will-not-ship",
+      "platform-roles-beat-shared-vaults",
+      "contractor-access-done-right",
+      "captchas-are-a-stop-sign",
+      "carrier-grade-nat-and-shared-exits"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "platform-roles-beat-shared-vaults",
+    "related": [
+      "why-we-refuse-team-seats",
+      "team-features-we-will-not-ship",
+      "sharing-profiles-is-sharing-cookies",
+      "contractor-access-done-right",
+      "agencies-and-local-vaults",
+      "sticky-sessions-and-why-they-matter",
+      "reddit-and-shared-exits"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "contractor-access-done-right",
+    "related": [
+      "team-features-we-will-not-ship",
+      "sharing-profiles-is-sharing-cookies",
+      "platform-roles-beat-shared-vaults",
+      "agencies-and-local-vaults",
+      "do-not-email-a-user-data-folder",
+      "facebook-and-residential-exits",
+      "youtube-research-without-mixing"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "agencies-and-local-vaults",
+    "related": [
+      "sharing-profiles-is-sharing-cookies",
+      "platform-roles-beat-shared-vaults",
+      "contractor-access-done-right",
+      "do-not-email-a-user-data-folder",
+      "audit-trails-you-cannot-have-without-a-server",
+      "selenium-webdriver-flags",
+      "product-research-in-a-cold-room"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "do-not-email-a-user-data-folder",
+    "related": [
+      "platform-roles-beat-shared-vaults",
+      "contractor-access-done-right",
+      "agencies-and-local-vaults",
+      "audit-trails-you-cannot-have-without-a-server",
+      "one-operator-one-pc",
+      "tiktok-and-cloud-phones-are-not-us",
+      "automation-ethics-we-follow"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "audit-trails-you-cannot-have-without-a-server",
+    "related": [
+      "contractor-access-done-right",
+      "agencies-and-local-vaults",
+      "do-not-email-a-user-data-folder",
+      "one-operator-one-pc",
+      "when-a-company-needs-a-different-product",
+      "facebook-login-checkpoints",
+      "fingerprint-stability-across-launches"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "one-operator-one-pc",
+    "related": [
+      "agencies-and-local-vaults",
+      "do-not-email-a-user-data-folder",
+      "audit-trails-you-cannot-have-without-a-server",
+      "when-a-company-needs-a-different-product",
+      "why-we-refuse-team-seats",
+      "facebook-and-personal-profiles",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "when-a-company-needs-a-different-product",
+    "related": [
+      "do-not-email-a-user-data-folder",
+      "audit-trails-you-cannot-have-without-a-server",
+      "one-operator-one-pc",
+      "why-we-refuse-team-seats",
+      "team-features-we-will-not-ship",
+      "mobile-proxies-we-do-not-bundle",
+      "automation-ethics-we-follow"
+    ],
+    "category": "/blog/category/team-collaboration",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "account-management-on-a-local-browser",
+    "related": [
+      "importing-local-storage",
+      "disk-use-and-user-data",
+      "running-many-windows-processes",
+      "no-cloud-sync-means-you-back-up",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "webgl-renderer-strings",
+      "linkedin-recruiter-workflows"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "operator-daily-workflow",
+    "related": [
+      "disk-use-and-user-data",
+      "running-many-windows-processes",
+      "no-cloud-sync-means-you-back-up",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "free-app-owned-ad-slots",
+      "multiple-accounts-and-the-law",
+      "testing-a-fingerprint-before-work"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "stopping-a-profile-cleanly",
+    "related": [
+      "running-many-windows-processes",
+      "no-cloud-sync-means-you-back-up",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "free-app-owned-ad-slots",
+      "first-week-with-maskwright",
+      "when-you-do-not-need-an-antidetect-browser",
+      "creepjs-consistency-checks"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "backing-up-the-store",
+    "related": [
+      "no-cloud-sync-means-you-back-up",
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "free-app-owned-ad-slots",
+      "first-week-with-maskwright",
+      "account-management-on-a-local-browser",
+      "instagram-meta-business-suite-isolation",
+      "geo-matching-proxy-to-fingerprint"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "export-and-import-cookies",
+    "related": [
+      "ads-in-the-dashboard-not-in-your-tabs",
+      "free-app-owned-ad-slots",
+      "first-week-with-maskwright",
+      "account-management-on-a-local-browser",
+      "operator-daily-workflow",
+      "downloads-folder-discipline",
+      "audit-trails-you-cannot-have-without-a-server"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "importing-local-storage",
+    "related": [
+      "free-app-owned-ad-slots",
+      "first-week-with-maskwright",
+      "account-management-on-a-local-browser",
+      "operator-daily-workflow",
+      "stopping-a-profile-cleanly",
+      "residential-versus-datacenter-proxies",
+      "webgpu-and-new-fingerprint-surfaces"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "disk-use-and-user-data",
+    "related": [
+      "first-week-with-maskwright",
+      "account-management-on-a-local-browser",
+      "operator-daily-workflow",
+      "stopping-a-profile-cleanly",
+      "backing-up-the-store",
+      "how-accounts-get-linked",
+      "instagram-login-challenges-what-they-mean"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "running-many-windows-processes",
+    "related": [
+      "account-management-on-a-local-browser",
+      "operator-daily-workflow",
+      "stopping-a-profile-cleanly",
+      "backing-up-the-store",
+      "export-and-import-cookies",
+      "who-holds-the-cookie-jar",
+      "proxies-in-an-antidetect-browser"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "no-cloud-sync-means-you-back-up",
+    "related": [
+      "operator-daily-workflow",
+      "stopping-a-profile-cleanly",
+      "backing-up-the-store",
+      "export-and-import-cookies",
+      "importing-local-storage",
+      "new-fingerprint-same-folder",
+      "maskwright-is-not-an-agent-runtime-yet"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "ads-in-the-dashboard-not-in-your-tabs",
+    "related": [
+      "stopping-a-profile-cleanly",
+      "backing-up-the-store",
+      "export-and-import-cookies",
+      "importing-local-storage",
+      "disk-use-and-user-data",
+      "residential-proxies-for-storefronts",
+      "two-factor-stays-in-the-real-world"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "free-app-owned-ad-slots",
+    "related": [
+      "backing-up-the-store",
+      "export-and-import-cookies",
+      "importing-local-storage",
+      "disk-use-and-user-data",
+      "running-many-windows-processes",
+      "keyboard-timing-packs-are-theater",
+      "folders-and-tags-for-operators"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  },
+  {
+    "slug": "first-week-with-maskwright",
+    "related": [
+      "export-and-import-cookies",
+      "importing-local-storage",
+      "disk-use-and-user-data",
+      "running-many-windows-processes",
+      "no-cloud-sync-means-you-back-up",
+      "contractor-access-done-right",
+      "instagram-and-residential-exits"
+    ],
+    "category": "/blog/category/account-management",
+    "product": [
+      "/download",
+      "/compare"
+    ]
+  }
+]

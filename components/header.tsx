@@ -7,6 +7,7 @@ import { Logo } from "@/components/logo";
 const links = [
   { href: "/#privacy", label: "Privacy" },
   { href: "/#features", label: "Features" },
+  { href: "/blog", label: "Blog" },
   { href: "/compare", label: "Compare" },
   { href: "/download", label: "Download" },
 ];
