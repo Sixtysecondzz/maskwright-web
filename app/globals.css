@@ -70,7 +70,8 @@ body {
   font-family: var(--font-mono), monospace;
 }
 
-/* Film grain so gradients never look like a flat AI template. */
+/* Film grain: static PNG tile. SVG feTurbulence as a full-viewport
+   background crashes unsigned Chromium (STATUS_BREAKPOINT). */
 .grain::after {
   content: "";
   pointer-events: none;
@@ -78,7 +79,8 @@ body {
   inset: 0;
   z-index: 60;
   opacity: 0.04;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-image: url("/grain.png");
+  background-repeat: repeat;
 }
 
 /* Forge ember behind the hero mask. */
