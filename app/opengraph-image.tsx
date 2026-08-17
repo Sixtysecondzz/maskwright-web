@@ -34,7 +34,7 @@ export default function OpenGraphImage() {
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
           <div style={{ fontSize: 62, lineHeight: 1.05, fontWeight: 600, maxWidth: 940 }}>
-            A new identity for every account. All of them on your machine.
+            A new identity for every account.
           </div>
           <div style={{ fontSize: 27, color: "#9ca1a9", maxWidth: 820 }}>
             The private anti-detect browser. Nothing synced, nothing uploaded, 100% free.

@@ -123,9 +123,6 @@ export default function Home() {
             </div>
             <h1 className="display mt-6 text-[2.9rem] leading-[1.02] tracking-[-0.02em] sm:text-[4.1rem]">
               A new identity for every account.
-              <span className="mt-1 block text-muted">
-                All of them stay on your machine.
-              </span>
             </h1>
             <p className="mt-7 max-w-xl text-lg leading-8 text-muted">
               MaskWright forges a separate, believable browser identity for each

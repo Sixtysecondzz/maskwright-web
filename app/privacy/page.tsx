@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Privacy",
   description:
-    "MaskWright is local-first. Profiles stay on your device. Optional ads and update checks only.",
+    "MaskWright is local-first. Profiles stay on your device. Optional update checks and anonymous usage pings only.",
 };
 
 export default function PrivacyPage() {
@@ -36,9 +36,14 @@ export default function PrivacyPage() {
           <h2 className="text-lg font-semibold text-ink">Optional network use</h2>
           <ul className="mt-3 list-disc space-y-2 pl-5">
             <li>
-              Packaged builds may request a remote ads JSON feed (
-              <code className="text-ink">maskwright.com/ads/v1/creatives.json</code>
-              ) to show optional creatives in the UI.
+              Packaged builds may send a small anonymous usage ping to{" "}
+              <code className="text-ink">maskwright.com/api/t</code> when the
+              installer runs, the app opens, a profile starts, or the app is
+              uninstalled. The ping is an event name, app version, and a random
+              install id stored on the device. It does not include profiles,
+              fingerprints, cookies, proxies, or sites you visit. Set{" "}
+              <code className="text-ink">MASKWRIGHT_TELEMETRY=0</code> to turn
+              it off.
             </li>
             <li>
               Packaged builds may check{" "}
@@ -51,8 +56,9 @@ export default function PrivacyPage() {
             </li>
           </ul>
           <p className="mt-3">
-            These network calls are for ads and updates only. They are not used
-            to upload your local profiles or account credentials to MaskWright.
+            These network calls are for updates and anonymous product counts
+            only. They are not used to upload your local profiles or account
+            credentials to MaskWright.
           </p>
         </section>
 

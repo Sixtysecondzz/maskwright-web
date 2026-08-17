@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
+import { WINDOWS_SETUP_NAME } from "@/lib/download";
 
 export const metadata: Metadata = {
   title: "Download",
   description: "Download MaskWright for Windows. Local multi-profile anti-detect browser.",
 };
-
-const WIN_SETUP = "https://updates.maskwright.com/MaskWright-Setup-0.1.0.exe";
 
 export default function DownloadPage() {
   return (
@@ -26,10 +25,10 @@ export default function DownloadPage() {
       </p>
 
       <a
-        href={WIN_SETUP}
+        href="/api/download"
         className="mt-8 inline-flex rounded-full bg-accent px-6 py-3 text-sm font-semibold text-accent-ink hover:bg-accent-hover"
       >
-        Download MaskWright-Setup-0.1.0.exe
+        Download {WINDOWS_SETUP_NAME}
       </a>
 
       <div className="mt-12 rounded-2xl border border-line bg-panel p-6">
@@ -42,8 +41,9 @@ export default function DownloadPage() {
           </li>
           <li>You bring proxies. MaskWright does not sell IP transit.</li>
           <li>
-            Packaged builds may check this site for ads creatives and the updates host
-            for new versions. They do not upload your profiles.
+            Packaged builds may send an anonymous usage ping (install, daily
+            active, uninstall) and check the updates host for new versions.
+            They do not upload your profiles.
           </li>
         </ul>
       </div>
