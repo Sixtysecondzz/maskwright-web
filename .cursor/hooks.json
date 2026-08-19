@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "hooks": {
+    "stop": [
+      {
+        "command": "node .cursor/hooks/commit-published-on-stop.mjs",
+        "timeout": 120
+      }
+    ]
+  }
+}
